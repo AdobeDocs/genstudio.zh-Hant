@@ -2,9 +2,9 @@
 title: 資產詳細資訊
 description: GenStudio會使用豐富的中繼資料儲存已核准的內容，以供搜尋和效能追蹤。
 feature: Attributes, Assets
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '402'
 ht-degree: 1%
 
 ---
@@ -46,8 +46,8 @@ GenStudio會以豐富的中繼資料儲存已核准的內容，以便探索性�
 | ------------- | ----------- | -------- | -------- |
 | 行銷活動名稱（專案名稱） | 透過資產擷取及儲存的預設中繼資料 | Y | N |
 | 品牌名稱 | [[!DNL Brands]](/help/user-guide/guidelines/brands.md)已新增至GenStudio並發佈以供使用 | Y | N |
-| 產品 | [[!DNL Products]](/help/user-guide/guidelines/products.md)已新增至GenStudio以供使用 | Y | N |
-| 角色 | [[!DNL Personas]](/help/user-guide/guidelines/personas.md)已新增至GenStudio以供使用 | Y | N |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md)已新增至GenStudio以供使用 | Y | N |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md)已新增至GenStudio以供使用 | Y | N |
 | 頻道 | 資產使用的GenStudio內容型別，例如電子郵件和中繼廣告 | Y | N |
 | 時間範圍 | 其使用之資產的時間範圍，例如季度、季別、年度等。 範例： `Winter 2023` | Y | N |
 | 地區 | 使用資產的區域。 範例： `North America`， `APAC`， `Italy` | Y | N |
@@ -66,7 +66,7 @@ GenStudio會以豐富的中繼資料儲存已核准的內容，以便探索性�
 
 >[!TIP]
 >
->您也可以從[!DNL Insights]檢視資產詳細資訊。 「深入分析」提供各體驗的使用狀況統計資料和效能內容。 在&#x200B;_[!DNL Insights]_中，選取&#x200B;**[!UICONTROL Assets]**區段。
+>您也可以從[!DNL Insights]檢視資產詳細資訊。 [!DNL Insights]提供各體驗的使用狀況統計資料和效能內容。 在&#x200B;_[!DNL Insights]_中，選取&#x200B;**[!UICONTROL Assets]**區段。
 
 <!-- ## History
 

@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '890'
+source-wordcount: '887'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ ht-degree: 0%
 **若要選擇中繼廣告範本**：
 
 1. 在&#x200B;_[!DNL Create]_中，按一下_「您今天要建立什麼？」中的&#x200B;**[!UICONTROL 中繼廣告]**_節。
-1. 在&#x200B;_選取範本_&#x200B;檢視中，將&#x200B;_管道_&#x200B;篩選器切換為&#x200B;**[!UICONTROL 中繼廣告]**。
 1. 使用&#x200B;_篩選器_&#x200B;旁的搜尋選項來尋找特定的中繼廣告範本。
-1. 按一下以選取範本，或切換選取多個範本，然後按一下[使用]。**** 如果您選取多個範本，則產生變體時，所有選取的範本都將用於提供您選項。
+1. 按一下以選取範本，然後按一下&#x200B;**[!UICONTROL 使用]**。
 
    此動作會開啟畫布，這是內容建立的中心樞紐。
 
@@ -53,7 +52,7 @@ ht-degree: 0%
 
 ## 輸入提示
 
-選取准則後，使用自然語言製作提示，以開始為您新的中繼廣告體驗產生內容。
+選取准則後，使用自然語言製作提示，以開始為您新的中繼廣告體驗產生內容。 詳細提示產生比模糊或不描述性提示更高的品質輸出。
 
 請參閱[撰寫有效提示](/help/user-guide/effective-prompts.md)，深入瞭解撰寫提示的相關資訊。
 
@@ -76,6 +75,7 @@ ht-degree: 0%
 
 **若要修訂產生的變體**：
 
+* **若要編輯中繼廣告草稿名稱**，請按一下畫布頂端的&#x200B;_未命名的草稿_&#x200B;標題，然後輸入新標題。
 * **若要手動編輯中繼廣告**，請連按兩下任何廣告片段（例如主旨列、標題或內文）並視需要編輯。
 
   主旨列和標題只需按一下即可編輯，而標題和正文則需要按兩下。
@@ -93,7 +93,7 @@ ht-degree: 0%
 1. 若要取得需要改進的片段與指引的詳細資訊，請按一下&#x200B;**[!UICONTROL 檢閱]** _或_，按一下頂端功能表列中的品牌驗證圖示，以開啟&#x200B;[_品牌驗證面板_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)。
 
 1. 切換每個廣告，瞭解如何改善產生的內容，使其更加與品牌保持一致。
-1. [手動修訂電子郵件](#revise-generated-emails)，以確保您的廣告與品牌緊密一致。
+1. [手動修訂廣告](#revise-generated-meta-ads)，確保您的廣告與品牌緊密一致。
 
 請參閱[品牌驗證](/help/user-guide/guidelines/brand-validation.md)。
 

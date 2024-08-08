@@ -3,9 +3,9 @@ title: 開始使用GenStudio
 description: 瞭解如何設定GenStudio以產生新的品牌一致行銷內容。
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
-source-git-commit: 2501d1e36f76d1534a735b9147fb42f762a665e8
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '1066'
+source-wordcount: '1049'
 ht-degree: 1%
 
 ---
@@ -74,7 +74,7 @@ GenStudio是建立、評估及管理行銷體驗的綜合平台，可反映並�
 
 ### 管理員
 
-管理員使用者可建立使用者，並將其指派給任何GenStudio支援的角色。 他們可以視需要指派新許可權給個別建立者或共同作業人員。 他們最關鍵的工作是完成初始入門任務，讓您的組織準備部署GenStudio。
+**管理員**&#x200B;會建立使用者，並將使用者指派給任何GenStudio支援的角色。 他們可以視需要指派新許可權給個別建立者或共同作業人員。 他們最關鍵的工作是完成初始入門任務，讓您的組織準備部署GenStudio。
 
 下表顯示預設的GenStudio系統管理員許可權：
 
@@ -91,9 +91,9 @@ GenStudio是建立、評估及管理行銷體驗的綜合平台，可反映並�
 
 ## 準備GenStudio以產生內容
 
-系統管理員可為建立者和共同作業人員準備組織的GenStudio環境，以建立行銷活動資產。 這些初步設定工作包括：
+系統管理員準備組織的GenStudio環境，讓建立者和共同作業人員建立行銷活動資產。 這些初步設定工作包括：
 
-1. [為[!DNL Brands]、[!DNL Products]和[!DNL Personas]設定指導方針](./guidelines/overview.md)。 設定貴組織3月&#x200B;**[的主要建置區塊將指導方針](./guidelines/overview.md)** （[!DNL Brands]、[!DNL Products]和[!DNL Personas]）新增至GenStudio。 設定組織品牌識別的重要建置組塊，是GenStudio建立者和共同作業人員工作的必要先決條件。 您可以上傳品牌指引檔案或手動輸入品牌資訊。
+1. [為[!DNL Brands]、[!DNL Products]和[!DNL Personas]新增准則](./guidelines/overview.md)。 設定組織品牌識別的重要建置組塊，是GenStudio建立者和共同作業人員工作的必要先決條件。 您可以上傳品牌指引檔案或手動輸入品牌資訊。
    * **準備您的指引檔案**。 品牌指引的描述性和全面性越強，GenStudio的輸出效果就越好。 加入您認為對品牌而言不可或缺的簡短功能範例，並新增要從GenStudio內容建立中排除的行為說明。 GenStudio會從這些上傳的檔案中擷取資訊，並開始建立您的品牌。 品牌聲音、管道和影像指引等資訊會填入，因為GenStudio會從您上傳的檔案中組合每個指引。
    * **視需要編輯或完成品牌指引欄位**。 完整的品牌指引是GenStudio瞭解貴組織品牌的基礎。 GenStudio從品牌指引檔案中擷取所需的資訊後，系統會提示您手動編輯或完成擷取資訊的欄位。 新增[!DNL Product]，指定內容建立的個別產品焦點區域。 [!DNL Personas]指引可協助針對已定義的客戶區段量身打造內容建立。
 

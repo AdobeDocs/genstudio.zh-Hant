@@ -4,9 +4,9 @@ description: 瞭解如何在Adobe [!DNL GenStudio]中新增准則 — [!DNL Bran
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 您可以上傳自己的品牌檔案，以在GenStudio中填入新品牌。
 
-請參閱[[!DNL Brands]](/help/user-guide/guidelines/brands.md)以檢視範例品牌指南。
+請參閱[[!DNL Brands]](/help/user-guide/guidelines/brands.md)。
 
 **若要上傳品牌檔案**：
 
@@ -110,7 +110,7 @@ GenStudio使用Adobe的創作AI技術，從您上傳的檔案中擷取資訊，�
    1. 從&#x200B;_相簿_&#x200B;索引標籤中的相簿選擇影像。
 1. 按一下&#x200B;**[!UICONTROL 使用影像]**。
 
-   若要檢視您建立的[!DNL Products]，請按一下&#x200B;_產品_&#x200B;窗格頂端附近的向後箭頭，以導覽回&#x200B;_[!DNL Products]_首頁。
+   若要檢視您建立的[!DNL Products]，請按一下&#x200B;_產品_&#x200B;檢視頂端附近的向後箭頭，以導覽回&#x200B;_[!DNL Products]_首頁。
 
 ### 管理[!DNL Products]
 
@@ -137,7 +137,7 @@ GenStudio使用Adobe的創作AI技術，從您上傳的檔案中擷取資訊，�
    1. 從&#x200B;_相簿_&#x200B;索引標籤中的相簿選擇影像。
 1. 按一下&#x200B;**[!UICONTROL 使用影像]**。
 
-若要檢視您建立的[!DNL Personas]，請按一下&#x200B;_角色_&#x200B;窗格頂端附近的向後箭頭，以導覽回&#x200B;_[!DNL Personas]_首頁。
+若要檢視您建立的[!DNL Personas]，請按一下&#x200B;_角色_&#x200B;檢視頂端附近的向後箭頭，以導覽回&#x200B;_[!DNL Personas]_首頁。
 
 ### 管理[!DNL Personas]
 

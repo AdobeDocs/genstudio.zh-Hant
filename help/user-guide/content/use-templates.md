@@ -2,7 +2,7 @@
 title: 使用範本
 description: 瞭解如何使用範本在GenStudio中建立引人入勝的體驗。
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 2%
@@ -73,7 +73,7 @@ GenStudio接受HTML格式的範本。
 
 1. 在&#x200B;_[!DNL Content]_中，選取&#x200B;**[!UICONTROL 範本]**區段。
 
-   ![內容範本清單](../../assets/content-templates.png)
+   ![內容範本清單](../../assets/content-templates.png){width="650" zoomable="yes"}
 
 1. 選取完整檢視和詳細資訊清單的範本。
 

@@ -2,7 +2,7 @@
 title: Publish核准的內容
 description: 瞭解如何發佈核准的內容。
 feature: Approval, Content
-source-git-commit: 6da5eb91db34e3b91430d513f3af5de1cd380222
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 發佈後
 
-所有GenStudio使用者都可以存取[!DNL Content]中已核准的資產或體驗。 「資產詳細資訊」窗格會識別資產的上傳與核准歷史記錄。 這些屬性可識別儲存的內容：
+所有GenStudio使用者都可以存取[!DNL Content]中已核准的資產或體驗。 「資產詳細資訊」面板可識別資產的上傳和核准歷史記錄。 這些屬性可識別儲存的內容：
 
 * **上傳日期**：識別上傳內容的日期。
 * **上傳者**：識別GenStudio資產建立者。

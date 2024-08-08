@@ -2,7 +2,7 @@
 title: GenStudio中的品牌驗證
 description: 瞭解內建品牌驗證系統如何在GenStudio中運作。
 feature: Brands Service, Guidelines
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -53,13 +53,13 @@ _品牌驗證面板_&#x200B;顯示下列專案的資訊：
 
 ### 篩選
 
-在&#x200B;_品牌驗證面板_&#x200B;中，您可以篩選顯示的准則。 按一下面板頂端的篩選圖示以檢視：
+在&#x200B;_品牌驗證面板_&#x200B;中，您可以篩選顯示哪些准則。 按一下面板頂端的篩選圖示以檢視：
 
 * **失敗的准則**—_顯示失敗的准則_&#x200B;只顯示未通過品牌驗證的准則。
 * **所有准則**—_顯示失敗且通過准則_&#x200B;顯示測量變體所依據的所有准則。
 * **通過准則**—_顯示通過准則_&#x200B;僅顯示通過品牌驗證的准則。
 
-<!-- The _Brand Validation panel_ has different areas of focus for each content channel:
+<!-- The _Brand validation panel_ has different areas of focus for each content channel:
 
 * Email - brand voice and channel compliance
 * Images - application photography restrictions and other considerations -->

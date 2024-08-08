@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '779'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 0%
 **若要選擇電子郵件範本**：
 
 1. 在&#x200B;_[!DNL Create]_中，按一下_「您今天要建立什麼？」中的&#x200B;**[!UICONTROL 電子郵件]**_節。
-1. 在&#x200B;_選取範本_&#x200B;檢視中，將&#x200B;_管道_&#x200B;篩選器切換為&#x200B;**[!UICONTROL 電子郵件]**。
 1. 使用&#x200B;_篩選器_&#x200B;旁的搜尋選項來尋找特定的電子郵件範本。
 1. 按一下以選取電子郵件範本，然後按一下[使用]。****
 
@@ -53,7 +52,7 @@ ht-degree: 0%
 
 ## 輸入提示
 
-選取准則後，請使用自然語言製作提示，以開始為您的新電子郵件體驗產生內容。
+選取准則後，請使用自然語言製作提示，以開始為您的新電子郵件體驗產生內容。 詳細提示產生比模糊或不描述性提示更高的品質輸出。
 
 請參閱[撰寫有效提示](/help/user-guide/effective-prompts.md)，深入瞭解撰寫提示的相關資訊。
 
@@ -70,6 +69,7 @@ ht-degree: 0%
 
 **若要修訂產生的變體**：
 
+* **若要編輯電子郵件草稿名稱**，請按一下畫布頂端的&#x200B;_未命名的草稿_&#x200B;標題，然後輸入新標題。
 * **若要手動編輯電子郵件**，請連按兩下任一電子郵件片段（例如主旨列、標題或內文）並視需要編輯。
 
   主旨列和標題只需按一下即可編輯，而標題、內文副本和行動號召則需要按兩下。

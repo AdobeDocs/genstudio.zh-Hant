@@ -1,7 +1,7 @@
 ---
 title: 要求檢閱和核准
 description: 要求檢閱。
-source-git-commit: c9bd8bf434e493696e674900f403307260a65b02
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 如果您是內容建立者，您的草稿畫布會顯示&#x200B;**[!UICONTROL 管理核准]**&#x200B;按鈕。 使用此按鈕可開啟快顯視窗，您可在稽核及核准程式中從中移除或新增核准者。
 
-啟動核准要求後，核准者名稱會以[!DNL Notified]狀態列在此窗格中。 如需GenStudio核准工作的概觀，請參閱[核准內容](./approve-content.md)。
+啟動核准要求後，核准者名稱會以[!DNL Notified]狀態列在此檢視中。 如需GenStudio核准工作的概觀，請參閱[核准內容](./approve-content.md)。
 
 
 

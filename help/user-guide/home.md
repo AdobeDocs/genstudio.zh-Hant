@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio使用手冊
 description: 瞭解如何使用GenStudio和generative AI來個人化您的內容供應鏈。
-source-git-commit: 43b059fe65a06b1cb6bba03c4e811c83af75d6f3
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '178'
 ht-degree: 1%
 
 ---
@@ -11,9 +11,9 @@ ht-degree: 1%
 
 # GenStudio使用手冊
 
-Adobe GenStudio採用generative AI，革新了內容供應鏈，讓您建立、測量和管理體現品牌精髓的個人化體驗。
+GenStudio是全方位的行銷解決方案，由Adobe的創作AI技術提供支援。 它讓行銷人員能夠簡化內容供應鏈，從構思到交付和績效測量。
 
-使用GenStudio，行銷人員和團隊可以輕鬆產生並調整符合品牌准則的高品質內容。 GenStudio可加快行銷生命週期，節省寶貴的時間和資源。
+透過GenStudio，企業可以利用創作AI來加速內容建立、輕鬆尋找及重複使用內容，並推動成功的全通路行銷活動。
 
 ## 探索GenStudio功能
 
