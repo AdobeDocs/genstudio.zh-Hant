@@ -4,9 +4,9 @@ description: 瞭解如何在Adobe [!DNL GenStudio]中新增准則 — [!DNL Bran
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: 121a567a6a45f6d17caa621e323cdc3a4aa3dcb4
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,6 @@ GenStudio使用Adobe的創作AI技術，從您上傳的檔案中擷取資訊，�
 
    或者，按一下&#x200B;**[!UICONTROL 新增類別]**&#x200B;以新增自訂准則類別，例如「像片」或「插圖」。
 
-1. 在&#x200B;_標誌_&#x200B;區段中新增標誌。
 1. 按一下&#x200B;_新品牌_&#x200B;標題並輸入描述性品牌名稱。
 
 若要檢視您建立的[!DNL Brands]，請按一下&#x200B;_品牌_&#x200B;面板頂端附近的向後箭頭，以導覽回&#x200B;_[!DNL Brands]_首頁。
@@ -105,6 +104,7 @@ GenStudio使用Adobe的創作AI技術，從您上傳的檔案中擷取資訊，�
 1. 按一下「**[!UICONTROL 未命名]**」並輸入[!DNL Product]的名稱。
 1. 按一下&#x200B;_描述_&#x200B;並輸入此[!DNL Product]的描述。
 1. 按一下&#x200B;_價值主張_&#x200B;並輸入有關產品價值的詳細資料。
+1. 按一下&#x200B;_其他詳細資料_，然後輸入個人化內容產生的重要詳細資料。
 1. 若要編輯縮圖，請將滑鼠停留在影像縮圖上，然後從「縮圖」動作選單中選取&#x200B;**[!UICONTROL 「編輯縮圖」]**。
    1. 在&#x200B;_上傳_&#x200B;索引標籤中上傳新影像或移除現有的已上傳影像。
    1. 從&#x200B;_相簿_&#x200B;索引標籤中的相簿選擇影像。
@@ -131,6 +131,7 @@ GenStudio使用Adobe的創作AI技術，從您上傳的檔案中擷取資訊，�
 1. 按一下「**[!UICONTROL 未命名]**」並輸入[!DNL Persona]的名稱。
 1. 按一下&#x200B;_描述_&#x200B;並輸入此[!DNL Persona]的描述。
 1. 按一下&#x200B;_訊息偏好設定_&#x200B;並輸入[!DNL Persona]的訊息詳細資料。
+1. 按一下&#x200B;_其他詳細資料_，然後輸入個人化內容產生的重要詳細資料。
 1. 若要編輯縮圖，請將滑鼠停留在影像縮圖上，並從&#x200B;_縮圖動作_&#x200B;功能表選取&#x200B;**[!UICONTROL 編輯縮圖]**。
    1. 在&#x200B;_上傳_&#x200B;索引標籤中上傳新影像或移除現有的已上傳影像。
    1. 從&#x200B;_相簿_&#x200B;索引標籤中的相簿選擇影像。

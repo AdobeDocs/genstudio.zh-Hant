@@ -2,10 +2,10 @@
 title: GenStudio [!DNL Brands]
 description: GenStudio [!DNL Brands] 是完整的品牌資產集合（行銷文案、影像、體驗等），可協助您在GenStudio中建立品牌一致的內容。
 feature: Brands Service, Guidelines
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: c90cec72bd4cad505b7374e0ae81bafc383102e9
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 0%
+source-wordcount: '778'
+ht-degree: 1%
 
 ---
 
@@ -15,8 +15,6 @@ ht-degree: 0%
 品牌可將組織、產品、服務或概念與其他人區分開來。 品牌的某些方面是客觀的，例如標誌，而其他方面則是主觀的，例如語調。
 
 GenStudio會使用您品牌的豐富品牌資訊、與[!DNL Product]和[!DNL Persona]資訊合作，並建立完整的品牌識別。 此品牌身分可用於通知如何使用Adobe的創作AI技術建立品牌上內容。
-
-GenStudio中的![[!DNL Brands]總覽](/help/assets/brand-overview-home.png){width="650" zoomable="yes"}
 
 **若要檢視或修改品牌**：
 
@@ -36,16 +34,12 @@ GenStudio中的![[!DNL Brands]總覽](/help/assets/brand-overview-home.png){widt
 
 下表顯示各類品牌語調指引和指引範例。
 
-| 指引類別 | 指引範例 |
-| ------------------| :---------- |
-| 語調 | `Speak like a human, Avoid jargon, Speak with confidence` |
-| 品牌價值 | `Be the leader, Show authenticity` |
-| 唯一屬性 | `Driven by empathy for others, Celebrate diverse ideas, Be a cheerleader for change` |
-| 常見關鍵字 | `impact, progressive, inclusive, motivation, perseverance` |
-| 傳訊指南 | `Use inclusive terms, Avoid using the word "utilize", Incorporate simple phrasing, Make CTAs clear and concise` |
-| 傳訊限制 | `Avoid repeating adjectives or adverbs, Avoid colloquialisms` |
-
-![GenStudio中的品牌語音准則](/help/assets/brand-voice-guidelines.png){width="650" zoomable="yes"}
+| 指引類別 | 說明 | 最佳做法 |
+| ------------------| :---------- | :---------- |
+| 語調 | 透過書面通訊表達的品牌個性 | 使用描述性字詞清楚傳達品牌的情感和語調。 <br>_範例_：「正版」、「可玩」<br><br>簡潔明瞭（3-6個准則），並專注於關鍵品牌語調屬性。<br><br>選取跨通訊通道一致的字詞/片語，以建立一致的品牌識別。 |
+| 品牌價值 | 推動品牌文化、客戶體驗和業務策略的原則 | 使用描述性字詞來傳達品牌的使命、願景和受眾需求。 <br>_範例_：「真誠」、「鼓舞人心」、「漸進式」<br><br>簡潔明瞭（3-6個指導方針），並專注於核心品牌價值/主題。 |
+| 編輯指南 | 定義製作品牌訊息最佳實務的溝通准則 | 使用正面用語（5-10准則）建立堅實的基礎。<br>_範例_：「使用簡單、可存取的語言」而非「避免使用行話」<br><br>提供明確且可操作的指引。 <br>_範例_：「將句子保留在20個字以內」而非「簡潔明瞭」<br><br>反映您的品牌風格，例如使用特定的語法偏好設定。 <br>_範例_：「使用長破折號而非冒號」、「使用句子大小寫」<br><br>製作維持輸出一致性的精確准則。 |
+| 編輯限制 | 定義品牌訊息中應避免的事項的溝通准則 | 使用直接負面詞語（5-10指南）來指定應避免的內容。 <br>_範例_： 「避免使用……」<br><br>提供明確且可操作的指引。 <br>_範例_：「避免修辭問題」 |
 
 ### 頻道准則
 
@@ -53,16 +47,14 @@ GenStudio中的![[!DNL Brands]總覽](/help/assets/brand-overview-home.png){widt
 
 下表顯示每個管道片段、可用的管道、片段說明、建議範例和範例結果。
 
-| 片段 | 頻道 | 說明 | 指引範例 | 結果範例 |
-| ------------------| --------- | --------- | -------- | :---------- |
-| 一般 | 電子郵件 | 第二個主旨行或電子郵件預覽文字 | `Engage quickly, Friendly but serious tone` | — |
-| 主旨 | 電子郵件 | 摘要電子郵件內容的引人入勝且有趣的標題 | `Between 20 and 40 characters, using short punchy phrasing` | 「提供您需要的靈感。 給青少年當導師。」 |
-| 前置標題 | 電子郵件 | 第二個主旨行或電子郵件預覽文字 | `Between 45 and 70 characters, communicating value add detail` | 「當你選擇為當地年輕人提供指導時，你的世界將會開放。」 |
-| 標題 | 電子郵件、社交廣告、顯示廣告 | 吸引讀者注意的標題或片語 | `Mimic the vibe of the subject, Continue the story` | 「在翅膀下面坐一個青少年，看著他們飛翔！」 |
-| 內文 | 電子郵件、社交廣告、顯示廣告 | 包括訊息、連結和影像的行銷內容 | `Limit to 2 to 4 sentences, Mix sentence length and phrasing to keep attention, Avoid slang, Maintain smart and respectful tone` | 「引導青少年經歷人生的起落落，會改變他們……還有你。 花點時間幫助您的社群，並看著您的街坊花園成長。」 |
-| CTA | 電子郵件、社交廣告、顯示廣告 | （行動號召）給讀取器的指示，它會啟發回應。 通常是一兩個字，例如`Get started` | `Use 1-3 words, Use clear verbiage` | 「今日導師」 |
-
-GenStudio中的![頻道准則](/help/assets/channel-guidelines.png){width="650" zoomable="yes"}
+| 片段 | 頻道 | 說明 | 最佳做法 |
+| ------------------| --------- | --------- | -------- |
+| 一般 | 電子郵件、社交廣告 | 第二個主旨行或電子郵件預覽文字 | 定義整體語調/情緒，以在整個電子郵件中保持一致（2-5准則）。<br>_範例_：「保持友善且平易近人的語調」、「避免過於正式的語言」<br><br> |
+| 主旨 | 電子郵件 | 摘要電子郵件內容的引人入勝且有趣的標題 | 針對語調、長度等提供具體指引（2-5個指引）。 在&#x200B;_範例_&#x200B;區段中新增先前成功的主旨行，以獲得更好的品質輸出。<br>_範例_：「將主旨與電子郵件內文對齊」 |
+| 預覽文字 | 電子郵件 | 第二個主旨行或電子郵件預覽文字 | 針對語調、理想長度等提供具體指引（2-5個指引）。 在&#x200B;_範例_&#x200B;區段中新增先前成功的預覽標題，以獲得較佳的品質輸出。<br>_範例_：「限製為60-80個字元」 |
+| 標題 | 電子郵件、社交廣告、顯示廣告 | 吸引讀者注意的標題或片語 | 針對語調、理想長度等提供具體指引（2-5個指引）。 在&#x200B;_範例_&#x200B;區段中加入先前成功的標題，以獲得更優質的輸出。<br>_範例_：「使用強式陳述式來吸引注意」 |
+| 內文 | 電子郵件、社交廣告、顯示廣告 | 包括訊息、連結和影像的行銷內容 | 針對語調、理想長度等提供具體指引（2-5個指引）。 將先前成功的復本新增至&#x200B;_範例_&#x200B;區段，以獲得更好的品質輸出。<br>_範例_：「限製為80-100個字元」、「避免過多的首字母縮略詞」 |
+| CTA | 電子郵件、社交廣告、顯示廣告 | （行動號召）給讀取器的指示，它會啟發回應。 通常是一兩個字，例如`Get started` | 針對語調、理想長度等提供具體指引（2-5個指引）。 將先前成功的復本新增至&#x200B;_範例_&#x200B;區段，以獲得更好的品質輸出。<br>_範例_：「請勿使用結尾標點符號」 |
 
 <!-- Not in M2.1 // ### Image guidelines
 
@@ -80,13 +72,13 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} -->
+![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
-### 標誌
+### Logos
 
-在&#x200B;**[!UICONTROL 標誌]**&#x200B;標籤中新增標誌至您的品牌。
+Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-GenStudio中的![標誌准則](/help/assets/logos.png){width="650" zoomable="yes"}
+![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## 品牌驗證
 

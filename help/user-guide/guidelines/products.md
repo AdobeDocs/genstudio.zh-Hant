@@ -2,9 +2,9 @@
 title: GenStudio [!DNL Products]
 description: GenStudio [!DNL Products] 整合了您產品的各個方面（影像、說明和價值主張），以建立相關內容，強調產品優勢並維護產品訊息的一致性。
 feature: Products Service, Guidelines
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,9 @@ GenStudio中的![[!DNL Products]指南](/help/assets/products-guidelines.png){wi
 
 下表顯示[!DNL Products]指導方針的每個類別和相關範例。
 
-| 指引類別 | 指引範例 |
-| ------------------| :---------- |
-| 說明 | `Brand Uno's Empower Outreach is a product/service that enables under-supported youth to apply for, obtain transportation for, and retain employment in "transport-desert" inner-city areas of McBellville.` |
-| 價值主張 | `Comprehensive and knowledgeable assistance to support youth in surmounting obstacles to securing long term employment.` |
+| 指引類別 | 說明 | 最佳做法 |
+| ------------------| ----------------| :---------- |
+| 產品名稱 | 指企業提供給客戶的服務、解決方案或有形商品 | 確保產品名稱清晰且使用者可輕鬆瞭解產品方案&#x200B;<br><br>_範例_：「Photoshop」（SaaS公司）<br>「企業管理碩士」（教育機構）<br>「財富管理計畫」（金融公司）<br>「Home Essentials裝飾」（零售） |
+| 說明 | 簡短、清楚的摘要，重點說明產品及其用途 | 使用簡明的語言清楚描述產品（1-2個句子），為潛在使用者提供清楚的上下文。 不要包含詳細的功能資訊或規格。<br><br>_範例_：「產品XYZ是一種多功能、雲端式的專案管理工具，旨在協助團隊順暢地組織工作、追蹤進度和共同作業。 XYZ提供簡單易用的介面，從頭到尾管理專案，是小型企業和大型企業的理想選擇。」 |
+| 價值主張 | 清楚的摘要（少於10個句子），說明產品如何解決問題、提供特定權益，以及提供價值 | 清楚定義產品的優點，強調以引人入勝的語言與競爭對手區分開來。<br><br>以清單格式提供值主張，在清單的開頭輸入最顯著的值prop。<br><br>_範例_：「XYZ的值主張：<br>」<li>將專案管理工作集中在一個直覺式的平台中，無需使用多種工具</li><li>提升團隊生產力高達30%</li><li>緊密整合您最愛的工具，確保順暢的工作流程</li><li>提供即時更新和共同作業功能，讓團隊保持一致性」</li> |
+| 其他詳細資料 | 擷取個人化內容產生的重要資訊 | 提供對內容個人化至關重要的其他細節（1-3個句子），並確保資訊直接有助於內容的有效性。<br><br>著重於清晰和簡潔。 |
