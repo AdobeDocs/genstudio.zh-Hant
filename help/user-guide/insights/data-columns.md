@@ -3,9 +3,9 @@ title: ' [!DNL Insights]的資料欄'
 description: 瞭解 [!DNL Insights] 格線中的每一欄代表什麼。
 feature: Attributes, Insights
 recommendations: noDisplay
-source-git-commit: 52a37b83b6f13b16a2234e50827c8d08b9a86680
+source-git-commit: 4d5de6fc053297c823be9005c628dafcecc3f7a7
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '254'
 ht-degree: 2%
 
 ---
@@ -34,4 +34,3 @@ ht-degree: 2%
 | 曝光數 | 透過註冊的曝光次數向檢視者顯示行銷活動廣告的次數。 |
 | 目標 | 行銷活動或專案的目標。 建立行銷活動或專案時設定目標。<br>目標型別包括： `Awareness`、`Traffic`、`Engagement`、`Leads`、`App promotion`、`Sales` |
 | 支出 | 行銷活動中所有廣告的總金額（以美元為單位）。 |
-| 視訊播放 | 視訊開始播放的次數。 視訊播放可在視訊開始自動播放或有人點按以播放視訊時發生。 |

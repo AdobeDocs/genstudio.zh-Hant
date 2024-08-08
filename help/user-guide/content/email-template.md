@@ -3,9 +3,9 @@ title: 為GenStudio準備電子郵件範本
 description: 瞭解如何建立GenStudio的自訂電子郵件範本。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 0%
 
 在準備中繼廣告範本之前，請確定您已將[指導方針](/help/user-guide/guidelines/overview.md)新增到您的GenStudio中，並填入相關品牌的完整資訊。 [品牌指導方針](/help/user-guide/guidelines/brands.md)直接影響產生的內容。
 
-> **範例**：如果您希望電子郵件範本內文不超過500個字元，請將該要求新增至「內文」欄位的[頻道准則](/help/user-guide/guidelines/brands.md#channel-guidelines)。
+**範例**：如果您希望電子郵件範本內文不超過500個字元，請將該要求新增至「內文」欄位的[頻道准則](/help/user-guide/guidelines/brands.md#channel-guidelines)。
+
+如果未將准則新增至GenStudio，則會使用預設值。
 
 ## 為電子郵件範本編碼
 

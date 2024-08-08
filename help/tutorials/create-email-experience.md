@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -29,45 +29,40 @@ ht-degree: 0%
 1. 在&#x200B;_[!DNL Create]_中，按一下_「您今天要建立什麼？」中的&#x200B;**[!UICONTROL 電子郵件]**_節。
 1. 在&#x200B;_選取範本_&#x200B;檢視中，將&#x200B;_管道_&#x200B;篩選器切換為&#x200B;**[!UICONTROL 電子郵件]**。
 1. 使用&#x200B;_篩選器_&#x200B;旁的搜尋選項來尋找特定的電子郵件範本。
-1. 按一下以選取電子郵件範本，或切換選取多個電子郵件範本，然後按一下[使用]。**** 如果您選取多個範本，則產生變體時，所有選取的範本都將用於提供您選項。
+1. 按一下以選取電子郵件範本，然後按一下[使用]。****
 
    內容建立的中心「畫布」隨即顯示。
 
 ## 新增引數
 
-新增指引引數會增加內容產生流程的額外負荷，也是產生電子郵件體驗的必要準備步驟。
+在提示區域新增[指南](/help/user-guide/guidelines/overview.md)和&#x200B;_引數_&#x200B;中的資產，會增加內容產生程式的費用，是產生電子郵件體驗的必要準備步驟。
 
 **若要新增引數和資產**：
 
-1. 按一下&#x200B;_引數_&#x200B;圖示以展開引數選項並新增參考引數和資產。
-1. 在&#x200B;_引數_&#x200B;區段中，選取准則 — 品牌、角色和產品 — 以通知內容建立。
+1. 按一下&#x200B;_引數_&#x200B;圖示以展開提示區域。
+1. 在&#x200B;_引數_&#x200B;區段中，選取指導方針 — [!DNL Brands]、[!DNL Personas]和[!DNL Products] — 以通知內容建立。
 
    如果這些功能表中沒有可用的品牌、角色或產品，請[將准則新增至您的GenStudio](/help/user-guide/guidelines/add-guidelines.md)。
 
-1. 在&#x200B;_Content_&#x200B;區段中，新增要用於體驗&#x200B;*和*&#x200B;的內容以影響內容產生。 新增資產的方式有三種：
-   * 按一下&#x200B;**[!UICONTROL 從內容選取]**&#x200B;以選取已發佈至[!DNL Content]的資產（影像或視訊）。 使用篩選器進一步縮小搜尋結果的範圍。
+1. 按一下&#x200B;**[!UICONTROL 選取內容]**&#x200B;以新增要在體驗&#x200B;*中使用的內容，並按一下*&#x200B;以影響內容產生。
+   * 按一下&#x200B;**[!UICONTROL 從內容選取]**&#x200B;以選取已發佈至[!DNL Content]的資產（影像）。 使用篩選器進一步縮小搜尋結果的範圍。
    * 按一下&#x200B;**[!UICONTROL 上傳]**&#x200B;瀏覽您的檔案，並選擇要使用的資產。 除了瀏覽裝置之外，您也可以從Microsoft OneDrive或Dropbox匯入。
    * 將資產拖放至&#x200B;_Content_&#x200B;區段。
 
-   當您從GenStudio內容中選取資產時，您會從已儲存至[[!DNL Content]](/help/user-guide/content/overview.md)的資產中進行選擇。 您可以依頻道、產品、語言等篩選，以快速找到所需的資產。
+當您完成新增引數時，可以再次按一下&#x200B;_引數_&#x200B;圖示來收合提示區域。
 
-新增完引數後，您可以再次按一下&#x200B;_引數_&#x200B;圖示來收合&#x200B;*引數*&#x200B;和&#x200B;*內容*&#x200B;區段。
-
-## 使用提示
+## 輸入提示
 
 選取准則後，請使用自然語言製作提示，以開始為您的新電子郵件體驗產生內容。
 
 請參閱[撰寫有效提示](/help/user-guide/effective-prompts.md)，深入瞭解撰寫提示的相關資訊。
 
-**使用提示**：
+**若要輸入提示**：
 
 1. 在&#x200B;_「描述您要產生的體驗」_&#x200B;提示方塊中輸入提示。
-   <!-- If the prompt box is not visible, click **[!UICONTROL Open to prompt]** to expand it. -->
-
-<!-- 1. Optionally, click one of the prompt suggestions visible just above the prompt text box. Clicking a suggestion auto-fills the suggested prompt in the prompt box. -->
 1. 按一下&#x200B;**[!UICONTROL 產生]**。
 
-依預設，畫布中會顯示四個產生的變數，這些變數都以提示、指南和您新增的內容為依據。
+依預設，會產生四個變數（全部由您新增的提示、指引和內容所推動），並顯示在畫布中。
 
 ## 修訂產生的電子郵件
 
@@ -85,15 +80,13 @@ ht-degree: 0%
 
 若要最佳化產生的電子郵件並確保嚴格遵守品牌識別，請利用&#x200B;[_品牌准則檢查_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) （提供變體的品牌一致性摘要）和&#x200B;[_品牌驗證面板_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;的強大功能，顯示完整的品牌驗證詳細資訊並闡明改善領域。
 
-您可以手動編輯個別電子郵件片段，或產生[初始結果的精細變體](/help/user-guide/create/generate-variants.md)，以符合您的品牌。
-
 **若要驗證品牌一致性**：
 
 1. 按一下[**[!UICONTROL [!DNL Brand]指南核取]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)圖示以取得變體，並檢視該變體在針對您的品牌進行核取時的表現摘要。
 1. 若要取得需要改進的片段與指引的詳細資訊，請按一下&#x200B;**[!UICONTROL 檢閱]** _或_，按一下頂端功能表列中的品牌驗證圖示，以開啟&#x200B;[_品牌驗證面板_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)。
 
 1. 切換每封電子郵件，瞭解如何改善產生的內容，使其更加與品牌保持一致。
-1. [手動修訂電子郵件](#revise-generated-emails)，或[產生變體](/help/user-guide/create/generate-variants.md)，以確保您的電子郵件與品牌緊密一致。
+1. [手動修訂電子郵件](#revise-generated-emails)，以確保您的電子郵件與品牌緊密一致。
 
 請參閱[品牌驗證](/help/user-guide/guidelines/brand-validation.md)。
 

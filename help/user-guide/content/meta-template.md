@@ -3,9 +3,9 @@ title: 為GenStudio準備中繼廣告範本
 description: 瞭解如何建立GenStudio的自訂中繼廣告範本。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 **範例**：如果您希望中繼廣告範本內文不超過500個字元，請將該要求新增至「內文」欄位的[頻道准則](/help/user-guide/guidelines/brands.md#channel-guidelines)。
 
-如果未將准則新增至GenStudio，系統將使用預設值。
+如果未將准則新增至GenStudio，則會使用預設值。
 
 ## 設計範本
 

@@ -3,9 +3,9 @@ title: 自訂範本
 description: 瞭解如何建立GenStudio的自訂範本。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 1b5b12615c52823aa2f1c10ad704e3fc0dabb1e9
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,12 @@ GenStudio會自動填入範本中的某些欄位，因此不需要將它們包�
 >[!WARNING]
 >
 >針對Instagram廣告，產生的標題不會出現在最終體驗中。
+
+#### 品牌標誌欄位名稱
+
+若要將品牌標誌新增至範本，請使用下列程式碼來呈現預設標誌：
+
+```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
 
 #### 手動欄位名稱
 

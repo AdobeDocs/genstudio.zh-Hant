@@ -4,9 +4,9 @@ breadcrumb-title: 使用者指南
 user-guide-description: 瞭解如何根據即時內容效能深入分析，快速尋找及產生品牌內資產、建立變數及最佳化體驗。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 6a0b8371ac48c4861c1264b50fc2766f2d1f6beb
+source-git-commit: 33f53659894bc53e9a8e0740b0fff5621907bf15
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '109'
 ht-degree: 9%
 
 ---
@@ -29,7 +29,6 @@ ht-degree: 9%
    + [品牌驗證](guidelines/brand-validation.md)
 + 建立{#create}
    + [[!DNL Create] 概覽](create/overview.md)
-   + [產生變體](create/generate-variants.md)
 + 檢閱與核准{#approve}
    + [檢閱和核准概述](approvals/overview.md)
    + [要求內容檢閱和核准](approvals/request-review.md)

@@ -2,9 +2,9 @@
 title: GenStudio概念
 description: 瞭解Adobe GenStudio概念和術語。
 feature: Workflow, Generative AI
-source-git-commit: 9a591802a4cda9724afbcb28a0a02c2327b0afb4
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,8 @@ GenStudio是獨立企業產品，其中包含Adobe的內容供應鏈，以簡化
 透過GenStudio，您可以：
 
 - 使用自然語言提示建立品牌內內容
-- 產生變體以跨頻道個人化，或重新整理進行中的行銷活動
+- 與利害關係人共同作業，檢閱及核准產生的內容
+- 儲存產生和核准的內容，以存取未來的行銷活動
 - 使用行銷活動和內容屬性的深入分析來評估內容績效
 
 ## Generative AI技術
