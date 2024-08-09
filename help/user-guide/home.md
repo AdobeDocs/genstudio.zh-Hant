@@ -1,13 +1,12 @@
 ---
 title: Adobe GenStudio使用手冊
 description: 瞭解如何使用GenStudio和generative AI來個人化您的內容供應鏈。
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: f5b353ac807b5676fbeda593a3827c960facda3a
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
 
 ---
-
 
 # GenStudio使用手冊
 
