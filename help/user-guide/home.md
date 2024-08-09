@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio使用手冊
 description: 瞭解如何使用GenStudio和generative AI來個人化您的內容供應鏈。
-source-git-commit: f5b353ac807b5676fbeda593a3827c960facda3a
+source-git-commit: 214f54bcc15eb8d0c3b766784ac911790a8fb351
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
@@ -123,3 +123,4 @@ GenStudio是全方位的行銷解決方案，由Adobe的創作AI技術提供支�
    </p>
 </td>
 </table>
+
