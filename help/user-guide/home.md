@@ -1,18 +1,20 @@
 ---
 title: Adobe GenStudio使用手冊
-description: 瞭解如何使用GenStudio和generative AI來個人化您的內容供應鏈。
-source-git-commit: 214f54bcc15eb8d0c3b766784ac911790a8fb351
+description: 透過Adobe的AI優先應用程式GenStudio，讓行銷人員和創意人員能夠透過企業護欄和治理為高績效體驗提供對品牌上內容的自助存取。
+source-git-commit: a0646480c863f9776aa7dfe1ef17eb9d23f269ea
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 1%
+source-wordcount: '234'
+ht-degree: 0%
 
 ---
 
 # GenStudio使用手冊
 
-GenStudio是全方位的行銷解決方案，由Adobe的創作AI技術提供支援。 它讓行銷人員能夠簡化內容供應鏈，從構思到交付和績效測量。
+Adobe GenStudio是AI導向的平台，可讓公司自主產生和管理行銷內容，並遵循其品牌標準、符合企業政策，且順暢地支援具影響力的行銷策略。
 
-透過GenStudio，企業可以利用創作AI來加速內容建立、輕鬆尋找及重複使用內容，並推動成功的全通路行銷活動。
+透過GenStudio，行銷人員和創意人員可以簡化內容建立流程，建立吸引人、與文化相關並針對特定對象量身打造的行銷內容，同時維持高品質和品牌完整性。
+
+透過運用AI技術，GenStudio提供全方位的工具套件，可簡化內容建立及管理的複雜性，讓創意人員可專注於創新。
 
 ## 探索GenStudio功能
 
@@ -28,7 +30,7 @@ GenStudio是全方位的行銷解決方案，由Adobe的創作AI技術提供支�
          </a>
       </div>
       <p>
-         <em>使用描述性語言、品牌資產和其他條件製作提示。</em>
+         <em>製作描述性提示，以產生品牌內數位體驗。</em>
       </p>
    </td>
    <td valign="top">
@@ -41,7 +43,7 @@ GenStudio是全方位的行銷解決方案，由Adobe的創作AI技術提供支�
          </a>
       </div>
       <p>
-         <em>建立效能、品牌上的影像和內容。</em>
+         <em>建立績效、品牌內電子郵件和中繼廣告。</em>
       </p>
    </td>
    <td valign="top">
@@ -54,7 +56,7 @@ GenStudio是全方位的行銷解決方案，由Adobe的創作AI技術提供支�
          </a>
       </div>
       <p>
-         <em>檢閱並核准行銷活動元件和品牌資產。</em>
+         <em>協調行銷資產的簡化稽核與核准。</em>
       </p>
    </td>
    <td valign="top">
@@ -80,7 +82,7 @@ GenStudio是全方位的行銷解決方案，由Adobe的創作AI技術提供支�
          </a>
       </div>
       <p>
-         <em>根據即時使用狀況最佳化內容效能。</em>
+         <em>分析付費媒體管道的內容有效性。</em>
       </p>
    </td>
 </tr>
@@ -97,7 +99,7 @@ GenStudio是全方位的行銷解決方案，由Adobe的創作AI技術提供支�
       </a>
    </div>
    <p>
-      <em>瞭解如何新增指引至GenStudio。</em>
+      <em>瞭解如何新增准則（品牌、產品和角色）至GenStudio。</em>
    </p>
 </td>
 <td valign="top">
