@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio使用手冊
 description: 透過Adobe的AI優先應用程式GenStudio，讓行銷人員和創意人員能夠透過企業護欄和治理為高績效體驗提供對品牌上內容的自助存取。
-source-git-commit: a0646480c863f9776aa7dfe1ef17eb9d23f269ea
+source-git-commit: 1e30db88fac8e6d47a845d4eb5d54defcc256244
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -125,4 +125,3 @@ Adobe GenStudio是AI導向的平台，可讓公司自主產生和管理行銷內
    </p>
 </td>
 </table>
-
