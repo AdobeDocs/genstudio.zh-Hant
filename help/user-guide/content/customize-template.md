@@ -3,9 +3,9 @@ title: 自訂範本
 description: 瞭解如何建立GenStudio的自訂範本。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: d7d11077d35a4c1924e4be456c00b1fae24e0a1b
+source-git-commit: 5c43cf2014c1f93bdb9988ddefb503630714e522
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 0%
 | `cta` | 行動號召 | 電子郵件（建議）<br>中繼廣告 |
 | `on_image_text` | 在影像文字上 | 中繼廣告（建議） |
 | `image` | 影像 | 電子郵件（建議）<br>中繼廣告（建議） |
-| `brand_logo` | 所選品牌的標誌 | 中繼廣告 |
+| `brand_logo` | 所選品牌的標誌 | 電子郵件<br>中繼廣告 |
 
 GenStudio會自動填入範本中的某些欄位，因此不需要將它們包含在範本設計中：
 
@@ -76,15 +76,33 @@ GenStudio會自動填入範本中的某些欄位，因此不需要將它們包�
 
 #### 品牌標誌欄位名稱
 
-若要將品牌標誌新增至範本，請使用下列程式碼來呈現預設標誌：
+若要將品牌標誌新增至範本，請使用下列其中一種方法來呈現預設標誌。
 
-```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
+_範例_：
+
+```bash
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```
+
+_範例_：
+
+```bash
+{{#if brand_logo}}
+
+                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{else}}
+
+                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{/if}}
+```
 
 #### 手動欄位名稱
 
 所有其他欄位名稱會視為手動填入的欄位。 如果您希望區段可編輯，請在要編輯的區段周圍新增雙括弧。
 
-> 範例： ``{{customVariable}}`` （customVariable是手動編輯的區段）
+_範例_： ``{{customVariable}}`` （`customVariable`是可手動編輯的區段）
 
 ## 區段或群組
 
