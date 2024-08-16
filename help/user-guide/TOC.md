@@ -4,10 +4,10 @@ breadcrumb-title: 使用者指南
 user-guide-description: 瞭解如何根據即時內容效能深入分析，快速尋找及產生品牌內資產、建立變數及最佳化體驗。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: e06a877b16fc7e4fbf3301a99574ae2026babe54
+source-git-commit: 3283f1ff0ddbc8825e084add893b322dd20066d0
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 9%
+source-wordcount: '114'
+ht-degree: 8%
 
 ---
 
@@ -52,4 +52,6 @@ ht-degree: 9%
    + [見解概述](insights/overview.md)
    + [連線管道帳戶](insights/connect-channel.md)
    + [資料欄](insights/data-columns.md)
++ 發行說明{#release-notes}
+   + [Beta發行說明](beta-release-notes.md)
 

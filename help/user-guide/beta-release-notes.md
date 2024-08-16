@@ -1,9 +1,9 @@
 ---
 title: 高效能行銷人員Adobe GenStudioBeta發行說明
 description: 瞭解Adobe GenStudio的最新功能和增強功能。
-source-git-commit: 382026b07e123a1e49813b766f69496f6a8f38eb
+source-git-commit: 5505e3fdc78e217dd1eb73ed5bffa5e43d4f3084
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '356'
 ht-degree: 2%
 
 ---
@@ -28,8 +28,6 @@ GenStudio功能開發既快速又持續。 重要新功能包括：
 * _在擷取期間遞增品牌載入_：品牌指引現在以遞增方式載入使用者介面。
 
 * _簡化Copy Guideline結構描述_： `unique attributes`和`frequent keywords`欄位已從Copy Guideline結構描述中移除，以簡化指引設定程式。
-
-* _影像產生：類別選擇_：使用者現在可以選取符合其影像重新產生需求的影像指導方針。
 
 ### 建立
 
@@ -63,22 +61,15 @@ GenStudio功能開發既快速又持續。 重要新功能包括：
 
 * 目前未追蹤&#x200B;**[!UICONTROL 新增範本]**&#x200B;和&#x200B;**[!UICONTROL 上傳]**&#x200B;按鈕所觸發的動作。<!-- GS-3505 -->
 
-### 品牌
-
-* 建立者可以成功發佈品牌，但組織成員看不到品牌。<!-- XI-2197 -->
-
-### 建立
-
-* 中繼廣告中的影像裁切不一致。<!-- GS-3739 -->
-
-* 由多組頁面元素組成的範本無法通過品牌驗證。<!-- GS-4037 -->
-
 ### Insights
 
-* `/admin/addOffer`端點（布建服務）發生拒絕存取錯誤。 **已解決8/12**。<!-- GS-4047 -->
+* 無法從&#x200B;_Assets_&#x200B;播放視訊。<!-- GS-3846 -->
+
+* 使用者也必須登入Facebook才能登入兩次。 **因應措施**：登入Insights之前請先登出Facebook。
 
 * 行銷活動層級的&#x200B;**支出**&#x200B;值不準確。 目前Facebook Ads Manager與資料湖之間的資料不一致。<!-- GS-3202 -->
 
 ### 稽核與核准
 
-* 建立者可以在核准後先變更資產，然後再發佈。 這些變更不會通知核准者。
+* 建立者可在資產核准後於發佈前變更資產。 這些變更不會通知核准者。
+
