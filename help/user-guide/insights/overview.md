@@ -2,17 +2,17 @@
 title: ' [!DNL Insights]的概觀'
 description: 瞭解如何根據即時內容績效量度最佳化體驗。
 feature: Attributes, Insights, Experiences, Assets
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Insights]
+# 效能行銷人員的Adobe GenStudio[!DNL Insights]
 
-GenStudio [!DNL Insights]提供內容效能的進階分析和深入分析，可協助您做出資料導向式決策。
+績效行銷人員的Adobe GenStudio[!DNL Insights]提供內容績效的進階分析和深入分析，可協助您制定資料導向式決策。
 
 從[!DNL Insights]儀表板，您可以：
 
@@ -22,7 +22,7 @@ GenStudio [!DNL Insights]提供內容效能的進階分析和深入分析，可�
 
 >[!TIP]
 >
->如需讓GenStudio接收您目前行銷活動、資產和體驗之資料的步驟，請參閱[Connect管道帳戶](connect-channel.md)。
+>如需讓GenStudio for Performance行銷人員接收您目前行銷活動、資產和體驗之資料的步驟，請參閱[Connect管道帳戶](connect-channel.md)。
 
 ## 儀表板
 

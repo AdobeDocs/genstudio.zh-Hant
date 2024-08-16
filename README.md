@@ -1,13 +1,13 @@
 ---
-source-git-commit: 135502f6743f2d45860c900a49a8c19a024a58dc
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 37%
+source-wordcount: '310'
+ht-degree: 36%
 
 ---
-# GenStudio檔案
+# GenStudio效能行銷人員檔案
 
-本網站包含GenStudio產品的最新檔案。
+本網站包含適用於效能行銷人員的GenStudio產品的最新檔案。
 
 ## Adobe 開放原始碼行為準則
 
@@ -37,8 +37,8 @@ ht-degree: 37%
 
 此存放庫中的所有文章皆使用GitHub風格的Markdown。 如果您不熟悉 Markdown，請參閱：
 
-- [Markdown 基本認識](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Markdown 可列印快覽單](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
+- [Markdown 基本介紹](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [列印版 Markdown 速查表](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
 
 ## 標籤
 

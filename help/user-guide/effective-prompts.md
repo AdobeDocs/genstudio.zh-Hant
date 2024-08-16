@@ -1,10 +1,10 @@
 ---
 title: 撰寫有效的提示
-description: 瞭解如何為GenStudio撰寫有效的提示。
+description: 瞭解如何為績效行銷人員編寫有效的Adobe GenStudio提示。
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: 5e17996ee3a86cf664ee468d6b9cf178c8853992
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # 撰寫有效的提示
 
-與創作AI溝通對於GenStudio中的有效運作至關重要。
+與創作AI溝通對於高效能行銷人員的Adobe GenStudio至關重要。
 
-GenStudio會在每次有機會修改資產時提供產生式AI提示。 有效提示的元件應包括描述性語言、範例，以及未透過您設定的准則提供的資訊。
+GenStudio for Performance行銷人員在每次有機會修改資產時，都會提供產生的AI提示。 有效提示的元件應包括描述性語言、範例，以及未透過您設定的准則提供的資訊。
 
-最佳實務是使用[指南](/help/user-guide/guidelines/overview.md)為GenStudio提供您的品牌資訊，然後您就可以完全運用創作AI來產生與品牌一致的內容體驗。
+最佳實務是使用[指南](/help/user-guide/guidelines/overview.md)為效能行銷人員提供GenStudio您的品牌資訊，然後您就可以完全運用創作AI以產生符合品牌的內容體驗。
 
 ## 描述性語言
 
@@ -39,21 +39,21 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 ## 提示條件
 
-在GenStudio [[!DNL Create]](/help/user-guide/create/overview.md)中，您可以在提示區域使用&#x200B;**[!UICONTROL 提示條件]** （[_引數_](/help/user-guide/create/overview.md#parameters)&#x200B;和提示），透過選取來新增詳細資料，以改善AI解譯。
+在效能行銷人員適用的GenStudio [[!DNL Create]](/help/user-guide/create/overview.md)中，您可以在提示區域使用&#x200B;**[!UICONTROL 提示條件]** （[_引數_](/help/user-guide/create/overview.md#parameters)&#x200B;和提示），透過選取來新增詳細資料，以改善AI解譯。
 
-對於[電子郵件](/help/tutorials/create-email-experience.md)，提示條件可能包括在&#x200B;_引數_&#x200B;中新增[指南](/help/user-guide/guidelines/overview.md)、上傳要在電子郵件變體中使用的資產，以及描述性提示。 對於[中繼廣告](/help/tutorials/create-meta-ad.md)，提示條件可能包括&#x200B;_引數_&#x200B;中的品牌指引、選取或上傳現有資產、影像或資產（例如外觀比例）的相關設定以及提示。 真正的力量始於[設定GenStudio指導方針](/help/user-guide/guidelines/add-guidelines.md)。
+對於[電子郵件](/help/tutorials/create-email-experience.md)，提示條件可能包括在&#x200B;_引數_&#x200B;中新增[指南](/help/user-guide/guidelines/overview.md)、上傳要在電子郵件變體中使用的資產，以及描述性提示。 對於[中繼廣告](/help/tutorials/create-meta-ad.md)，提示條件可能包括&#x200B;_引數_&#x200B;中的品牌指引、選取或上傳現有資產、影像或資產（例如外觀比例）的相關設定以及提示。 實際效能始於[設定准則](/help/user-guide/guidelines/add-guidelines.md)。
 
 >[!NOTE]
 >
->如果在提示區域的&#x200B;_引數_&#x200B;中新增准則，您就不需要在提示中包含對這些准則的參照。 GenStudio將在內容產生中善用這些[!DNL Brands]、[!DNL Products]和[!DNL Personas]。
+>如果在提示區域的&#x200B;_引數_&#x200B;中新增准則，您就不需要在提示中包含對這些准則的參照。 適用於效能行銷人員的GenStudio將在內容產生過程中善用這些[!DNL Brands]、[!DNL Products]和[!DNL Personas]。
 
 ### 准則
 
-GenStudio指南可協助創作AI個人化您的GenStudio資產構成。 出現提示條件時，您可以從已設定的准則中選擇[[!DNL Brand]](/help/user-guide/guidelines/brands.md)、[[!DNL Persona]](/help/user-guide/guidelines/personas.md)和[[!DNL Product]](/help/user-guide/guidelines/products.md)。
+適用於效能行銷人員的GenStudio指引有助於創作AI將您的資產組合個人化。 出現提示條件時，您可以從已設定的准則中選擇[[!DNL Brand]](/help/user-guide/guidelines/brands.md)、[[!DNL Persona]](/help/user-guide/guidelines/personas.md)和[[!DNL Product]](/help/user-guide/guidelines/products.md)。
 
 >[!TIP]
 >
->您可以控制GenStudio使用您[!DNL Brand]指引的方式和時間。 請參閱[准則](/help/user-guide/guidelines/overview.md)以瞭解如何設定和管理您的品牌准則。
+>您可控制適用於效能行銷人員的GenStudio使用您[!DNL Brand]指引的方式和時間。 請參閱[准則](/help/user-guide/guidelines/overview.md)以瞭解如何設定和管理您的品牌准則。
 
 ## 再試一次
 
@@ -65,15 +65,15 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 Use information from https://www.adobe.com/products/photoshop.html to inspire users with the latest features.
 ```
 
-或者，您也可以貼上行銷活動簡報的區段。 您甚至可以要求GenStudio避免使用某些字詞、元素或主題。
+或者，您也可以貼上行銷活動簡報的區段。 您甚至可以要求適用於效能行銷人員的GenStudio避免使用特定字詞、元素或主題。
 
 ## 最佳做法
 
-在GenStudio中製作有效提示的一些簡單最佳實務：
+製作有效提示的一些簡單最佳實務：
 
 - 做到具體，並提供該做什麼和不該做什麼的詳細資訊。
 - 使用外部參照提供內容。
-- 運用GenStudio指引。
+- 運用GenStudio的效能行銷人員准則。
 - 定期檢閱和調整指引。
 - 反複和調整。
 - 透過實驗瞭解。

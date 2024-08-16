@@ -1,19 +1,19 @@
 ---
-title: GenStudioTutorials
-description: 瞭解如何按照GenStudio教學課程完成端對端流程，例如建立電子郵件體驗。
-source-git-commit: 43b059fe65a06b1cb6bba03c4e811c83af75d6f3
+title: 針對效能行銷人員的Adobe GenStudioTutorials
+description: 瞭解如何按照效能行銷人員適用的GenStudio教學課程，完成端對端流程，例如建立電子郵件體驗。
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 
-# [!DNL GenStudio]個教學課程
+# 高效能行銷人員的Adobe GenStudio教學課程
 
-GenStudio教學課程遵循基本的逐步工作流程，其中包含使用手冊中更深入概念的連結。
+效能行銷人員的Adobe GenStudio教學課程遵循基本的逐步工作流程，其中包含使用手冊中更深入概念的連結。
 
-本指南中的教學課程詳細說明概念、先決條件、最佳實務，以及在GenStudio中成功產生高品質行銷內容所需的個別步驟。
+本指南中的教學課程詳細說明概念、先決條件、最佳實務，以及在GenStudio中成功為效能行銷人員產生高品質行銷內容所需的個別步驟。
 
 <table style="table-layout:fixed">
 <td valign="top">

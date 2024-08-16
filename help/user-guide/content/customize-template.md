@@ -1,11 +1,11 @@
 ---
 title: 自訂範本
-description: 瞭解如何建立GenStudio的自訂範本。
+description: 瞭解如何為效能行銷人員建立自訂範本Adobe GenStudio。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9cf7da078e84cf7696f32ca2278aa71b7b1b7cc
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # 自訂範本
 
-使用&#x200B;_Handlebars_&#x200B;範本語言，調整您的HTML範本以適應GenStudio。 Handlebars語法使用帶有雙大括弧的規則文字作為內容預留位置。 請參閱&#x200B;_Handlebars語言指南_&#x200B;中的[`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars)，瞭解如何準備您的範本。
+使用&#x200B;_Handlebars_&#x200B;範本化語言，調整您的HTML範本以符合效能行銷人員的Adobe GenStudio。 Handlebars語法使用帶有雙大括弧的規則文字作為內容預留位置。 請參閱&#x200B;_Handlebars語言指南_&#x200B;中的[`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars)，瞭解如何準備您的範本。
 
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+-->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
 
 ```html
 <!DOCTYPE html>
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->在接下來的幾個小節中，為電子郵件欄位新增內容預留位置、參閱範本、在預覽中隱藏不必要的元素，以及管理靜態內容的連結。 您的範本準備就緒後，您可以[將其上傳到GenStudio](use-templates.md#upload-a-template)，並開始根據您的自訂範本產生個人化電子郵件。
+>在接下來的幾個小節中，為電子郵件欄位新增內容預留位置、參閱範本、在預覽中隱藏不必要的元素，以及管理靜態內容的連結。 您的範本準備就緒後，您可以[將其上傳到GenStudio以進行效能行銷人員](use-templates.md#upload-a-template)，並開始根據您的自訂範本產生個人化電子郵件。
 
 ## 內容預留位置
 
-在範本的head或body中，您可以使用Handlebars語法來插入內容預留位置，以要求GenStudio將實際內容填入範本中。 GenStudio會根據欄位名稱自動辨識及解譯內容預留位置。
+在範本的head或body中，您可以使用Handlebars語法來插入內容預留位置，以要求GenStudio的效能行銷人員將實際內容填入範本。 適用於效能的GenStudio行銷人員會根據欄位名稱自動辨識和解譯內容預留位置。
 
 例如，您可以使用`{{ headline }}`來指示電子郵件標題的放置位置：
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 #### 可辨識的欄位名稱
 
-下表列出GenStudio識別的欄位名稱，以將母體填入範本。
+下表列出GenStudio識別的欄位名稱，供效能行銷人員用於母體至範本。
 
 | 欄位 | 角色 | 頻道範本 |
 | -------------- | ---------------------- | -------------------- |
@@ -65,7 +65,7 @@ ht-degree: 0%
 | `image` | 影像 | 電子郵件（建議）<br>中繼廣告（建議） |
 | `brand_logo` | 所選品牌的標誌 | 電子郵件<br>中繼廣告 |
 
-GenStudio會自動填入範本中的某些欄位，因此不需要將它們包含在範本設計中：
+適用於效能的GenStudio行銷人員會自動填入範本中的特定欄位，因此不需要將其納入您的範本設計：
 
 * `subject`欄位（電子郵件範本）
 * `headline`、`body`和`CTA`欄位（中繼廣告範本）
@@ -106,7 +106,7 @@ _範例_： ``{{customVariable}}`` （`customVariable`是可手動編輯的區�
 
 ## 區段或群組
 
-_區段_&#x200B;通知GenStudio此區段中的欄位需要高度一致性。 建立此關係可協助AI產生符合區段中創意元素的內容。
+_區段_&#x200B;會通知GenStudio的效能行銷人員此區段中的欄位需要高度一致性。 建立此關係可協助AI產生符合區段中創意元素的內容。
 
 在欄位名稱中使用您選擇的前置詞來指示欄位是區段或群組的一部分。
 
@@ -126,13 +126,13 @@ _區段_&#x200B;通知GenStudio此區段中的欄位需要高度一致性。 建
 * `news_headline`
 * `news_body`
 
-GenStudio瞭解`spotlight_headline`與`spotlight_body`的關聯性比`news_body`更密切。
+適用於效能行銷人員的GenStudio瞭解，`spotlight_headline`與`spotlight_body`的關聯性比`news_body`更密切。
 
 ## 範本範例
 
 +++範例：電子郵件範本包含一個區段
 
-以下是包含一節之電子郵件的HTML範本基本範例。 標題包含用於樣式的簡單、內嵌CSS。 內文包含`pre-header`、`headline`和`image` [預留位置](#content-placeholders)，供GenStudio在電子郵件產生程式期間用來插入內容。
+以下是包含一節之電子郵件的HTML範本基本範例。 標題包含用於樣式的簡單、內嵌CSS。 內文包含`pre-header`、`headline`和`image` [預留位置](#content-placeholders)，供GenStudio的效能行銷人員在電子郵件產生程式期間插入內容。
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -293,9 +293,9 @@ GenStudio瞭解`spotlight_headline`與`spotlight_body`的關聯性比`news_body`
 
 ## 靜態內容
 
-電子郵件和中繼範本通常會連結至GenStudio外部託管的影像和CSS檔案。 當GenStudio為這些範本或衍生自這些範本的體驗產生縮圖時，如果這些外部資源沒有正確的跨原始資源共用(CORS)標題，則可能會忽略這些外部資源。
+電子郵件和中繼範本通常會連結至GenStudio外部託管的影像和CSS檔案，以供效能行銷人員使用。 當適用於效能的GenStudio行銷人員為這些範本或從中衍生的體驗產生縮圖時，如果他們沒有正確的跨原始資源共用(CORS)標頭，則可能會忽略這些外部資源。
 
 為了確保這些資源在縮圖產生程式期間可供使用，請考慮兩個選項：
 
-1. **使用CORS標頭**：主機伺服器必須傳送回應，且生產環境的`Access-Control-Allow-Origin`標頭設為`https://experience.adobe.com`值。 此方法可讓GenStudio存取並包含資源。
+1. **使用CORS標頭**：主機伺服器必須傳送回應，且生產環境的`Access-Control-Allow-Origin`標頭設為`https://experience.adobe.com`值。 此方法可讓GenStudio的效能行銷人員存取並包含資源。
 1. **使用資料URL**：使用資料URL將外部資源直接內嵌到範本中。 此方法會繞過CORS限制，並確保資源在產生縮圖期間可供使用。

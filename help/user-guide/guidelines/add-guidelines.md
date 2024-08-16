@@ -1,12 +1,12 @@
 ---
-title: 將准則新增至GenStudio
-description: 瞭解如何在Adobe [!DNL GenStudio]中新增准則 — [!DNL Brands]、 [!DNL Products]和 [!DNL Personas]。
+title: 為績效行銷人員新增准則至Adobe GenStudio
+description: 瞭解如何在效能行銷人員的Adobe GenStudio中新增准則 — [!DNL Brands]、 [!DNL Products]和 [!DNL Personas]。
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '944'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 # 新增准則
 
-[[!DNL Brands]](/help/user-guide/guidelines/brands.md)、[[!DNL Products]](/help/user-guide/guidelines/products.md)和[[!DNL Personas]](/help/user-guide/guidelines/personas.md)是GenStudio中的使用者定義指引，可確保任何AI產生的內容經過自訂，以符合品牌識別，進而實現內容的有效個人化。
+[[!DNL Brands]](/help/user-guide/guidelines/brands.md)、[[!DNL Products]](/help/user-guide/guidelines/products.md)和[[!DNL Personas]](/help/user-guide/guidelines/personas.md)是GenStudio中供效能行銷人員使用的使用者定義指引，可確保任何AI產生的內容經過自訂，以符合品牌識別，實現內容的有效個人化。
 
-請參閱[GenStudio指南總覽](/help/user-guide/guidelines/overview.md)。
+請參閱[指南概述](/help/user-guide/guidelines/overview.md)。
 
-在GenStudio中新增指引是建立程式的重要步驟。 指南會告知內容建立流程，以及使用者定義的提示和Adobe創作AI技術，以製作具影響力的資產。
+為高效能行銷人員的GenStudio新增指引，是建立程式的重要步驟。 指南會告知內容建立流程，以及使用者定義的提示和Adobe創作AI技術，以製作具影響力的資產。
 
 ## 新增[!DNL Brands]
 
-若要將品牌新增至GenStudio，您可以[上傳品牌指南](#upload-brand-guidelines)或[藉由選取指引並輸入品牌詳細資料來手動建立品牌](#manually-add-brand)。 [Publish品牌](#publish-brand)至[!DNL Content]，以供日後產生內容使用。
+若要為效能行銷人員的GenStudio新增品牌，您可以[上傳品牌指南](#upload-brand-guidelines)或[藉由選取指引並輸入品牌詳細資料來手動建立品牌](#manually-add-brand)。 [Publish品牌](#publish-brand)至[!DNL Content]，以供日後產生內容使用。
 
 在左側導覽區域中，按一下&#x200B;**[!DNL Brands]**。 在&#x200B;_[!DNL Brands]_面板中，選取&#x200B;**新增品牌**。
 
 ### 透過上傳新增品牌
 
-您可以上傳自己的品牌檔案，以在GenStudio中填入新品牌。
+您可以上傳自己的品牌檔案，以在GenStudio中填入新品牌，供高效能行銷人員使用。
 
 請參閱[[!DNL Brands]](/help/user-guide/guidelines/brands.md)。
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 1. 選取&#x200B;**[!UICONTROL 新增品牌]**。
 
-GenStudio使用Adobe的創作AI技術，從您上傳的檔案中擷取資訊，並開始建立您的品牌。 當GenStudio從您的品牌檔案中組合每則指引時，您會看到品牌資訊，例如品牌聲音、頻道和影像指引等填入。
+使用Adobe的創作AI技術，適用於效能的GenStudio行銷人員會從您上傳的檔案中擷取資訊，並開始建立您的品牌。 您會看到品牌資訊，例如品牌聲音、管道和影像指導方針，這些資訊會被填入效能適用的GenStudio中，而行銷人員會從您的品牌檔案中組合每個指導方針。
 
 快顯視窗會提醒您在[發佈品牌](#publish-brand)之前檢閱擷取的內容。
 
 ### 手動新增品牌
 
-您可以在GenStudio中手動新增品牌詳細資料，而非上傳現有的品牌檔案，以填入新的[品牌](brands.md)。
+您可以手動新增品牌詳細資料，而非上傳現有的品牌檔案，以在GenStudio中填入新的[品牌](brands.md)以進行效能行銷人員。
 
 **若要手動新增品牌**：
 
@@ -66,7 +66,7 @@ GenStudio使用Adobe的創作AI技術，從您上傳的檔案中擷取資訊，�
 
 若要檢視您建立的[!DNL Brands]，請按一下&#x200B;_品牌_&#x200B;面板頂端附近的向後箭頭，以導覽回&#x200B;_[!DNL Brands]_首頁。
 
-您不必[發佈](#publish-brand)您的品牌，即可存取資訊。 任何手動新增的資訊在新增後即可立即使用。 若要讓貴組織中的其他人在GenStudio中使用品牌資訊，您必須將其發佈。
+您不必[發佈](#publish-brand)您的品牌，即可存取資訊。 任何手動新增的資訊在新增後即可立即使用。 若要讓貴組織中的其他人在GenStudio中使用績效行銷人員的品牌資訊，您必須將其發佈。
 
 ### Publish品牌
 
@@ -94,7 +94,7 @@ GenStudio使用Adobe的創作AI技術，從您上傳的檔案中擷取資訊，�
 
 ## 新增[!DNL Products]
 
-您可以在GenStudio中新增[!DNL Products]，在建立內容時指定個別產品的焦點區域。<!-- Add Rename, display, reposition functionality -->
+您可以在GenStudio中新增[!DNL Products]，讓效能行銷人員在建立內容時指定個別產品的焦點區域。<!-- Add Rename, display, reposition functionality -->
 
 請參閱[[!DNL Products]](products.md)。
 
@@ -121,7 +121,7 @@ GenStudio使用Adobe的創作AI技術，從您上傳的檔案中擷取資訊，�
 
 ## 新增[!DNL Personas]
 
-您可以在GenStudio中新增[!DNL Persona]，協助將您建立的內容鎖定為您理想的對象。
+您可以在GenStudio中新增效能行銷人員適用的[!DNL Persona]，協助將您建立的內容鎖定在您的理想受眾中。
 
 請參閱[[!DNL Personas]](personas.md)。
 

@@ -1,11 +1,11 @@
 ---
 title: 使用範本
-description: 瞭解如何使用範本在GenStudio中建立引人入勝的體驗。
+description: 瞭解如何使用範本為績效行銷人員在Adobe GenStudio中建立引人入勝的體驗。
 feature: Templates, Content
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 2%
+source-wordcount: '459'
+ht-degree: 1%
 
 ---
 
@@ -17,8 +17,8 @@ GenStudio範本是內容建立者快速產生一致的品牌上行銷內容所�
 本指南提供如何執行下列作業的詳細資訊：
 
 * 準備[電子郵件範本](email-template.md)或中繼廣告範本
-* [自訂GenStudio的範本](customize-template.md)
-* [將範本](#upload-a-template)上傳至GenStudio
+* 針對GenStudio for Performance Marketerstudio [自訂範本](customize-template.md)
+* 針對效能行銷人員將[範本](#upload-a-template)上傳至GenStudio
 * [使用範本建立體驗](#use-a-template)
 
 ## 範本剖析
@@ -38,11 +38,11 @@ GenStudio範本是內容建立者快速產生一致的品牌上行銷內容所�
 
 >[!NOTE]
 > 
->建議您在每個管道的內容中加入特定欄位，以確保GenStudio可以為內容預留位置產生文字。 請參閱[可辨識的欄位名稱](customize-template.md#recognized-field-names)，瞭解建議納入哪些欄位。
+>建議您在每個管道的內容中加入特定欄位，以確保適用於效能的GenStudio行銷人員可以產生內容預留位置的文字。 請參閱[可辨識的欄位名稱](customize-template.md#recognized-field-names)，瞭解建議納入哪些欄位。
 
 ## 上傳範本
 
-GenStudio接受HTML格式的範本。
+高效能適用的GenStudio行銷人員接受HTML格式的範本。
 
 **若要新增範本**：
 
@@ -80,7 +80,6 @@ GenStudio接受HTML格式的範本。
 >[!TIP]
 >
 >如需使用範本的完整教學課程，請參閱[[!DNL Create] 電子郵件體驗](/help/tutorials/create-email-experience.md)或[[!DNL Create] 中繼廣告體驗](/help/tutorials/create-meta-ad.md)。
-
 <!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 -->

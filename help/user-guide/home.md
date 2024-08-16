@@ -1,22 +1,22 @@
 ---
 title: Adobe GenStudio使用手冊
-description: 透過Adobe的AI優先應用程式GenStudio，讓行銷人員和創意人員能夠透過企業護欄和治理為高績效體驗提供對品牌上內容的自助存取。
-source-git-commit: 1e30db88fac8e6d47a845d4eb5d54defcc256244
+description: 透過Adobe的AI優先應用程式GenStudio for Performance Marketers，讓行銷人員和創意人員能夠透過企業護欄和針對高效能體驗的治理，自助存取品牌上內容。
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
-# GenStudio使用手冊
+# 高效能行銷人員Adobe GenStudio使用手冊
 
-Adobe GenStudio是AI導向的平台，可讓公司自主產生和管理行銷內容，並遵循其品牌標準、符合企業政策，且順暢地支援具影響力的行銷策略。
+高效能行銷人員的Adobe GenStudio是AI導向的平台，可讓企業自主產生和管理行銷內容，並符合其品牌標準、遵守企業政策，以及順暢地支援具影響力的行銷策略。
 
-透過GenStudio，行銷人員和創意人員可以簡化內容建立流程，建立吸引人、與文化相關並針對特定對象量身打造的行銷內容，同時維持高品質和品牌完整性。
+有了GenStudio for Performance行銷人員、行銷人員和創意人員可以簡化內容建立程式，建立吸引人、與文化相關且針對特定對象量身打造的行銷內容，同時維持高品質和品牌完整性。
 
-透過運用AI技術，GenStudio提供全方位的工具套件，可簡化內容建立及管理的複雜性，讓創意人員可專注於創新。
+透過運用AI技術，適用於效能行銷人員的GenStudio提供了一整套工具，可簡化內容建立及管理的複雜性，讓創意人員可專注於創新。
 
-## 探索GenStudio功能
+## 探索功能
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
@@ -99,7 +99,7 @@ Adobe GenStudio是AI導向的平台，可讓公司自主產生和管理行銷內
       </a>
    </div>
    <p>
-      <em>瞭解如何新增准則（品牌、產品和角色）至GenStudio。</em>
+      <em>瞭解如何為GenStudio的效能行銷人員新增准則（品牌、產品和角色）。</em>
    </p>
 </td>
 <td valign="top">

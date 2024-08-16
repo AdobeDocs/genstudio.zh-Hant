@@ -2,9 +2,9 @@
 title: 核准內容
 description: 瞭解如何核准內容。
 feature: Approval
-source-git-commit: 0d6eff35e66d3657aa4f5fda65f91f0caab4a7e1
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -24,5 +24,5 @@ ht-degree: 0%
 
 1. 將草稿狀態從&#x200B;**需要工作**&#x200B;變更為&#x200B;**已核准**。
 
-您的核准者工作已完成。 GenStudio會提醒草稿建立者您的核准。 如需儲存至[!DNL Content]或&#x200B;_發佈_&#x200B;的程式的概述，請參閱[Publish內容](./publish-content.md)。
+您的核准者工作已完成。 適用於效能行銷人員的GenStudio會提醒草稿建立者您的核准。 如需儲存至[!DNL Content]或&#x200B;_發佈_&#x200B;的程式的概述，請參閱[Publish內容](./publish-content.md)。
 

@@ -1,18 +1,18 @@
 ---
-title: ' [!DNL Content]的概觀'
+title: 績效行銷人員的Adobe GenStudio概觀 [!DNL Content]
 description: 瞭解如何在一個直覺式入口網站中尋找、編輯、重複使用和共用品牌核准的資產。
 feature: Attributes, Content, Templates
-source-git-commit: 4192f4a34c30267a2556874fed2e5bc5b300c227
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '285'
 ht-degree: 1%
 
 ---
 
 
-# GenStudio [!DNL Content]
+# 效能行銷人員的Adobe GenStudio[!DNL Content]
 
-GenStudio [!DNL Content]提供中央位置，可儲存、尋找及共用所有品牌核准的資產、體驗和範本。 您可以使用創作AI編輯和重新混合內容、深入瞭解內容使用情況和情緒，以及重新整理和重新利用現有資產。
+適用於效能行銷人員的GenStudio [!DNL Content]提供中央位置，可儲存、尋找及共用所有品牌核准的資產、體驗和範本。 您可以使用創作AI編輯和重新混合內容、深入瞭解內容使用情況和情緒，以及重新整理和重新利用現有資產。
 
 ## [!DNL Content] 使用案例
 
@@ -65,7 +65,7 @@ GenStudio [!DNL Content]提供中央位置，可儲存、尋找及共用所有�
 
 ## [!DNL Content]功能
 
-GenStudio [!DNL Content]可讓您輕鬆管理核准的資產並加快內容生命週期。 在&#x200B;**[!UICONTROL [!DNL Content]]**&#x200B;中，您可以搜尋、尋找及重複使用效能內容，或選取資產或體驗，以快速開始建立歷久不衰的行銷活動的新變體。
+適用於效能行銷人員的GenStudio [!DNL Content]可讓您輕鬆管理核准的資產並加快內容生命週期。 在&#x200B;**[!UICONTROL [!DNL Content]]**&#x200B;中，您可以搜尋、尋找及重複使用效能內容，或選取資產或體驗，以快速開始建立歷久不衰的行銷活動的新變體。
 
 ### 上傳資產
 
@@ -73,7 +73,7 @@ GenStudio [!DNL Content]可讓您輕鬆管理核准的資產並加快內容生�
 
 ### 搜尋及尋找核准的內容
 
-儲存已核准的資產時，[!DNL Content]會維護豐富的中繼資料、產生內容及稽核歷史記錄。 資產詳細資訊有助於使用篩選和搜尋字串快速縮小搜尋結果。 GenStudio AI會自動識別並儲存特定細節，例如顏色。 在搜尋欄位中搜尋`blue`，會將內容清單範圍縮小至標示為藍色的資產。
+儲存已核准的資產時，[!DNL Content]會維護豐富的中繼資料、產生內容及稽核歷史記錄。 資產詳細資訊有助於使用篩選和搜尋字串快速縮小搜尋結果。 GenStudio的效能行銷人員AI會自動識別並儲存特定細節，例如顏色。 在搜尋欄位中搜尋`blue`，會將內容清單範圍縮小至標示為藍色的資產。
 
 ### 使用範本
 

@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '887'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # 建立中繼廣告體驗
 
-此教學課程示範如何使用GenStudio [[!DNL Create]](/help/user-guide/create/overview.md)產生品牌化的中繼廣告體驗（左側導覽區域中的繪圖筆刷圖示）。
+此教學課程示範如何使用GenStudio為效能行銷人員[[!DNL Create]](/help/user-guide/create/overview.md)產生品牌化的中繼廣告體驗（左側導覽區域中的繪圖筆刷圖示）。
 
-開始產生中繼廣告體驗之前，請務必[在GenStudio中納入指引](/help/user-guide/guidelines/add-guidelines.md)，並熟悉[建立提示](/help/user-guide/effective-prompts.md)的基本知識。
+開始產生中繼廣告體驗之前，請務必[在效能行銷人員的GenStudio中納入指引](/help/user-guide/guidelines/add-guidelines.md)，並熟悉[建立提示](/help/user-guide/effective-prompts.md)的基本知識。
 
 ## 選擇範本
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 1. 按一下&#x200B;_引數_&#x200B;圖示以展開提示區域。
 1. 在&#x200B;_引數_&#x200B;區段中，選取指導方針 — [!DNL Brands]、[!DNL Personas]和[!DNL Products] — 以通知內容建立。
 
-   如果這些功能表中沒有可用的品牌、角色或產品，請[將准則新增至您的GenStudio](/help/user-guide/guidelines/add-guidelines.md)。
+   如果這些功能表中沒有可用的品牌、角色或產品，請[將准則新增至您的GenStudio效能行銷人員適用的](/help/user-guide/guidelines/add-guidelines.md)。
 
 1. 按一下&#x200B;**[!UICONTROL 選取內容]**&#x200B;以新增要在體驗&#x200B;*中使用的內容，並按一下*&#x200B;以影響內容產生。
    * 按一下&#x200B;**[!UICONTROL 從內容選取]**&#x200B;以選取已發佈至[!DNL Content]的資產（影像）。 使用篩選器進一步縮小搜尋結果的範圍。
@@ -120,8 +120,8 @@ ht-degree: 0%
 
 如需詳細資訊，請參閱[[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content)。
 
-## 將中繼連線至GenStudio
+## 連線中繼資料
 
-您可以將GenStudio連線至中繼以接收進階分析和[內容效能的深入分析](/help/user-guide/insights/overview.md)。
+您可以將效能行銷人員適用的GenStudio連線至中繼，以接收進階分析和[內容效能的深入分析](/help/user-guide/insights/overview.md)。
 
 如需詳細資訊，請參閱[連線通道帳戶](/help/user-guide/insights/connect-channel.md)。
