@@ -3,9 +3,9 @@ title: 為績效行銷人員準備中繼廣告範本以進行Adobe GenStudio
 description: 瞭解如何為績效行銷人員建立自訂中繼廣告範本Adobe GenStudio。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 * 垂直(4:5)：1080 x 1350畫素
 * 內文(9:16)：1080 x 1920畫素
 
-如果廣告不是根據上述其中一種外觀比例所設計，適用於效能行銷人員的GenStudio會自動將影像裁切成適當的大小。
+如果廣告不是以其中一個外觀比例來設計，適用於效能行銷人員的GenStudio會自動將影像裁切成適當的大小。
 
 ## 測試中繼廣告範本
 
@@ -52,18 +52,18 @@ ht-degree: 0%
 若要定義產生的內容區域，請執行下列動作：
 
 * 識別GenStudio for Performance行銷人員應該自動產生的範本文字元素，例如標題或CTA。
-* 使用Handblebars語法在HTML範本中插入預留位置，以調整範本。
+* 使用Handlebars語法在HTML範本中插入預留位置，以調整範本。
 
 請參閱[內容預留位置](/help/user-guide/content/customize-template.md#content-placeholders)。
 
 ## 預覽範本
 
-使用內建協助程式控制特定內容區域的可見度。 例如，您可以在匯出的範本中加入連結的追蹤引數，同時保持整潔的預覽連結。
+使用內建協助程式控制特定內容區域的可見度。 例如，在匯出的範本中加入連結的追蹤引數，同時保持整潔的預覽連結。
 
 請參閱[範本預覽](/help/user-guide/content/customize-template.md#template-preview)。
 
 ## 上傳並使用範本
 
-在設計、編碼、測試和預覽範本後，您可以將其上傳至GenStudio以進行效能行銷人員，以用於產生全新的行銷內容。
+在設計、編碼、測試和預覽範本後，將其上傳至GenStudio以進行效能行銷人員，以用於產生全新的行銷內容。
 
 請參閱[使用範本](use-templates.md)。

@@ -3,7 +3,7 @@ title: 準備電子郵件範本以供效能行銷人員進行Adobe GenStudio
 description: 瞭解如何為效能行銷人員建立自訂電子郵件範本Adobe GenStudio。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
@@ -48,7 +48,7 @@ ht-degree: 0%
 若要定義產生的內容區域，請執行下列動作：
 
 * 識別GenStudio for Performance行銷人員應該自動產生的範本文字元素，例如標題或CTA。
-* 使用Handblebars語法在HTML範本中插入預留位置，以調整範本。
+* 使用Handlebars語法在HTML範本中插入預留位置，以調整範本。
 
 請參閱[內容預留位置](/help/user-guide/content/customize-template.md#content-placeholders)。
 

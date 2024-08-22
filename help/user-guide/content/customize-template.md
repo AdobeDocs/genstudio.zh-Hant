@@ -3,9 +3,9 @@ title: 自訂範本
 description: 瞭解如何為效能行銷人員建立自訂範本Adobe GenStudio。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 44390d551e638fcff47cff5844fcfda4ed9f98f3
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 使用&#x200B;_Handlebars_&#x200B;範本化語言，調整您的HTML範本以符合效能行銷人員的Adobe GenStudio。 Handlebars語法使用帶有雙大括弧的規則文字作為內容預留位置。 請參閱&#x200B;_Handlebars語言指南_&#x200B;中的[`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars)，瞭解如何準備您的範本。
 
-<!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+如果您沒有現成的HTML範本可在GenStudio中使用以進行效能行銷人員，您可以先使用HTML標籤定義範本的結構： `DOCTYPE`、`html`、`head`和`body`。 以下是基本電子郵件範本，包含CSS樣式以自訂外觀：
 
 ```html
 <!DOCTYPE html>
@@ -30,8 +29,6 @@ ht-degree: 0%
 </body>
 </html>
 ```
-
-請參閱[範本範例](#template-examples)。
 
 >[!TIP]
 >
@@ -47,13 +44,11 @@ ht-degree: 0%
 <div>{{ headline }}</div>
 ```
 
-### 欄位名稱
+### 可辨識的欄位名稱
 
 自訂範本中允許的欄位數量上限為20個。
 
-#### 可辨識的欄位名稱
-
-下表列出GenStudio識別的欄位名稱，供效能行銷人員用於母體至範本。
+下表列出GenStudio針對效能行銷人員識別的欄位名稱，以便將其填入範本。
 
 | 欄位 | 角色 | 頻道範本 |
 | -------------- | ---------------------- | -------------------- |
@@ -63,12 +58,12 @@ ht-degree: 0%
 | `cta` | 行動號召 | 電子郵件（建議）<br>中繼廣告 |
 | `on_image_text` | 在影像文字上 | 中繼廣告（建議） |
 | `image` | 影像 | 電子郵件（建議）<br>中繼廣告（建議） |
-| `brand_logo` | 所選品牌的標誌 | 電子郵件<br>中繼廣告 |
+| `brand_logo` | 選取品牌<br>的標誌[欄位名稱](#brand-logo-field-name)建議使用方式。 | 電子郵件<br>中繼廣告 |
 
 適用於效能的GenStudio行銷人員會自動填入範本中的特定欄位，因此不需要將其納入您的範本設計：
 
-* `subject`欄位（電子郵件範本）
-* `headline`、`body`和`CTA`欄位（中繼廣告範本）
+- `subject`欄位（電子郵件範本）
+- `headline`、`body`和`CTA`欄位（中繼廣告範本）
 
 >[!WARNING]
 >
@@ -76,55 +71,53 @@ ht-degree: 0%
 
 #### 品牌標誌欄位名稱
 
-若要將品牌標誌新增至範本，請使用下列其中一種方法來呈現預設標誌。
+下列範例示範兩種有條件地呈現品牌標誌的方法，驗證來源、提供預設或替代標誌（若品牌標誌無法使用）以及套用樣式：
 
-_範例_：
+_範例_：在HTML`img src`定義中
 
-```bash
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```html
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;"> 
 ```
 
-_範例_：
+_範例_：在Handlebars條件中
 
-```bash
+```handlebars
 {{#if brand_logo}}
-
-                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{else}}
-
-                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{/if}}
+    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+    {{else}}
+    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+{{/if}}
 ```
 
 #### 手動欄位名稱
 
-所有其他欄位名稱會視為手動填入的欄位。 如果您希望區段可編輯，請在要編輯的區段周圍新增雙括弧。
+所有其他欄位名稱會視為手動填入的欄位。 若要建立可編輯的區段，請在區段名稱兩側加上雙括弧：
 
-_範例_： ``{{customVariable}}`` （`customVariable`是可手動編輯的區段）
+```handlebars
+{{customVariable}}
+```
 
 ## 區段或群組
 
-_區段_&#x200B;會通知GenStudio的效能行銷人員此區段中的欄位需要高度一致性。 建立此關係可協助AI產生符合區段中創意元素的內容。
+_區段_&#x200B;會通知GenStudio for Performance行銷人員此區段中的欄位需要高度一致性。 建立此關係可協助AI產生符合區段中創意元素的內容。
 
 在欄位名稱中使用您選擇的前置詞來指示欄位是區段或群組的一部分。
 
 例如，您可能想要將焦點放在反白區域中出現的內容：
 
-* `spotlight_headline`
-* `spotlight_body`
+- `spotlight_headline`
+- `spotlight_body`
 
 每個區段只能有一個欄位型別。 在上述範例中，`spotlight`首碼只能有一個`spotlight_headline`欄位。
 
 範本最多可包含三個區段：
 
-* `headline`
-* `body`
-* `spotlight_headline`
-* `spotlight_body`
-* `news_headline`
-* `news_body`
+- `headline`
+- `body`
+- `spotlight_headline`
+- `spotlight_body`
+- `news_headline`
+- `news_body`
 
 適用於效能行銷人員的GenStudio瞭解，`spotlight_headline`與`spotlight_body`的關聯性比`news_body`更密切。
 
@@ -263,7 +256,6 @@ _區段_&#x200B;會通知GenStudio的效能行銷人員此區段中的欄位需�
     <div class="ad-body">"{{ body }}"</div>
     <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
 </div>
-
 </body>
 </html>
 ```
