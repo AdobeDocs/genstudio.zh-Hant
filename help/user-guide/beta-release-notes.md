@@ -1,7 +1,7 @@
 ---
 title: 高效能行銷人員Adobe GenStudioBeta發行說明
 description: 瞭解效能行銷人員適用的Adobe GenStudio的最新功能和增強功能。
-source-git-commit: 44cee6fa5b543372b1264745dd42ca6d3c754ec5
+source-git-commit: 17d2cb3afd6c3ce8a8c5efe8c5b406f6cdf5aa76
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 * _體驗詳細資料_&#x200B;頁面摘要位置名稱現在會指定Facebook或Instagram摘要。 (8/16)
 
-* 現在，當使用者從&#x200B;_資產總覽_&#x200B;檢視導覽至&#x200B;_資產詳細資訊_&#x200B;檢視時，裁切較大的影像和視訊會保持一致。  (8/16)
+* 現在，當使用者從&#x200B;_資產總覽_&#x200B;檢視導覽至&#x200B;_資產詳細資訊_&#x200B;檢視時，裁切較大的影像和視訊會保持一致。 (8/16)
 
 * 在使用者登入之前，屬性畫面搜尋結果計數不再顯示`0 of`。  (8/16) <!-- GS- 3665 -->
 
