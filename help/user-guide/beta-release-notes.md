@@ -1,9 +1,9 @@
 ---
 title: 高效能行銷人員Adobe GenStudioBeta發行說明
 description: 瞭解效能行銷人員適用的Adobe GenStudio的最新功能和增強功能。
-source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
+source-git-commit: 44cee6fa5b543372b1264745dd42ca6d3c754ec5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 ### 已解決的已知問題
 
-* 「提示」區域([!DNL Brands]下拉式功能表會在電子郵件建立期間，在([!DNL Brands])清單的結尾顯示旋轉圖示。 （固定8/22） <!-- GS-4077 -->
+* 在電子郵件建立期間，「提示」區域([!DNL Brands])下拉式功能表會在([!DNL Brands])清單的結尾顯示旋轉圖示。 （固定8/22） <!-- GS-4077 -->
 
-## 舊版Beta
+## Beta舊版
 
-先前的Beta版包含下列重點和修正。
+舊版Beta包含下列重點和修正。
 
 ### 反白顯示
 
