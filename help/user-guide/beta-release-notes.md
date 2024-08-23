@@ -1,9 +1,9 @@
 ---
 title: 高效能行銷人員Adobe GenStudioBeta發行說明
 description: 瞭解效能行銷人員適用的Adobe GenStudio的最新功能和增強功能。
-source-git-commit: 72103c750a7708d97be87bed144bfe053ceeaa0f
+source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,10 @@ ht-degree: 0%
 * 無法從&#x200B;_Assets_&#x200B;播放視訊。<!-- GS-3846 -->
 
 * 使用者也必須登入Facebook，才能登入管道中繼廣告帳戶兩次。 **因應措施**：登入Channel Meta Ads帳戶之前，請先登出Facebook。
+
+### 已解決的已知問題
+
+* 「提示」區域([!DNL Brands]下拉式功能表會在電子郵件建立期間，在([!DNL Brands])清單的結尾顯示旋轉圖示。 （固定8/22） <!-- GS-4077 -->
 
 ## 舊版Beta
 
