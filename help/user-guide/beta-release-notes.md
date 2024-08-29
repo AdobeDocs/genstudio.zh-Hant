@@ -1,9 +1,9 @@
 ---
 title: 高效能行銷人員Adobe GenStudioBeta發行說明
 description: 瞭解效能行銷人員適用的Adobe GenStudio的最新功能和增強功能。
-source-git-commit: 17d2cb3afd6c3ce8a8c5efe8c5b406f6cdf5aa76
+source-git-commit: f30eaea46a0cbb45f1ba04e393219b843c356e10
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -11,23 +11,44 @@ ht-degree: 0%
 
 # 高效能行銷人員Adobe GenStudioBeta發行說明
 
-這些附註著重說明在截至8月23日的一週中，效能行銷人員修正和增強功能的重大Adobe GenStudio。
+這些附註著重說明在截至8月30日的一週中，效能行銷人員修正和增強功能的重大Adobe GenStudio。
+
+## 反白顯示
+
+* instagram和Facebook管道指引已合併至中繼品牌指引。
+
+* 已簡化「建立畫布」導覽元素。 ([!DNL Create])登陸頁面會顯示左側導覽面板，但使用者現在會使用「**[!UICONTROL 上一步]**」按鈕，從其他「建立」工作區導覽至此空間。 <!-- GS-1189 -->
+
+* 導覽元素已增強，可在執行整個產品任務時支援使用者焦點，包括下列產品區域：
+
+   * ([!DNL Content])中的資產、體驗、範本詳細資料
+   * ([!DNL Insights])中的體驗、資產、屬性詳細資料
+   * ([!DNL Brands])中的品牌詳細資料
+   * ([!DNL Products])和([!DNL Personas]) <!-- GS-1189 -->中的產品與角色詳細資料
+
+* 使用者不再需要按一下&#x200B;**[!UICONTROL 重新整理]**&#x200B;按鈕，即可檢視([!DNL Content])中體驗的更新。<!-- GS-4218 -->
+
+* 「體驗詳細資料」頁面現在會將外部資產縮圖轉譯為HTML。<!-- GS-3092 -->
+
+* 新增或刪除Assets和體驗後的UI延遲已有所改善。<!-- GS-3389 -->
+
+* 範本預覽現在包含更多描述性預設文字。<!-- GS-4028 -->
 
 ## 已知問題
 
 下列已知問題排程在GenStudio for Performance Marketers GA版本中解決。
 
-* 由於ACP儲存平台發生問題，上傳品牌指引失敗。<!-- GS-4369 -->
+* MetaAds畫布預覽和匯出的檢視之間存在差異。<!-- GS-4492 4401 -->
+
+* ([!DNL Insights])檢視中缺少行銷活動縮圖。<!-- GS-4648 -->
 
 * 使用者目前可以選取需要調整大小的小型資產，但不支援放大這些資產。<!-- GS-3131 -->
-
-* 無法從&#x200B;_Assets_&#x200B;播放視訊。<!-- GS-3846 -->
 
 * 使用者也必須登入Facebook，才能登入管道中繼廣告帳戶兩次。 **因應措施**：登入Channel Meta Ads帳戶之前，請先登出Facebook。
 
 ### 已解決的已知問題
 
-* 在電子郵件建立期間，「提示」區域([!DNL Brands])下拉式功能表會在([!DNL Brands])清單的結尾顯示旋轉圖示。 （固定8/22） <!-- GS-4077 -->
+* 當使用者嘗試在([!DNL Insights])檢視中輸入認證時，GenStudio會顯示錯誤。 （固定8/29） <!-- GS-4689 -->
 
 ## Beta舊版
 
@@ -56,3 +77,10 @@ ht-degree: 0%
 * 在使用者登入之前，屬性畫面搜尋結果計數不再顯示`0 of`。  (8/16) <!-- GS- 3665 -->
 
 * 按一下&#x200B;**[!UICONTROL [!DNL Insights]]** > **[!UICONTROL 資產]**&#x200B;計數欄位不再清除搜尋和篩選設定。 (8/16) <!-- GS-3476 -->
+
+### 過去Beta發行版本中已解決的已知問題
+
+* 由於ACP儲存平台發生問題，上傳品牌指引失敗。 （固定8/22） <!-- GS-4369 -->
+
+* 在電子郵件建立期間，「提示」區域([!DNL Brands])下拉式功能表會在([!DNL Brands])清單的結尾顯示旋轉圖示。 （固定8/22） <!-- GS-4077 -->
+
