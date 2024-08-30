@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5026afb4eb71df73063559aee34971039511b31a
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '813'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 選擇範本
 
-若要開始建立新的電子郵件體驗，請使用可用的範本為您的內容提供架構。
+若要建立新的電子郵件體驗，請使用可用的範本為您的內容提供架構。
 
 **若要選擇電子郵件範本**：
 
@@ -47,6 +47,10 @@ ht-degree: 0%
    * 按一下&#x200B;**[!UICONTROL 從內容選取]**&#x200B;以選取已發佈至[!DNL Content]的資產（影像）。 使用篩選器進一步縮小搜尋結果的範圍。
    * 按一下&#x200B;**[!UICONTROL 上傳]**&#x200B;瀏覽您的檔案，並選擇要使用的資產。 除了瀏覽裝置之外，您也可以從Microsoft OneDrive或Dropbox匯入。
    * 將資產拖放至&#x200B;_Content_&#x200B;區段。
+
+>[!NOTE]
+>
+>如果您的電子郵件範本有多個區段，請在&#x200B;_多區段電子郵件_&#x200B;中為每個電子郵件區段選取[!DNL Products]和內容（視覺資產）。 多節電子郵件支援每個節一個視覺資產。
 
 當您完成新增引數時，可以再次按一下&#x200B;_引數_&#x200B;圖示來收合提示區域。
 

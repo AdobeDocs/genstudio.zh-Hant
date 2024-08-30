@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 4745e7cab9cd605c3bc7e93cb610e510566c9302
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '955'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,8 @@ ht-degree: 0%
 
 將頂端功能表列中的中繼廣告頻道選項切換為&#x200B;**Facebook**&#x200B;或&#x200B;**Instagram**，以管理每個頻道產生的草稿。
 
+[修訂中繼廣告](#revise-generated-meta-ads)時，您可以變更Facebook和Instagram廣告的外觀比例。
+
 ## 修訂產生的中繼廣告
 
 在選取要傳送以進行核准或發佈到[!DNL Content]的內容之前，您可以編輯中繼廣告或從產生的廣告集中刪除變體。
@@ -81,6 +83,7 @@ ht-degree: 0%
   主旨列和標題只需按一下即可編輯，而標題和正文則需要按兩下。
 
 * **若要變更或選取行動號召**，請按一下行動號召按鈕，然後從可用的按鈕中選取。
+* **若要變更大小與外觀比例**，請按一下&#x200B;_[!UICONTROL 調整大小]_&#x200B;按鈕（在畫布左邊有按鈕圖示的方塊），然後選取要套用至所有變體的新大小與外觀比例。 變數會複製並調整大小。
 * **若要刪除中繼廣告**，請按一下以選取廣告標題（例如「Meta 4」），然後按一下&#x200B;**[!UICONTROL 刪除變體]**。
 
 ## 驗證品牌一致性
