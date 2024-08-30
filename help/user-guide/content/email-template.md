@@ -3,9 +3,9 @@ title: 準備電子郵件範本以供效能行銷人員進行Adobe GenStudio
 description: 瞭解如何為效能行銷人員建立自訂電子郵件範本Adobe GenStudio。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 通常，設計人員會在設計程式(例如Adobe XD)中建立範本的視覺化設計。 設計、編碼和測試電子郵件範本後，您就可以將其準備好，以便上傳並用於GenStudio的效能行銷人員。
 
-檢視[範本剖析](/help/user-guide/content/use-templates.md#anatomy-of-a-template)。
+請參閱[範本元素](use-templates.md#template-elements)。
 
 ## 新增准則
 

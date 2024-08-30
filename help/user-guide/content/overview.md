@@ -2,9 +2,9 @@
 title: 績效行銷人員的Adobe GenStudio概觀 [!DNL Content]
 description: 瞭解如何在一個直覺式入口網站中尋找、編輯、重複使用和共用品牌核准的資產。
 feature: Attributes, Content, Templates
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: c34fd3ac0925624c685ae27d56d9964896796786
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -20,45 +20,43 @@ ht-degree: 1%
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-      <img alt="放大鏡" src="../../assets/icons/icon-search.svg" width="35">
+         <img alt="放大鏡" src="../../assets/icons/icon-search-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md#search">
          <strong>尋找內容</strong>
          </a>
-      </div>
+      </p>
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-      <img alt="具有加號的影像" src="../../assets/icons/icon-addContent.svg" width="35">
+         <img alt="具有加號的影像" src="../../assets/icons/icon-addContent-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md">
          <strong>新增資產</strong>
          </a>
-      </div>
+      </p>
    </td>
-<!--
    <td align="center" valign="top" width="100">
-      <a href="../content/manage-assets.md#search">
-      <img alt="sparkle and new asset" src="../../assets/icons/icon-AIVariation.svg" width="35">
+      <a href="../content/customize-template.md">
+         <img alt="在資產上加亮螺栓" src="../../assets/icons/icon-template-35.svg" width="35">
       </a>
-      <div>
-         <a href="../content/manage-assets.md#search">
-         <strong>Refresh content</strong>
+      <p>
+         <a href="../content/customize-template.md">
+         <strong>自訂範本</strong>
          </a>
-      </div>
+      </p>
    </td>
--->
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-      <img alt="在資產上加亮螺栓" src="../../assets/icons/icon-template.svg" width="35">
+         <img alt="使用加號在資產上加亮螺栓" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/use-templates.md#upload-a-template">
          <strong>上傳範本</strong>
          </a>
-      </div>
+      </p>
    </td>
 </tr>
 </table>
@@ -77,4 +75,4 @@ ht-degree: 1%
 
 ### 使用範本
 
-範本可加快建立流程，讓您跨多個管道產生一致的內容。 範本提供了建立流程的起點，包括預先設定的版面配置與設計元素。
+範本可加快建立流程，讓您跨多個管道產生一致的內容。 上傳您的自訂範本，以作為建立程式中的起點，並預先設定版面配置和設計元素。

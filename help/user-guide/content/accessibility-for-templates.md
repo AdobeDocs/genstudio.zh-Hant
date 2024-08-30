@@ -1,10 +1,10 @@
 ---
 title: 建立無障礙範本
-description: 建立可觸及所有對象的範本，以便用於效能行銷人員的Adobe GenStudio。
+description: 在Adobe GenStudio中建立效能行銷人員的範本，這些範本能夠觸及更多對象並提供最佳體驗。
 feature: Templates, Content
-source-git-commit: 26d1b9c7b392e93e87ffcd9444f391c2980d1c3c
+source-git-commit: c891f876fe5a7c75487fcba6552a213533f0b609
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---

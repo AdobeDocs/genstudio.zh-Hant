@@ -3,9 +3,9 @@ title: 為績效行銷人員準備中繼廣告範本以進行Adobe GenStudio
 description: 瞭解如何為績效行銷人員建立自訂中繼廣告範本Adobe GenStudio。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 通常，設計人員會在設計程式(例如Adobe XD)中建立範本的視覺化設計。
 
-檢視[範本剖析](/help/user-guide/content/use-templates.md#anatomy-of-a-template)和[範本範例](/help/user-guide/content/customize-template.md#template-examples)。
+檢視[範本元素](use-templates.md#template-elements)和[範本範例](/help/user-guide/content/customize-template.md#template-examples)。
 
 ### 廣告規格
 

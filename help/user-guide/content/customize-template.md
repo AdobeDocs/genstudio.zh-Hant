@@ -1,11 +1,11 @@
 ---
 title: 自訂範本
-description: 瞭解如何為效能行銷人員建立自訂範本Adobe GenStudio。
+description: 瞭解如何針對效能行銷人員的Adobe GenStudio個人化和最佳化您的範本。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 44390d551e638fcff47cff5844fcfda4ed9f98f3
+source-git-commit: 909ac53580e672df1adf0c73e67a32f2c045dc35
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '1032'
 ht-degree: 0%
 
 ---
@@ -13,73 +13,66 @@ ht-degree: 0%
 
 # 自訂範本
 
-使用&#x200B;_Handlebars_&#x200B;範本化語言，調整您的HTML範本以符合效能行銷人員的Adobe GenStudio。 Handlebars語法使用帶有雙大括弧的規則文字作為內容預留位置。 請參閱&#x200B;_Handlebars語言指南_&#x200B;中的[`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars)，瞭解如何準備您的範本。
+使用&#x200B;_Handlebars_&#x200B;範本化語言，調整您的HTML範本以符合效能行銷人員的Adobe GenStudio。 [!DNL Handlebars]語法使用具有雙大括弧的規則文字做為內容預留位置。 請參閱&#x200B;_Handlebars語言指南_&#x200B;中的[`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars)，瞭解如何準備您的範本。
 
-如果您沒有現成的HTML範本可在GenStudio中使用以進行效能行銷人員，您可以先使用HTML標籤定義範本的結構： `DOCTYPE`、`html`、`head`和`body`。 以下是基本電子郵件範本，包含CSS樣式以自訂外觀：
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Title</title>
-    <style>
-    </style>
-</head>
-<body>
-</body>
-</html>
-```
-
->[!TIP]
->
->在接下來的幾個小節中，為電子郵件欄位新增內容預留位置、參閱範本、在預覽中隱藏不必要的元素，以及管理靜態內容的連結。 您的範本準備就緒後，您可以[將其上傳到GenStudio以進行效能行銷人員](use-templates.md#upload-a-template)，並開始根據您的自訂範本產生個人化電子郵件。
+以下幾節將說明如何新增內容預留位置、在預覽中隱藏不必要的元素以及管理靜態內容的連結。 您的範本準備就緒後，您可以[將其上傳到GenStudio以進行效能行銷人員](use-templates.md#upload-a-template)，並開始根據您的自訂範本產生個人化電子郵件。
 
 ## 內容預留位置
 
-在範本的head或body中，您可以使用Handlebars語法來插入內容預留位置，以要求GenStudio的效能行銷人員將實際內容填入範本。 適用於效能的GenStudio行銷人員會根據欄位名稱自動辨識和解譯內容預留位置。
+適用於效能的GenStudio行銷人員可辨識範本中的特定[元素](use-templates.md#template-elements)，但前提是您使用可辨識的欄位名稱來識別它們。
 
-例如，您可以使用`{{ headline }}`來指示電子郵件標題的放置位置：
+在範本的head或body中，您可以使用[!DNL Handlebars]語法作為內容預留位置，其中您要求GenStudio的效能行銷人員將實際內容填入範本。 適用於效能行銷人員的GenStudio會根據[已辨識的&#x200B;_欄位_&#x200B;名稱](#recognized-field-names)來辨識及解譯內容預留位置。
+
+例如，您可以使用`{{ headline }}`搭配[!DNL Handlebars]語法來指示電子郵件標題的放置位置：
 
 ```handlebars
-<div>{{ headline }}</div>
+<div>{{headline}}</div>
 ```
 
 ### 可辨識的欄位名稱
 
-自訂範本中允許的欄位數量上限為20個。
-
-下表列出GenStudio針對效能行銷人員識別的欄位名稱，以便將其填入範本。
+下表列出GenStudio針對效能行銷人員識別的欄位名稱，以便將其填入範本。 使用[!DNL Handlebars]語法將這些欄位名稱新增至您的範本，其中您需要GenStudio才能讓效能行銷人員產生內容。
 
 | 欄位 | 角色 | 頻道範本 |
-| -------------- | ---------------------- | -------------------- |
-| `pre_header` | 前置標題 | 電子郵件（建議） |
-| `headline` | 標題 | 電子郵件（建議）<br>中繼廣告 |
-| `body` | 內文 | 電子郵件（建議）<br>中繼廣告 |
-| `cta` | 行動號召 | 電子郵件（建議）<br>中繼廣告 |
-| `on_image_text` | 在影像文字上 | 中繼廣告（建議） |
-| `image` | 影像 | 電子郵件（建議）<br>中繼廣告（建議） |
-| `brand_logo` | 選取品牌<br>的標誌[欄位名稱](#brand-logo-field-name)建議使用方式。 | 電子郵件<br>中繼廣告 |
+| -------------- | ---------------------- | ------------------------------ |
+| `pre_header` | 前置標題 | 電子郵件 |
+| `headline` | 標題 | 電子郵件<br>中繼廣告 |
+| `body` | 內文 | 電子郵件<br>中繼廣告 |
+| `cta` | 行動號召 | 電子郵件<br>中繼廣告 |
+| `on_image_text` | 在影像文字上 | 中繼廣告 |
+| `image` | 影像 | 電子郵件<br>中繼廣告 |
+| `brand_logo` | 選取品牌的標誌<br>如需建議使用方式，請參閱[品牌標誌欄位名稱](#brand-logo-field-name)。 | 電子郵件<br>中繼廣告 |
 
-適用於效能的GenStudio行銷人員會自動填入範本中的特定欄位，因此不需要將其納入您的範本設計：
+適用於效能的GenStudio行銷人員會自動填入下列範本中的特定欄位：
 
-- `subject`欄位（電子郵件範本）
-- `headline`、`body`和`CTA`欄位（中繼廣告範本）
+- **電子郵件範本**&#x200B;不需要您識別`subject`欄位
+- **中繼廣告範本**&#x200B;不需要您識別`headline`、`body`和`CTA`欄位
+
+<!--
+- **Display Ads template** does not require you to idenitify the `CTA` field
+-->
 
 >[!WARNING]
 >
 >針對Instagram廣告，產生的標題不會出現在最終體驗中。
 
+針對效能行銷人員將範本上傳到GenStudio時有20個欄位的限制。 由於`subject`欄位會在電子郵件中自動產生，因此會計為一個欄位。 這表示電子郵件範本中允許19個欄位。
+
+>[!TIP]
+>
+>您可使用GenStudio中針對效能行銷人員的[範本預覽](#template-preview)來驗證範本。
+
 #### 品牌標誌欄位名稱
 
-下列範例示範兩種有條件地呈現品牌標誌的方法，驗證來源、提供預設或替代標誌（若品牌標誌無法使用）以及套用樣式：
+此時，您無法選取範本上傳的品牌標誌。 下列範例示範兩種有條件地呈現品牌標誌的方法。 每種方法都會驗證來源、提供預設或替代影像（若沒有品牌標誌可用）並套用樣式：
 
-_範例_：在HTML`img src`定義中
+**範例1**：直接在HTML`img src`屬性中使用[!DNL Handlebars]內建Helpers條件：
 
 ```html
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;"> 
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
 ```
 
-_範例_：在Handlebars條件中
+**範例2**：使用[!DNL Handlebars]內建條件陳述式來包裝HTML`img`標籤：
 
 ```handlebars
 {{#if brand_logo}}
@@ -91,24 +84,24 @@ _範例_：在Handlebars條件中
 
 #### 手動欄位名稱
 
-所有其他欄位名稱會視為手動填入的欄位。 若要建立可編輯的區段，請在區段名稱兩側加上雙括弧：
+所有其他欄位名稱會視為手動填入的欄位。
+
+若要建立可編輯的區段，請在區段名稱兩側加上雙括弧：
 
 ```handlebars
 {{customVariable}}
 ```
 
-## 區段或群組
+### 區段或群組
 
 _區段_&#x200B;會通知GenStudio for Performance行銷人員此區段中的欄位需要高度一致性。 建立此關係可協助AI產生符合區段中創意元素的內容。
 
-在欄位名稱中使用您選擇的前置詞來指示欄位是區段或群組的一部分。
-
-例如，您可能想要將焦點放在反白區域中出現的內容：
+在欄位名稱中使用您選擇的前置詞來指示欄位是區段或群組的一部分。 例如，您可能想要將焦點放在反白區域中出現的內容：
 
 - `spotlight_headline`
 - `spotlight_body`
 
-每個區段只能有一個欄位型別。 在上述範例中，`spotlight`首碼只能有一個`spotlight_headline`欄位。
+每個區段只能使用每個欄位型別中的一個。 在上述範例中，`spotlight`區段只能使用一個`spotlight_headline`欄位。
 
 範本最多可包含三個區段：
 
@@ -120,6 +113,45 @@ _區段_&#x200B;會通知GenStudio for Performance行銷人員此區段中的欄
 - `news_body`
 
 適用於效能行銷人員的GenStudio瞭解，`spotlight_headline`與`spotlight_body`的關聯性比`news_body`更密切。
+
+## 範本預覽
+
+當您[上傳範本](use-templates.md#upload-a-template)時，GenStudio效能行銷人員會掃描HTML檔案以找出可識別的欄位。 使用預覽檢閱您的[範本元素](use-templates.md#template-elements)，並確認您以[可辨識的欄位名稱](#recognized-field-names)正確識別它們。
+
+電子郵件範本的範例預覽：
+
+![偵測到預覽欄位](../../assets/template-detected-fields.png){width="650"}
+
+### 控制項預覽
+
+您可以使用內建協助程式（可執行特定動作的[!DNL Handlebars]範本語言中的特殊運算式）來控制特殊內容的可見度。 例如，您可以新增條件陳述式，在匯出的範本中新增追蹤引數至連結，同時保持預覽連結整齊。
+
+呈現範本時會設定`_genStudio.browser`值，匯出範本時會設定`genStudio.export`值。 例如，當範本用於匯出時，您可使用條件包裝函式，決定在電子郵件頂端包含特定內容：
+
+```handlebars
+{{#if _genStudio.export}}
+<%@ include view='emailParent' %>
+{{/if}}
+```
+
+另一個範例可能是為了防止在效能行銷人員的GenStudio中預覽範本時使用追蹤程式碼。 下列範例說明如何在匯出的範本中將追蹤引數新增至連結，同時保持預覽連結整齊：
+
+```handlebars
+<a class="button" {{#if _genStudio.browser }}
+   href="{{ link }}"{{/if}}{{#if _genStudio.export }}
+   href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
+   target="_blank">{{ cta }}</a>
+```
+
+## 靜態內容
+
+電子郵件和中繼範本通常會連結至GenStudio外部託管的影像和CSS檔案，以供效能行銷人員使用。 當適用於效能的GenStudio行銷人員為這些範本或從中衍生的體驗產生縮圖時，如果他們沒有正確的跨原始資源共用(CORS)標頭，則可能會忽略這些外部資源。
+
+為了確保這些資源在縮圖產生程式期間可供使用，請考慮兩個選項：
+
+1. **使用CORS標頭**：主機伺服器必須傳送回應，且生產環境的`Access-Control-Allow-Origin`標頭設為`https://experience.adobe.com`值。 此方法可讓GenStudio的效能行銷人員存取並包含資源。
+
+1. **使用資料URL**：使用資料URL將外部資源直接內嵌到範本中。 此方法會繞過CORS限制，並確保資源在產生縮圖期間可供使用。
 
 ## 範本範例
 
@@ -262,32 +294,3 @@ _區段_&#x200B;會通知GenStudio for Performance行銷人員此區段中的欄
 
 +++
 
-## 範本預覽
-
-使用內建協助程式（Handlebars範本語言中可執行特定動作的特殊運算式）控制特殊內容的可見度。 例如，您可以將追蹤引數新增至匯出範本中的連結，同時保持預覽連結整齊。
-
-呈現範本時會設定`_genStudio.browser`值，匯出範本時會設定`genStudio.export`值。 例如，當範本用於匯出時，您可使用條件包裝函式，決定在電子郵件頂端包含特定內容：
-
-```handlebars
-{{#if _genStudio.export}}
-<%@ include view='emailParent' %>
-{{/if}}
-```
-
-另一個範例可能是為了防止在GenStudio中預覽範本時使用追蹤程式碼。 此範例說明如何將追蹤引數新增至匯出範本中的連結，同時保持預覽連結整齊：
-
-```handlebars
-<a class="button" {{#if _genStudio.browser }}
-   href="{{ link }}"{{/if}}{{#if _genStudio.export }}
-   href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
-   target="_blank">{{ cta }}</a>
-```
-
-## 靜態內容
-
-電子郵件和中繼範本通常會連結至GenStudio外部託管的影像和CSS檔案，以供效能行銷人員使用。 當適用於效能的GenStudio行銷人員為這些範本或從中衍生的體驗產生縮圖時，如果他們沒有正確的跨原始資源共用(CORS)標頭，則可能會忽略這些外部資源。
-
-為了確保這些資源在縮圖產生程式期間可供使用，請考慮兩個選項：
-
-1. **使用CORS標頭**：主機伺服器必須傳送回應，且生產環境的`Access-Control-Allow-Origin`標頭設為`https://experience.adobe.com`值。 此方法可讓GenStudio的效能行銷人員存取並包含資源。
-1. **使用資料URL**：使用資料URL將外部資源直接內嵌到範本中。 此方法會繞過CORS限制，並確保資源在產生縮圖期間可供使用。
