@@ -2,9 +2,9 @@
 title: 撰寫有效的提示
 description: 瞭解如何為績效行銷人員編寫有效的Adobe GenStudio提示。
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 >[!NOTE]
 >
->如果在提示區域的&#x200B;_引數_&#x200B;中新增准則，您就不需要在提示中包含對這些准則的參照。 適用於效能行銷人員的GenStudio將在內容產生過程中善用這些[!DNL Brands]、[!DNL Products]和[!DNL Personas]。
+>如果在提示區域的&#x200B;_引數_&#x200B;中新增准則，您就不需要在提示中包含參考這些准則。 適用於效能行銷人員的GenStudio在內容產生中運用了這些[!DNL Brands]、[!DNL Products]和[!DNL Personas]。
 
 ### 准則
 
@@ -57,15 +57,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 ## 再試一次
 
-提示是一個反複的過程。 如果結果不符合您的預期，請檢視您的提示並進行一些變更或新增更多詳細資訊。 您可以提供URL作為範例或進一步資訊的來源，以精簡提示。
-
-```bash
-Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
-
-Use information from https://www.adobe.com/products/photoshop.html to inspire users with the latest features.
-```
-
-或者，您也可以貼上行銷活動簡報的區段。 您甚至可以要求適用於效能行銷人員的GenStudio避免使用特定字詞、元素或主題。
+提示是一個反複的過程。 如果結果不符合您的預期，請檢視您的提示並進行一些變更或新增更多詳細資訊。 或者，您也可以貼上行銷活動簡報的區段。 您甚至可以要求適用於效能行銷人員的GenStudio避免使用特定字詞、元素或主題。
 
 ## 最佳做法
 
