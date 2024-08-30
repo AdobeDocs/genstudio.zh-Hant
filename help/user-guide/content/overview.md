@@ -2,7 +2,7 @@
 title: 績效行銷人員的Adobe GenStudio概觀 [!DNL Content]
 description: 瞭解如何在一個直覺式入口網站中尋找、編輯、重複使用和共用品牌核准的資產。
 feature: Attributes, Content, Templates
-source-git-commit: c34fd3ac0925624c685ae27d56d9964896796786
+source-git-commit: 6ee651ab67a92e2eca9929c3cfc6c66fb90d785e
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-         <img alt="放大鏡" src="../../assets/icons/icon-search-35.svg" width="35">
+         <img alt="放大鏡" src="../../assets/icons/icon-search.png" width="35">
       </a>
       <p>
          <a href="../content/manage-assets.md#search">
@@ -30,7 +30,7 @@ ht-degree: 1%
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-         <img alt="具有加號的影像" src="../../assets/icons/icon-addContent-35.svg" width="35">
+         <img alt="具有加號的影像" src="../../assets/icons/icon-addContent.png" width="35">
       </a>
       <p>
          <a href="../content/manage-assets.md">
@@ -40,7 +40,7 @@ ht-degree: 1%
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/customize-template.md">
-         <img alt="在資產上加亮螺栓" src="../../assets/icons/icon-template-35.svg" width="35">
+         <img alt="在資產上加亮螺栓" src="../../assets/icons/icon-template.png" width="35">
       </a>
       <p>
          <a href="../content/customize-template.md">
@@ -50,7 +50,7 @@ ht-degree: 1%
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-         <img alt="使用加號在資產上加亮螺栓" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
+         <img alt="使用加號在資產上加亮螺栓" src="../../assets/icons/icon-addTemplate.png" width="35">
       </a>
       <p>
          <a href="../content/use-templates.md#upload-a-template">
