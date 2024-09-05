@@ -1,14 +1,14 @@
 ---
 title: ' [!DNL Insights]的概觀'
 description: 瞭解如何根據即時內容績效量度最佳化體驗。
-feature: Attributes, Insights, Experiences, Assets
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+feature: Attributes, Insights, Experiences, Assets, Channels
+exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
+source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '533'
 ht-degree: 0%
 
 ---
-
 
 # 效能行銷人員的Adobe GenStudio[!DNL Insights]
 
@@ -26,21 +26,23 @@ ht-degree: 0%
 
 ## 儀表板
 
-[!DNL Insights]儀表板具有適用於每種內容型別的可設定網格：管道、體驗、Assets和屬性。
+[!DNL Insights]儀表板具有每個內容型別的可設定資料表： [!UICONTROL 管道]、[!UICONTROL 體驗]、[!UICONTROL Assets]和[!UICONTROL 屬性]。
 
 ![[!DNL Insights]儀表板](/help/assets/insights-dashboard.png)
 
-每個檢視都會顯示對應的網格，您可以依關鍵字、篩選和日期範圍進行搜尋。 您可以按一下表格右上方的齒輪圖示，以切換可檢視欄型別。 _[!UICONTROL 摘要]_&#x200B;列可能會顯示欄的總計或平均值。
+每個檢視都會顯示對應的表格，您可以依關鍵字、篩選和日期範圍進行搜尋。 您可以按一下表格右側上方的設定(cog)圖示，以切換可檢視欄型別。 _[!UICONTROL 摘要]_&#x200B;列可能會顯示欄的總計或平均值。
 
-如需格線中每種資料行型別的說明，請參閱 [!DNL Insights]](data-columns.md)的[資料行。
+如需資料表中各資料行型別的說明，請參閱 [!DNL Insights]](data-columns.md)的[資料行。
+
+[!UICONTROL 體驗]、[!UICONTROL Assets]和[!UICONTROL 屬性]包含相簿檢視，可讓您使用具有影像或視訊縮圖的卡片來掃描和排序資產。 每個卡片都可選擇顯示三個關鍵量度之一： `Click-through rate`、`Cost per click`和`Spend`。
 
 ### 頻道
 
-[!DNL Insights] _[!UICONTROL 管道]_&#x200B;檢視是預設檢視，會顯示作用中行銷活動詳細資料的清單，例如目標、預算、啟動日期和活動。
+[!DNL Insights] _[!UICONTROL 管道]_&#x200B;檢視是預設檢視，會顯示作用中行銷活動詳細資料的清單，例如目標、預算、啟動日期和活動。 請參閱[管道概觀](channels.md)。
 
 ### 體驗
 
-[!DNL Insights] _[!UICONTROL 體驗]_&#x200B;檢視著重於評估體驗的成效。 此檢視可讓您根據指定日期範圍內體驗的廣告投放位置來分析體驗的量度。 按一下&#x200B;**[!UICONTROL 檢視資產效能]**，即可存取所選體驗中使用的資產清單，讓您識別哪些元件促成了整體成功。
+[!DNL Insights] _[!UICONTROL 體驗]_&#x200B;檢視著重於評估體驗的成效。 [!UICONTROL 體驗]檢視可讓您根據體驗在指定日期範圍內的廣告投放位置來分析體驗的量度。 按一下&#x200B;_[!UICONTROL 廣告名稱]_，即可存取所選體驗中使用的資產清單，讓您識別哪些元件促成了整體成功。
 
 ### 資產
 
@@ -50,10 +52,10 @@ ht-degree: 0%
 
 ![資產檢視](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
 
-在資產檢視中，左側會顯示資產的特寫畫面和屬性清單。 有三個醒目提示的量度： `Click-through rate`、`Cost per click`和`Spend`。 效能反白顯示實際值（實線）與所選時段內的平均值（虛線）相較之下的結果（預設為`Last 30 days`）。
+在資產檢視中，左側會顯示資產的縮圖和屬性清單。 有三個醒目提示的量度： `Click-through rate`、`Cost per click`和`Spend`。 效能反白顯示實際值（實線）與所選時段內的平均值（虛線）相較之下的結果（預設為`Last 30 days`）。
 
 ### 屬性
 
-內容&#x200B;_屬性_&#x200B;可協助透過固有細節來識別資產，例如色彩、色調、構成（主旨、字型、視覺元素）和其他關鍵元件。 屬性通常是一組經過最少測量和分析的內容資訊。
+內容&#x200B;_屬性_&#x200B;可協助透過固有細節來識別資產，例如色彩、色調、組合（例如主旨、字型、視覺元素）和其他關鍵元件。 屬性通常是一組經過最少測量和分析的內容資訊。
 
-[!DNL Insights] _[!UICONTROL 屬性]_&#x200B;檢視可協助您調查並識別哪些屬性對特定對象、管道、地區表現較佳，並突顯季節性趨勢。 透過這些深入分析，您可以使用效能屬性來建立變體、鎖定特定對象，或實驗不同的行銷活動策略。
+[!DNL Insights] _[!UICONTROL 屬性]_&#x200B;檢視可協助您調查並識別哪些屬性對特定對象、管道、地區表現較佳，並可協助您強調季節性趨勢。 透過這些深入分析，您可以使用效能屬性來建立變體、鎖定特定對象，或實驗不同的行銷活動策略。
