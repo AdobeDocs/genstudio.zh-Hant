@@ -1,9 +1,9 @@
 ---
 title: 高效能行銷人員Adobe GenStudioBeta發行說明
 description: 瞭解效能行銷人員適用的Adobe GenStudio的最新功能和增強功能。
-source-git-commit: 21b81ab6776d504656ba8c3017f8b2897dc173ea
+source-git-commit: 16f44baf646d696da3572ac2c17a5efb7c8f7fc6
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -11,36 +11,21 @@ ht-degree: 0%
 
 # 高效能行銷人員Adobe GenStudioBeta發行說明
 
-這些附註著重說明在截至8月30日的一週中，效能行銷人員修正和增強功能的重大Adobe GenStudio。
-
-## 反白顯示
-
-* instagram和Facebook管道指引已合併至中繼品牌指引。
-
-* 已簡化「建立畫布」導覽元素。 [!DNL Create]登陸頁面會顯示左側導覽面板，但使用者現在會使用「**[!UICONTROL 上一步]**」按鈕，從其他[!DNL Create]個工作區域導覽至此分享空間。 <!-- GS-1189 -->
-
-* 導覽元素已增強，可在執行整個產品任務時支援使用者焦點，包括下列產品區域：
-
-   * [!DNL Content]中的資產、體驗、範本詳細資料
-   * [!DNL Insights]中的體驗、資產、屬性詳細資料
-   * [!DNL Brands]中的品牌詳細資料
-   * [!DNL Products]和[!DNL Personas]中的產品與角色詳細資料<!-- GS-1189 -->
-
-* 使用者不再需要按一下&#x200B;**[!UICONTROL 重新整理]**&#x200B;按鈕，即可檢視[!DNL Content]中體驗的更新。<!-- GS-4218 -->
-
-* _體驗詳細資料_&#x200B;頁面現在會將外部資產縮圖轉譯為HTML。<!-- GS-3092 -->
-
-* 新增或刪除Assets和體驗後的UI延遲已有所改善。<!-- GS-3389 -->
-
-* 範本預覽現在包含更多描述性預設文字。<!-- GS-4028 -->
+這些附註著重說明在截至9月6日的一週中，效能行銷人員修正和增強功能的重大Adobe GenStudio。
 
 ## 已知問題
 
 下列已知問題排程在GenStudio for Performance Marketers GA版本中解決。
 
+* 編輯人員偶爾會在影像產生期間於[!DNL Create Canvas]上遇到「發生錯誤」錯誤訊息。 **因應措施**：如果錯誤重複發生，使用者可以登出，然後重新登入GenStudio並重新產生影像。 <!-- GS-4813 -->
+
+* [!DNL Create Canvas]在中繼廣告中無法正確呈現影像。<!-- GS-4864 -->
+
+* 沒有行銷活動的Assets可成功上傳至[!DNL Content]，但使用者可能無法看到。<!-- GS-4815 -->
+
 * MetaAds畫布預覽和匯出的檢視之間存在差異。<!-- GS-4492 4401 -->
 
-* [!DNL Insights]檢視中缺少行銷活動縮圖。<!-- GS-4648 -->
+* [!DNL Insights]中缺少行銷活動縮圖。<!-- GS-4648 -->
 
 * 使用者目前可以選取需要調整大小的小型資產，但不支援放大這些資產。<!-- GS-3131 -->
 
