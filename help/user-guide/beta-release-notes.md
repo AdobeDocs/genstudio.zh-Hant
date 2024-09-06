@@ -2,9 +2,9 @@
 title: 高效能行銷人員Adobe GenStudioBeta發行說明
 description: 瞭解效能行銷人員適用的Adobe GenStudio的最新功能和增強功能。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca5e746850925252679facc321d7522b251cd57a
+source-git-commit: 62793ab56b635f17e037b63beb56c09ff2d45621
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '731'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ## 新功能
 
-* GenStudio現在支援在[!DNL Insights]中預覽媒體資產的選項。 視訊縮圖包含具有靜音選項的&#x200B;**播放**&#x200B;按鈕。<!-- GS-4398 -->
-
-* 現在可以依型別`video`在[!DNL Insights]中篩選Assets。<!-- GS-4398 -->
+* GenStudio現在支援在[!DNL Insights]表格和相簿檢視中預覽媒體資產的選項。 視訊縮圖包含具有靜音選項的&#x200B;**播放**&#x200B;按鈕。<!-- GS-4398 -->
 
 ## 已知問題
 
