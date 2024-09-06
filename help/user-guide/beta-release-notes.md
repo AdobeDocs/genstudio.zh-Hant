@@ -1,17 +1,23 @@
 ---
 title: 高效能行銷人員Adobe GenStudioBeta發行說明
 description: 瞭解效能行銷人員適用的Adobe GenStudio的最新功能和增強功能。
-source-git-commit: 16f44baf646d696da3572ac2c17a5efb7c8f7fc6
+exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
+source-git-commit: ca5e746850925252679facc321d7522b251cd57a
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
 
-
 # 高效能行銷人員Adobe GenStudioBeta發行說明
 
 這些附註著重說明在截至9月6日的一週中，效能行銷人員修正和增強功能的重大Adobe GenStudio。
+
+## 新功能
+
+* GenStudio現在支援在[!DNL Insights]中預覽媒體資產的選項。 視訊縮圖包含具有靜音選項的&#x200B;**播放**&#x200B;按鈕。<!-- GS-4398 -->
+
+* 現在可以依型別`video`在[!DNL Insights]中篩選Assets。<!-- GS-4398 -->
 
 ## 已知問題
 
@@ -31,15 +37,48 @@ ht-degree: 0%
 
 * 使用者也必須登入Facebook，才能登入管道中繼廣告帳戶兩次。 **因應措施**：登入Channel Meta Ads帳戶之前，請先登出Facebook。
 
-### 已解決的已知問題
+* 上傳的影像並不一定都包含預期的智慧標籤。<!-- GS-4856 -->
 
-* 當使用者嘗試在[!DNL Insights]檢視中輸入認證時，GenStudio會顯示錯誤。 （固定8/29） <!-- GS-4689 -->
+### 其他增強功能和已修正的問題
+
+* _新增Assets_&#x200B;快顯視窗現在已如預期般本地化。<!-- GS-3834 -->
+
+* 中繼廣告體驗範本的縮放問題已解決。<!-- GS-4174 -->
+
+* 為範本建立的內容片段模型現在可以在AEM中精確表示。<!-- GS-4716 -->
+
+* 多部分電子郵件的CSV匯出檔案中的文字欄位現在會依預期排序。<!-- GS-4013 -->
+
+* 當使用者重複按下&#x200B;**退格鍵**&#x200B;以清除搜尋欄位文字時，[!DNL Content]搜尋欄位不再消失。 <!-- GS-4543 -->
+
+* 當共同作業人員將@提及新增至評論時，GenStudio現在會如預期載入使用者。 之前，GenStudio未載入使用者並顯示此錯誤： `Unable to load users. Refresh the page`。<!-- GS-4113 -->
+
+* 在提示區域的電子郵件建立期間，當編輯者按一下&#x200B;**選取內容**&#x200B;時，GenStudio不再顯示&#x200B;**發生錯誤**&#x200B;訊息。<!-- GS-4879 -->
 
 ## Beta舊版
 
 舊版Beta包含下列重點和修正。
 
 ### 反白顯示
+
+* instagram和Facebook管道指引已合併至中繼品牌指引。
+
+* 已簡化[!DNL Create]個畫布導覽元素。 [!DNL Create]登陸頁面會顯示左側導覽面板，但使用者現在會使用「**[!UICONTROL 上一步]**」按鈕，從其他[!DNL Create]個工作區域導覽至此分享空間。
+
+* 導覽元素已增強，可在執行整個產品任務時支援使用者焦點，包括下列產品區域：
+
+   * [!DNL Content]中的資產、體驗、範本詳細資料
+   * [!DNL Insights]中的體驗、資產、屬性詳細資料
+   * [!DNL Brands]中的品牌詳細資料
+   * 產品和角色中的產品和角色詳細資訊
+
+* 使用者不再需要按一下&#x200B;**[!UICONTROL 重新整理]**&#x200B;按鈕，即可檢視[!DNL Content]中體驗的更新。
+
+* _體驗詳細資料_&#x200B;頁面現在會將外部資產縮圖轉譯為HTML。
+
+* 新增或刪除Assets和體驗後的UI延遲已有所改善。
+
+* 範本預覽現在包含更多描述性預設文字。 請參閱[自訂範本](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/content/templates/customize-template#template-preview)。
 
 * **以百分比為基礎的驗證分數**：品牌驗證現在會以百分比顯示品牌驗證分數，而非通過/失敗值。 （固定8/16）
 
@@ -51,7 +90,7 @@ ht-degree: 0%
 
 * **中繼廣告調整大小**：編輯人員可以調整中繼廣告外觀比例。 （固定8/16）
 
-* **受限的Insights登入帳戶**： Insights登入現在僅支援每個客戶一個帳戶。 （固定8/16）
+* **有限的[!DNL Insights]登入帳戶**： [!DNL Insights]登入現在僅支援每個客戶一個帳戶。 （固定8/16）
 
 ### 其他增強功能和已修正的問題
 
@@ -65,7 +104,8 @@ ht-degree: 0%
 
 ### 過去Beta發行版本中已解決的已知問題
 
+* 當使用者嘗試在[!DNL Insights]檢視中輸入認證時，GenStudio會顯示錯誤。 （固定8/29） <!-- GS-4689 -->
+
 * 由於ACP儲存平台發生問題，上傳品牌指引失敗。 （固定8/22） <!-- GS-4369 -->
 
 * 在電子郵件建立期間，[提示]區域[!DNL Brands]下拉式功能表會在[!DNL Brands]清單的結尾顯示旋轉圖示。 （固定8/22） <!-- GS-4077 -->
-
