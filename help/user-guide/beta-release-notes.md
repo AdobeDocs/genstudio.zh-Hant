@@ -2,9 +2,9 @@
 title: 高效能行銷人員Adobe GenStudioBeta發行說明
 description: 瞭解效能行銷人員適用的Adobe GenStudio的最新功能和增強功能。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
+source-git-commit: 2861dd76dde9428e0c39af18c1d5e21dc2b32b91
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 * [!DNL Create Canvas]在中繼廣告中無法正確呈現影像。<!-- GS-4864 -->
 
-* 沒有行銷活動的Assets可成功上傳至[!DNL Content]，但使用者可能無法看到。<!-- GS-4815 -->
+* 可以上傳範本但無法看到範本。<!-- GS-4815 -->
 
 * MetaAds畫布預覽和匯出的檢視之間存在差異。<!-- GS-4492 4401 -->
 
