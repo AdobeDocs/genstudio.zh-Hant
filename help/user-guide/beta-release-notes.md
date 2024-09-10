@@ -2,9 +2,9 @@
 title: 高效能行銷人員Adobe GenStudioBeta發行說明
 description: 瞭解效能行銷人員適用的Adobe GenStudio的最新功能和增強功能。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 62793ab56b635f17e037b63beb56c09ff2d45621
+source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '718'
 ht-degree: 0%
 
 ---
@@ -42,8 +42,6 @@ ht-degree: 0%
 * _新增Assets_&#x200B;快顯視窗現在已如預期般本地化。<!-- GS-3834 -->
 
 * 中繼廣告體驗範本的縮放問題已解決。<!-- GS-4174 -->
-
-* 為範本建立的內容片段模型現在可以在AEM中精確表示。<!-- GS-4716 -->
 
 * 多部分電子郵件的CSV匯出檔案中的文字欄位現在會依預期排序。<!-- GS-4013 -->
 
