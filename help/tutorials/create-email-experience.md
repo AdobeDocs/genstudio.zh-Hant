@@ -1,15 +1,15 @@
 ---
 title: 建立電子郵件體驗
-description: 瞭解如何在Adobe [!DNL GenStudio]中建立電子郵件體驗。
-feature: Content, Brands Service, Guidelines, Content Generation
+description: 瞭解如何在Adobe [!DNL GenStudio] 中為效能行銷人員建立電子郵件體驗。
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 9624429977e21af614173c5078c6b470c8b5a147
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '879'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 0%
    * 按一下&#x200B;**[!UICONTROL 從內容選取]**&#x200B;以選取已發佈至[!DNL Content]的資產（影像）。 使用篩選器進一步縮小搜尋結果的範圍。
    * 按一下&#x200B;**[!UICONTROL 上傳]**&#x200B;瀏覽您的檔案，並選擇要使用的資產。 除了瀏覽裝置之外，您也可以從Microsoft OneDrive或Dropbox匯入。
    * 將資產拖放至&#x200B;_Content_&#x200B;區段。
+1. 按一下&#x200B;**[!UICONTROL 使用]**。
 
 >[!NOTE]
 >
@@ -77,6 +78,12 @@ ht-degree: 0%
 * **若要[手動編輯電子郵件](/help/user-guide/create/manage-variants.md#manually-edit-text)**，請連按兩下任何可編輯的文字欄位（例如主旨列、標題或內文）並視需要編輯。
 * **若要[重新產生變體](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;的區段，請按一下可編輯的文字欄位並使用&#x200B;_[!UICONTROL 建議的編輯]_&#x200B;選項，或輸入新的提示並按一下&#x200B;**[!UICONTROL 產生]**。
 * **若要[刪除電子郵件](/help/user-guide/create/manage-variants.md#delete-variant)**，請按一下以選取電子郵件標題（例如「電子郵件1/4」），然後按一下&#x200B;**[!UICONTROL 刪除變體]**。
+
+## 裝置的預覽
+
+修訂和準備電子郵件體驗時，您可以在案頭和行動檢視的預覽之間切換，以確保草稿變體的一致性和視覺吸引力。
+
+**若要預覽桌上型電腦和行動裝置的變體**&#x200B;切換右方功能表列（電腦和電話圖示）中的裝置預覽選項（在&#x200B;**桌上型電腦**&#x200B;和&#x200B;**行動裝置**&#x200B;之間），以預覽變體顯示的方式。
 
 ## 驗證品牌一致性
 

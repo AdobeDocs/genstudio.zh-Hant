@@ -2,9 +2,9 @@
 title: 管理變體
 description: 根據您的數位行銷需求，自訂及增強產生的變體和資產。
 feature: Content, Assets, Experiences
-source-git-commit: a6cf07179e888599860bc699ec17a3e8e4167e7b
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -55,30 +55,35 @@ ht-degree: 0%
 
    變體會以修訂後的文字更新。
 
-## 裁切資產
+<!-- ## Crop assets
 
-您可以在個別產生的變體中，手動裁切和重新定位影像資產。
+You can manually crop and reposition image assets in individual generated variants.
 
-**若要裁切和重新定位變體中的影像**：
+**To crop and reposition images in variants**:
 
-1. 產生一組變體後，將滑鼠移至變體內的影像上。
-1. 按一下&#x200B;**[!UICONTROL 套用裁切]**。
-1. 放大和縮小影像，並將影像拖曳到需要的位置。
-1. 按一下「**[!UICONTROL 套用]**」。
+1. After generating a set of variants, hover over an image within a variant.
+1. Click **[!UICONTROL Apply Crop]**.
+1. Zoom in and out and drag the image into the desired position.
+1. Click **[!UICONTROL Apply]**.
 
-   裁切的影像會自動儲存並對變體可見。
+   The cropped image is automatically saved and visible for the variant. -->
 
 ## 變更外觀比例
 
 您可以快速變更中繼廣告的外觀比例，以符合所需的廣告大小。
 
-可用的外觀比例包括：
+可用的大小/外觀比例包括：
 
-* 1:1正方形
-* 4:5垂直
-* 9:16垂直
+* 1:1正方形（中繼）
+* 4:5垂直（中繼）
+* 9:16垂直（中繼）
+* 250 x 980 （顯示廣告）
 
-**若要變更產生的中繼廣告的外觀比例**：
+>[!NOTE]
+>
+>根據可用的範本，可能會提供其他外觀比例和大小。
+
+**若要變更產生之變體的外觀比例**：
 
 1. 產生一組變體後，選取「畫布」左側的長寬比調整大小圖示（指向方塊轉角的箭頭）。
 
