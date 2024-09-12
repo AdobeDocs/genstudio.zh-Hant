@@ -2,9 +2,9 @@
 title: 管理變體
 description: 根據您的數位行銷需求，自訂及增強產生的變體和資產。
 feature: Content, Assets, Experiences
-source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
+source-git-commit: 3827d8222bd548caf83288656d5f2af8d2248dec
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -38,24 +38,24 @@ ht-degree: 0%
 1. 輸入新文字。
 1. 按一下關閉文字欄位以儲存。
 
-## 重新產生區段
+<!-- ## Re-generate sections
 
-適用於效能行銷人員的GenStudio有內建功能，可使用&#x200B;_[!UICONTROL 建議的編輯]_&#x200B;和新提示重新產生產生產生之變體的單一區段。
+GenStudio for Performance Marketers has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
 
-例如，您可以重新產生一個中繼廣告變體的標題區段，以使用&#x200B;_[!UICONTROL 建議的編輯]_&#x200B;選項 — _[!UICONTROL 重新片語]_、_[!UICONTROL Shortter]_&#x200B;或&#x200B;_[!UICONTROL Lengthen]_ — 並輸入新提示來檢視它在特定背景資產中的外觀。
+For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset using the _[!UICONTROL Suggested edits]_ options—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_—and entering a new prompt.
 
-**若要重新產生個別變體區段**：
+**To re-generate individual variant sections**:
 
-1. 產生一組變體後，按一下變體中的可編輯文字。
-1. （_選擇性_）輸入新的提示以變更重新產生內容的焦點。
-1. 選取&#x200B;_[!UICONTROL 建議的編輯]_&#x200B;選項 — _[!UICONTROL 重新片語]_、_[!UICONTROL 縮短]_&#x200B;或&#x200B;_[!UICONTROL 加長]_。
-1. 按一下&#x200B;**[!UICONTROL 產生]**。
-1. 如果您要再次重新產生結果，請按一下&#x200B;_結果_&#x200B;旁的重新產生圖示。
-1. 從顯示的&#x200B;_結果_&#x200B;中，選取所要的選項，然後按一下&#x200B;**[!UICONTROL 取代]**。
+1. After generating a set of variants, single-click editable text in a variant.
+1. (_Optional_) Enter a new prompt to change the focus of the regenerated content.
+1. Select a _[!UICONTROL Suggested edits]_ option—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_.
+1. Click **[!UICONTROL Generate]**.
+1. If you want to regenerate results again, click the regenerate icon adjacent to _Results_.
+1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   變體會以修訂後的文字更新。
+   The variant is updated with the revised text.
 
-<!-- ## Crop assets
+## Crop assets
 
 You can manually crop and reposition image assets in individual generated variants.
 
