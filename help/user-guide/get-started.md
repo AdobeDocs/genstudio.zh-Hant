@@ -3,13 +3,13 @@ title: 開始使用效能行銷人員適用的Adobe GenStudio
 description: 瞭解如何設定您的GenStudio以供效能行銷人員使用，以產生新的品牌一致行銷內容。
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
-source-git-commit: 869a70c2ccfb965a52f93b4868994188d4d33c24
+exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
+source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
 workflow-type: tm+mt
 source-wordcount: '1106'
 ht-degree: 1%
 
 ---
-
 
 # 開始使用效能行銷人員適用的Adobe GenStudio
 
@@ -38,7 +38,7 @@ ht-degree: 1%
 
 ### GenStudio編輯器
 
-**編輯者**&#x200B;具有為效能行銷人員[!DNL Brands]、[!DNL Campaigns]和[!DNL Content]資產建立GenStudio所需的核心許可權。 他們也可以編輯和刪除已建立的資產。 高效能行銷人員適用的GenStudio可支援快速建立數百個內容。 這些使用者可以產生內容片段或完整體驗，以協調核准內容的分散片段，以滿足特定行銷活動的需求。
+**編輯者**&#x200B;具有為效能行銷人員[!DNL Brands]、[!DNL Campaigns]和[!DNL Content]資產建立GenStudio所需的核心許可權。 他們也可以編輯和刪除已建立的資產。 高效能行銷人員適用的GenStudio可支援快速建立數百個內容。 這些使用者可以產生內容區段或完整體驗，以協調核准內容的分散片段，以滿足特定行銷活動的需求。
 
 編輯人員可透過&#x200B;_提示_&#x200B;與GenStudio互動，以利效能行銷人員的創作AI技術。 畫布中的提示區域提供工具，可在特定行銷活動指引的內容中放置提示。 因此，產生內容的品質和成功部分取決於貴組織上傳的品牌指引品質和提示的特定性。
 

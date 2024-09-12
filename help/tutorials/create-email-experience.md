@@ -6,13 +6,13 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 5026afb4eb71df73063559aee34971039511b31a
+exl-id: 34446202-da98-45ff-869a-b43496a477f8
+source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '816'
 ht-degree: 0%
 
 ---
-
 
 # 建立電子郵件體驗
 
@@ -69,16 +69,14 @@ ht-degree: 0%
 
 ## 修訂產生的電子郵件
 
-在選取要傳送以進行核准或發佈至[!DNL Content]的內容之前，您可以編輯電子郵件片段或從產生之電子郵件集合中刪除變體。
+在選取要傳送以進行核准或發佈至[!DNL Content]的內容之前，您可以編輯電子郵件區段或刪除產生之電子郵件集中的變體。
 
 **若要修訂產生的變體**：
 
-* **若要編輯電子郵件草稿名稱**，請按一下畫布頂端的&#x200B;_未命名的草稿_&#x200B;標題，然後輸入新標題。
-* **若要手動編輯電子郵件**，請連按兩下任一電子郵件片段（例如主旨列、標題或內文）並視需要編輯。
-
-  主旨列和標題只需按一下即可編輯，而標題、內文副本和行動號召則需要按兩下。
-
-* **若要刪除電子郵件**，請按一下以選取電子郵件標題（例如「電子郵件1/4」），然後按一下&#x200B;**[!UICONTROL 刪除變體]**。
+* **若要[編輯電子郵件草稿名稱](/help/user-guide/create/manage-variants.md#change-draft-name)**，請按一下畫布頂端的&#x200B;_未命名草稿_&#x200B;標題，然後輸入新標題。
+* **若要[手動編輯電子郵件](/help/user-guide/create/manage-variants.md#manually-edit-text)**，請連按兩下任何可編輯的文字欄位（例如主旨列、標題或內文）並視需要編輯。
+* **若要[重新產生變體](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;的區段，請按一下可編輯的文字欄位並使用&#x200B;_[!UICONTROL 建議的編輯]_&#x200B;選項，或輸入新的提示並按一下&#x200B;**[!UICONTROL 產生]**。
+* **若要[刪除電子郵件](/help/user-guide/create/manage-variants.md#delete-variant)**，請按一下以選取電子郵件標題（例如「電子郵件1/4」），然後按一下&#x200B;**[!UICONTROL 刪除變體]**。
 
 ## 驗證品牌一致性
 
@@ -87,7 +85,7 @@ ht-degree: 0%
 **若要驗證品牌一致性**：
 
 1. 按一下[**[!UICONTROL [!DNL Brand]指南核取]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)圖示以取得變體，並檢視該變體在針對您的品牌進行核取時的表現摘要。
-1. 若要取得需要改進的片段與指引的詳細資訊，請按一下&#x200B;**[!UICONTROL 檢閱]** _或_，按一下頂端功能表列中的品牌驗證圖示，以開啟&#x200B;[_品牌驗證面板_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)。
+1. 若要取得需要改進的區段和准則的詳細資訊，請按一下&#x200B;**[!UICONTROL 檢閱]** _或_&#x200B;按一下頂端功能表列中的品牌驗證圖示，以開啟&#x200B;[_品牌驗證面板_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)。
 
 1. 切換每封電子郵件，瞭解如何改善產生的內容，使其更加與品牌保持一致。
 1. [手動修訂電子郵件](#revise-generated-emails)，以確保您的電子郵件與品牌緊密一致。

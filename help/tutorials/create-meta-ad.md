@@ -6,13 +6,13 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 4745e7cab9cd605c3bc7e93cb610e510566c9302
+exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
+source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
 workflow-type: tm+mt
-source-wordcount: '955'
+source-wordcount: '1014'
 ht-degree: 0%
 
 ---
-
 
 # 建立中繼廣告體驗
 
@@ -77,14 +77,16 @@ ht-degree: 0%
 
 **若要修訂產生的變體**：
 
-* **若要編輯中繼廣告草稿名稱**，請按一下畫布頂端的&#x200B;_未命名的草稿_&#x200B;標題，然後輸入新標題。
-* **若要手動編輯中繼廣告**，請連按兩下任何廣告片段（例如主旨列、標題或內文）並視需要編輯。
+* **若要[編輯中繼廣告草稿名稱](/help/user-guide/create/manage-variants.md#change-draft-name)**，請按一下畫布頂端的&#x200B;_未命名的草稿_&#x200B;標題，然後輸入新標題。
+* **若要[手動編輯中繼廣告](/help/user-guide/create/manage-variants.md#manually-edit-text)**，請連按兩下任何廣告區段（例如主旨列、標題或內文）並視需要編輯。
 
   主旨列和標題只需按一下即可編輯，而標題和正文則需要按兩下。
 
-* **若要變更或選取行動號召**，請按一下行動號召按鈕，然後從可用的按鈕中選取。
-* **若要變更大小與外觀比例**，請按一下&#x200B;_[!UICONTROL 調整大小]_&#x200B;按鈕（在畫布左邊有按鈕圖示的方塊），然後選取要套用至所有變體的新大小與外觀比例。 變數會複製並調整大小。
-* **若要刪除中繼廣告**，請按一下以選取廣告標題（例如「Meta 4」），然後按一下&#x200B;**[!UICONTROL 刪除變體]**。
+* **若要變更或選取行動號召**，請按一下行動號召按鈕，然後從可用的按鈕文字選項中選取。 在&#x200B;_[!UICONTROL 連結]_&#x200B;中輸入行動號召文字的連結。
+* **若要[變更廣告](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**&#x200B;的大小與外觀比例，請按一下&#x200B;_[!UICONTROL 調整大小]_&#x200B;按鈕（在畫布左邊有按鈕圖示的方塊），然後選取要套用至所有變體的新大小與外觀比例。 變數會複製並調整大小。
+* **若要[重新產生變體](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;的區段，請按一下可編輯的文字欄位並使用&#x200B;_[!UICONTROL 建議的編輯]_&#x200B;選項，或輸入新的提示並按一下&#x200B;**[!UICONTROL 產生]**。
+* **若要[裁切或重新定位影像](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;將滑鼠懸停在影像上，請按一下&#x200B;**[!UICONTROL 套用裁切]**，並調整影像大小和位置。
+* **若要[刪除中繼廣告](/help/user-guide/create/manage-variants.md#delete-variant)**，請按一下以選取廣告標題（例如「Meta 4」），然後按一下&#x200B;**[!UICONTROL 刪除變體]**。
 
 ## 驗證品牌一致性
 
@@ -93,7 +95,7 @@ ht-degree: 0%
 **若要驗證品牌一致性**：
 
 1. 按一下[**[!UICONTROL [!DNL Brand]指南核取]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)圖示以取得變體，並檢視該變體在針對您的品牌進行核取時的表現摘要。
-1. 若要取得需要改進的片段與指引的詳細資訊，請按一下&#x200B;**[!UICONTROL 檢閱]** _或_，按一下頂端功能表列中的品牌驗證圖示，以開啟&#x200B;[_品牌驗證面板_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)。
+1. 若要取得需要改進的區段和准則的詳細資訊，請按一下&#x200B;**[!UICONTROL 檢閱]** _或_&#x200B;按一下頂端功能表列中的品牌驗證圖示，以開啟&#x200B;[_品牌驗證面板_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)。
 
 1. 切換每個廣告，瞭解如何改善產生的內容，使其更加與品牌保持一致。
 1. [手動修訂廣告](#revise-generated-meta-ads)，確保您的廣告與品牌緊密一致。
