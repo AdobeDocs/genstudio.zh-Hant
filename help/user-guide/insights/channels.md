@@ -2,13 +2,13 @@
 title: 管道概觀
 description: 如需行銷活動的客戶參與、績效、預算和費用性列管的概覽，請參閱Adobe GenStudio中的績效行銷人員。
 feature: Insights, Channels
-source-git-commit: 2e76eadcc3281ea935dca383eb3db8c41b83e679
+exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
+source-git-commit: 13e49dd7bd36e842513baa6311373671da827926
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '688'
 ht-degree: 0%
 
 ---
-
 
 # 管道概觀
 
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 [!UICONTROL 管道]表格是使用管道型廣告行銷活動來組織。 表格左上方的篩選器（漏斗）圖示會開啟&#x200B;**[!UICONTROL 篩選器]**&#x200B;功能表，您可從中選取[!UICONTROL 帳戶]、[!UICONTROL 狀態]和[!UICONTROL 目標]清單，以篩選表格中的行銷活動。
 
-![頻道篩選器和資料表](../../assets/insights-channel-filter.png)
+![管道篩選器和資料表](../../assets/insights-channels-filter.png)
 
-選取行銷活動時，[!UICONTROL 體驗]索引標籤會開啟並列出與該行銷活動相關聯的廣告名稱。
+當您選取行銷活動時，[[!UICONTROL 體驗]標籤](experiences.md)會開啟與該行銷活動相關聯的廣告名稱清單，讓您識別哪些體驗促成了其整體成功。
 
 ## 目標
 

@@ -3,9 +3,9 @@ title: ' [!DNL Insights]的概觀'
 description: 瞭解如何根據即時內容績效量度最佳化體驗。
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
+source-git-commit: 0713b18ed1ca5a0b695fdcef4bd488cf87bf2040
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ### 體驗
 
-[!DNL Insights] _[!UICONTROL 體驗]_&#x200B;檢視著重於評估體驗的成效。 [!UICONTROL 體驗]檢視可讓您根據體驗在指定日期範圍內的廣告投放位置來分析體驗的量度。 按一下&#x200B;_[!UICONTROL 廣告名稱]_，即可存取所選體驗中使用的資產清單，讓您識別哪些元件促成了整體成功。
+[!DNL Insights] _[!UICONTROL 體驗]_&#x200B;檢視著重於評估體驗的成效。 [!UICONTROL 體驗]檢視可讓您根據體驗在指定日期範圍內的廣告投放位置來分析體驗的量度。 按一下&#x200B;_[!UICONTROL 廣告名稱]_&#x200B;即可檢視廣告效能量度、依廣告位置排列的效能量度和屬性。
 
 ### 資產
 
