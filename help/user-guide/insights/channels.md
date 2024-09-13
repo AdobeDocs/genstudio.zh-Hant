@@ -3,7 +3,7 @@ title: 管道概觀
 description: 如需行銷活動的客戶參與、績效、預算和費用性列管的概覽，請參閱Adobe GenStudio中的績效行銷人員。
 feature: Insights, Channels
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 13e49dd7bd36e842513baa6311373671da827926
+source-git-commit: 7b8850f7da22e2257d50a0b4f8535ae02f9a2665
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 0%

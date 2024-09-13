@@ -2,7 +2,7 @@
 title: 體驗總覽
 description: 如需效能行銷人員在Adobe GenStudio中的體驗和資產效能，請參閱客戶參與、預算和費用性列管概觀。
 feature: Insights, Experiences
-source-git-commit: 70ce82b026b2ee1f088cda75caa22bbb1b9c5ef3
+source-git-commit: ed0ddb10ee65c2691f8ecbfe23533508e9174bf9
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
