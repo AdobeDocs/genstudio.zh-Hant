@@ -2,9 +2,9 @@
 title: 高效能行銷人員Adobe GenStudioBeta發行說明
 description: 瞭解效能行銷人員適用的Adobe GenStudio的最新功能和增強功能。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 5f729070a3a4c162ebac0fde9814c649c9984b4d
+source-git-commit: d1904bfe6e5775f71290c2fc7aa185ac2a4a4668
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -33,13 +33,13 @@ ht-degree: 0%
 
 ### 其他增強功能和已修正的問題
 
-* [!DNL Create]畫布在中繼廣告中無法正確呈現影像。<!-- GS-4864 -->
+* [!DNL Create]畫布現在可正確轉譯中繼廣告中的影像。<!-- GS-4864 -->
 
 * 雖然中繼廣告畫布預覽和匯出的檢視之間可能存在差異，但匯出的體驗會如預期般運作。<!-- GS-4492 4401 -->
 
-* 上傳的影像並不一定都包含預期的智慧標籤。<!-- GS-4856 -->
+* 上傳的影像現在包含預期的智慧標籤。<!-- GS-4856 -->
 
-* 中繼廣告匯出CSV檔案現在包含如預期的影像。 之前，ZIP檔案包含CSV匯出檔案和NULL檔案，而非影像。 <!-- GS-5107 -->
+* 「中繼廣告」匯出CSV檔案現在包含如預期的影像。 之前，ZIP檔案包含CSV匯出檔案和NULL檔案，而非影像。 <!-- GS-5107 -->
 
 * 使用者現在可以如預期在[範本詳細資訊]檢視&#x200B;**[!UICONTROL 上載者]**&#x200B;欄位中輸入文字。 之前，載入圖示會防止使用者輸入文字。<!-- GS-4887 -->
 
