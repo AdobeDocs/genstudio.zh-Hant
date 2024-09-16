@@ -1,15 +1,15 @@
 ---
 title: 建立電子郵件體驗
-description: 瞭解如何在Adobe [!DNL GenStudio] 中為效能行銷人員建立電子郵件體驗。
-feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
+description: 瞭解如何在Adobe [!DNL GenStudio]中建立電子郵件體驗。
+feature: Content, Brands Service, Guidelines, Content Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 3827d8222bd548caf83288656d5f2af8d2248dec
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '813'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,6 @@ ht-degree: 0%
    * 按一下&#x200B;**[!UICONTROL 從內容選取]**&#x200B;以選取已發佈至[!DNL Content]的資產（影像）。 使用篩選器進一步縮小搜尋結果的範圍。
    * 按一下&#x200B;**[!UICONTROL 上傳]**&#x200B;瀏覽您的檔案，並選擇要使用的資產。 除了瀏覽裝置之外，您也可以從Microsoft OneDrive或Dropbox匯入。
    * 將資產拖放至&#x200B;_Content_&#x200B;區段。
-1. 按一下&#x200B;**[!UICONTROL 使用]**。
 
 >[!NOTE]
 >
@@ -70,20 +69,16 @@ ht-degree: 0%
 
 ## 修訂產生的電子郵件
 
-在選取要傳送以進行核准或發佈至[!DNL Content]的內容之前，您可以編輯電子郵件區段或刪除產生之電子郵件集中的變體。
+在選取要傳送以進行核准或發佈至[!DNL Content]的內容之前，您可以編輯電子郵件片段或從產生之電子郵件集合中刪除變體。
 
 **若要修訂產生的變體**：
 
-* **若要[編輯電子郵件草稿名稱](/help/user-guide/create/manage-variants.md#change-draft-name)**，請按一下畫布頂端的&#x200B;_未命名草稿_&#x200B;標題，然後輸入新標題。
-* **若要[手動編輯電子郵件](/help/user-guide/create/manage-variants.md#manually-edit-text)**，請連按兩下任何可編輯的文字欄位（例如主旨列、標題或內文）並視需要編輯。
-<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **若要[刪除電子郵件](/help/user-guide/create/manage-variants.md#delete-variant)**，請按一下以選取電子郵件標題（例如「電子郵件1/4」），然後按一下&#x200B;**[!UICONTROL 刪除變體]**。
+* **若要編輯電子郵件草稿名稱**，請按一下畫布頂端的&#x200B;_未命名的草稿_&#x200B;標題，然後輸入新標題。
+* **若要手動編輯電子郵件**，請連按兩下任一電子郵件片段（例如主旨列、標題或內文）並視需要編輯。
 
-## 裝置的預覽
+  主旨列和標題只需按一下即可編輯，而標題、內文副本和行動號召則需要按兩下。
 
-修訂和準備電子郵件體驗時，您可以在案頭和行動檢視的預覽之間切換，以確保草稿變體的一致性和視覺吸引力。
-
-**若要預覽桌上型電腦和行動裝置的變體**&#x200B;切換右方功能表列（電腦和電話圖示）中的裝置預覽選項（在&#x200B;**桌上型電腦**&#x200B;和&#x200B;**行動裝置**&#x200B;之間），以預覽變體顯示的方式。
+* **若要刪除電子郵件**，請按一下以選取電子郵件標題（例如「電子郵件1/4」），然後按一下&#x200B;**[!UICONTROL 刪除變體]**。
 
 ## 驗證品牌一致性
 
@@ -92,7 +87,7 @@ ht-degree: 0%
 **若要驗證品牌一致性**：
 
 1. 按一下[**[!UICONTROL [!DNL Brand]指南核取]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)圖示以取得變體，並檢視該變體在針對您的品牌進行核取時的表現摘要。
-1. 若要取得需要改進的區段和准則的詳細資訊，請按一下&#x200B;**[!UICONTROL 檢閱]** _或_&#x200B;按一下頂端功能表列中的品牌驗證圖示，以開啟&#x200B;[_品牌驗證面板_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)。
+1. 若要取得需要改進的片段與指引的詳細資訊，請按一下&#x200B;**[!UICONTROL 檢閱]** _或_，按一下頂端功能表列中的品牌驗證圖示，以開啟&#x200B;[_品牌驗證面板_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)。
 
 1. 切換每封電子郵件，瞭解如何改善產生的內容，使其更加與品牌保持一致。
 1. [手動修訂電子郵件](#revise-generated-emails)，以確保您的電子郵件與品牌緊密一致。

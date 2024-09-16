@@ -3,9 +3,9 @@ title: 效能行銷人員適用的GenStudio概觀 [!DNL Create]
 description: 使用Adobe GenStudio中的創作AI，為效能行銷人員快速產生高效能且符合品牌規範的內容 [!DNL Create]。
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '503'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,8 @@ ht-degree: 1%
 
 * 電子郵件
 * 中繼廣告
-* 顯示廣告
+<!-- * Social media images and ads
+* Display ads -->
 
 除了[指南](/help/user-guide/guidelines/overview.md)—[!DNL Brands]、[!DNL Products]和[!DNL Personas]—[內容](/help/user-guide/content/overview.md)、[稽核和核准](/help/user-guide/approvals/overview.md)和[深入分析](/help/user-guide/insights/overview.md)、[!DNL Create]的強大功能以外，還有助於建立具影響力的品牌一致行銷內容。
 
@@ -103,17 +104,10 @@ GenStudio績效行銷人員可讓行銷人員&#x200B;**建立新的行銷內容*
 
 在您完成產生內容變數後，請傳送草稿以供利害關係人核准，以便將其儲存至[!DNL Content]並在行銷工作中實作。
 
-### 管理變體
-
-適用於效能行銷人員的GenStudio可讓[完整控制個別變體](/help/user-guide/create/manage-variants.md)的區段。
-
-您可以修訂單一變體的區段、重新產生個別區段的內容，並使用建議的編輯來改善訊息、調整資產大小等等，所有這些都在畫布中。
-
 ## 教學課程
 
 * [建立電子郵件體驗](/help/tutorials/create-email-experience.md)
 * [建立中繼廣告體驗](/help/tutorials/create-meta-ad.md)
-* [建立顯示廣告體驗](/help/tutorials/create-display-ad.md)
 
 <!-- ### Anatomy of an email experience
 
