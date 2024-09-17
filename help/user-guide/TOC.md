@@ -4,7 +4,7 @@ breadcrumb-title: 使用者指南
 user-guide-description: 瞭解如何根據即時內容效能深入分析，快速尋找及產生品牌內資產、建立變數及最佳化體驗。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
+source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 9%
@@ -15,6 +15,8 @@ ht-degree: 9%
 # 高效能行銷人員Adobe GenStudio指南 {#user-guide}
 
 + [GenStudio高效能行銷人員指南](home.md)
++ 發行說明{#release-notes}
+   + [Beta發行說明](beta-release-notes.md)
 + [開始使用](get-started.md)
 + 簡介 {#intro}
    + [概念](concepts.md)
@@ -55,5 +57,3 @@ ht-degree: 9%
    + [頻道](insights/channels.md)
    + [體驗](insights/experiences.md)
    + [資料欄](insights/data-columns.md)
-+ 發行說明{#release-notes}
-   + [Beta發行說明](beta-release-notes.md)
