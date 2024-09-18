@@ -2,19 +2,45 @@
 title: 管理資產和體驗
 description: 簡化並增強對品牌核准資產的管理，以便在您的數位行銷歷程中使用和重複使用。
 feature: Content, Assets, Experiences
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
+source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '722'
 ht-degree: 0%
 
 ---
-
 
 # 管理資產和體驗
 
 績效行銷人員的Adobe GenStudio[!DNL Content]簡化並強化了品牌核准資產的管理，以便在您的數位行銷歷程中使用和重複使用。
 
-## 新增資產
+## Assets相簿
+
+[!UICONTROL Assets]相簿會顯示已核准資產的詳細目錄。 表格左上方的篩選器（漏斗）圖示會開啟&#x200B;**[!UICONTROL 篩選器]**&#x200B;功能表，您可在此從許多類別中選取，以篩選資產庫中顯示的資產。 按一下搜尋（放大鏡）圖示，使用關鍵字尋找資產。
+
+下列顯示對[!UICONTROL Assets]相簿中字詞`dog`的搜尋：
+
+![Assets檢視（含搜尋dog](../../assets/content-assets.png)）
+
+### Assets位置
+
+依預設，您透過[!DNL Create]程式或上傳新增至[!DNL Content]的資產會儲存在`GenStudio assets`存放庫中。 `GenStudio assets`存放庫是GenStudio中供效能行銷人員使用的讀寫存放庫。 這表示您可以儲存、編輯和刪除`GenStudio assets`存放庫中的資產。
+
+右側相簿上方的&#x200B;**[!UICONTROL 位置]**&#x200B;清單可讓您從已連線的Adobe Experience Manager (AEM) [!DNL Assets Content Hub]存放庫中進行選取。 當您選取AEM存放庫時，相簿會顯示該存放庫中的資產詳細目錄，好讓您利用這些存放庫中已核准的資產作為內容建立的輸入專案。 篩選器選項會變更，以反映[!DNL AEM Assets Content Hub]中設定的類別。
+
+AEM存放庫為唯讀，這表示您無法將草稿、新資產或中繼資料儲存至AEM存放庫。 資產、體驗和範本的所有草稿和最終更新都會使用新的[系統中繼資料](asset-details.md#system-metadata)儲存到`GenStudio assets`存放庫。
+
+如需將[!DNL AEM Assets Content Hub]存放庫新增至效能行銷人員適用的GenStudio的指引，請參閱[連線AEM存放庫](connect-aem-repo.md)。
+
+## Assets管理
+
+在[!UICONTROL Content]中，效能行銷人員可輕鬆儲存、擷取及管理其數位資產。 藉由運用`GenStudio assets`存放庫和AEM存放庫，使用者可確保他們的資產有良好的組織且可供各種行銷活動存取。 此多存放庫方法可讓您靈活控制各環境中的資產使用情況，確保行銷工作中僅使用已核准和最新的資產。
+
+### 新增資產
+
+將資產新增至[!DNL Content]時，預設會儲存在`GenStudio assets`存放庫中。 _[!UICONTROL 新增資產]_&#x200B;按鈕僅在&#x200B;_[!UICONTROL 位置]_&#x200B;是`GenStudio assets`存放庫時可用。
+
+![位置欄位](../../assets/content-location.png){width="350" align="center"}
 
 **若要新增一或多個資產**：
 
@@ -40,15 +66,21 @@ ht-degree: 0%
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-## 搜尋資產
+### 搜尋資產
 
 [!DNL Content]搜尋介面快速且回應迅速，並提供高效率的搜尋優先體驗。
 
-套用篩選器，並使用資產詳細資料中的中繼資料標籤來縮小搜尋結果。 例如，您可能會想要尋找資產，以協助您為行銷活動建立新的體驗。
+套用篩選器，並使用資產詳細資料中的中繼資料標籤來縮小搜尋結果。 例如，您可能會想要尋找特定檔案型別或主題的資產，以協助您為行銷活動建立新的體驗。
 
 **若要搜尋要重複使用的內容**：
 
 1. 在&#x200B;_[!DNL Content]_中，選取&#x200B;**[!UICONTROL Assets]**區段。
+
+1. 從&#x200B;**[!UICONTROL 位置]**&#x200B;清單中選取資產存放庫，或確認您所檢視的資產存放庫是否正確。 `GenStudio assets`是預設存放庫。
+
+   >[!IMPORTANT]
+   >
+   >_位置_&#x200B;清單只有在您[連線至AEM存放庫](connect-aem-repo.md)時才能使用。
 
 1. 按一下&#x200B;**[!UICONTROL 搜尋]** （放大鏡）以輸入關鍵字或說明。
 
