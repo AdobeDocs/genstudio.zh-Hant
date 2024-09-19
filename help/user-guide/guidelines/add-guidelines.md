@@ -4,13 +4,13 @@ description: 瞭解如何在效能行銷人員的Adobe GenStudio中新增准則 
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
+exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
+source-git-commit: 7fd93bae4d81021d328e941710152e7d3aa20b76
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '968'
 ht-degree: 0%
 
 ---
-
 
 # 新增准則
 
@@ -25,6 +25,9 @@ ht-degree: 0%
 若要為效能行銷人員的GenStudio新增品牌，您可以[上傳品牌指南](#upload-brand-guidelines)或[藉由選取指引並輸入品牌詳細資料來手動建立品牌](#manually-add-brand)。 [Publish品牌](#publish-brand)至[!DNL Content]，以供日後產生內容使用。
 
 在左側導覽區域中，按一下&#x200B;**[!DNL Brands]**。 在&#x200B;_[!DNL Brands]_面板中，選取&#x200B;**新增品牌**。
+
+>[!TIP]
+>每個品牌都獨立運作，沒有階層式關係。 若要在父品牌下建立子品牌，請在建立過程中包含父品牌的資訊。
 
 ### 透過上傳新增品牌
 

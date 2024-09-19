@@ -4,7 +4,7 @@ breadcrumb-title: 教學課程
 user-guide-description: 檢視Adobe [!DNL GenStudio]的Experience League教學課程，這是端對端的解決方案，可透過創作AI和智慧型自動化加速並簡化您的內容供應鏈。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 1e61dfc03ea70ca1f1eb31610c8d486ab6a44611
+source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 4%
