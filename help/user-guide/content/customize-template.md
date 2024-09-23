@@ -3,13 +3,13 @@ title: 自訂範本
 description: 瞭解如何針對效能行銷人員的Adobe GenStudio個人化和最佳化您的範本。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 909ac53580e672df1adf0c73e67a32f2c045dc35
+exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
+source-git-commit: 8ea0c17b60b18928540070448ad1ce0206208b00
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
 
 ---
-
 
 # 自訂範本
 
@@ -98,21 +98,21 @@ _區段_&#x200B;會通知GenStudio for Performance行銷人員此區段中的欄
 
 在欄位名稱中使用您選擇的前置詞來指示欄位是區段或群組的一部分。 例如，您可能想要將焦點放在反白區域中出現的內容：
 
-- `spotlight_headline`
-- `spotlight_body`
+- `pod1_headline`
+- `pod1_body`
 
-每個區段只能使用每個欄位型別中的一個。 在上述範例中，`spotlight`區段只能使用一個`spotlight_headline`欄位。
+每個區段只能使用每個欄位型別中的一個。 在上述範例中，`pod1`區段只能使用一個`pod1_headline`欄位。
 
 範本最多可包含三個區段：
 
 - `headline`
 - `body`
-- `spotlight_headline`
-- `spotlight_body`
-- `news_headline`
-- `news_body`
+- `pod1_headline`
+- `pod1_body`
+- `pod2_headline`
+- `pod2_body`
 
-適用於效能行銷人員的GenStudio瞭解，`spotlight_headline`與`spotlight_body`的關聯性比`news_body`更密切。
+適用於效能行銷人員的GenStudio瞭解，`pod1_headline`與`pod1_body`的關聯性比`pod2_body`更密切。
 
 ## 範本預覽
 
@@ -224,14 +224,18 @@ _區段_&#x200B;會通知GenStudio for Performance行銷人員此區段中的欄
                 width="600" height="600"
                 border="0"/></p>
         <p>{{ body }}</p>
+    <!-- Pod1 -->
         <div class="pod">
-            <h2>{{ pod1_headline }}</h2>
-            <p>This is Pod 1 content.</p>
+            <h2>{{ pod1_header }}</h2>
+            <p>{{ pod1_body }}</p>
         </div>
+        <!-- End of Pod1 -->
+    <!-- Pod2 -->
         <div class="pod">
-            <h2>{{ pod2_headline }}</h2>
-            <p>This is Pod 2 content.</p>
+            <h2>{{ pod2_header }}</h2>
+            <p>{{ pod2_body }}</p>
         </div>
+        <!-- End of Pod2 -->
     </div>
 </body>
 </html>
@@ -293,4 +297,3 @@ _區段_&#x200B;會通知GenStudio for Performance行銷人員此區段中的欄
 ```
 
 +++
-
