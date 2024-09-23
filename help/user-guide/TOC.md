@@ -1,13 +1,13 @@
 ---
-user-guide-title: 高效能行銷人員Adobe GenStudio使用手冊
-breadcrumb-title: 使用者指南
-user-guide-description: 瞭解如何根據即時內容效能深入分析，快速尋找及產生品牌內資產、建立變數及最佳化體驗。
+user-guide-title: Adobe GenStudio 績效行銷人員版使用手冊
+breadcrumb-title: 使用手冊
+user-guide-description: 了解如何快速尋找及產生品牌資產、建立變化版本以及根據即時內容績效洞察來最佳化體驗。
 feature-set: GenStudio
 feature: Generative AI
 source-git-commit: 81cbd495027e50afae2a178d4465703f3df0c950
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 8%
+ht-degree: 29%
 
 ---
 
