@@ -1,18 +1,18 @@
 ---
-title: 效能行銷人員適用的GenStudio概觀 [!DNL Create]
-description: 使用Adobe GenStudio中的創作AI，為效能行銷人員快速產生高效能且符合品牌規範的內容 [!DNL Create]。
+title: 效能行銷的GenStudio概觀 [!DNL Create]
+description: 使用Adobe GenStudio中的創作AI快速產生高效能且符合品牌規範的內容，以進行效能行銷 [!DNL Create]。
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 1%
 
 ---
 
-# 適用於效能行銷人員的GenStudio [!DNL Create]
+# 效能行銷[!DNL Create]的GenStudio
 
-適用於效能行銷人員的GenStudio [!DNL Create]運用AdobeGenAI的強大功能，讓行銷人員和分散的團隊能夠建立高效能且符合品牌的體驗。
+適用於效能行銷的GenStudio [!DNL Create]運用AdobeGenAI的強大功能，讓行銷人員和分散的團隊能夠建立高效能且符合品牌的體驗。
 
 透過[!DNL Create]，您可以產生下列管道的內容：
 
@@ -60,13 +60,13 @@ ht-degree: 1%
 </tr>
 </table>
 
-GenStudio績效行銷人員可讓行銷人員&#x200B;**建立新的行銷內容**。 在此使用案例中，使用已定義的[指南](/help/user-guide/guidelines/overview.md)和靈感影像來通知建立符合品牌標準的內容。
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketers and use the power of Adobe generative AI technology to revise and improve existing content. 
+GenStudio績效行銷可讓行銷人員&#x200B;**建立新的行銷內容**。 在此使用案例中，使用已定義的[指南](/help/user-guide/guidelines/overview.md)和靈感影像來通知建立符合品牌標準的內容。
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketing and use the power of Adobe generative AI technology to revise and improve existing content. 
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create]功能
 
-[!DNL Create]整合GenStudio for Performance Marketers的各種元件，以協助使用者產生內容。
+[!DNL Create]整合GenStudio for Performance Marketing的各種元件，以協助使用者產生內容。
 
 ### 草稿
 
@@ -92,11 +92,11 @@ GenStudio績效行銷人員可讓行銷人員&#x200B;**建立新的行銷內容*
 
 在&#x200B;_引數_&#x200B;中上傳的影像用於產生的變體中，並通知為變體產生的復本內容（文字）。
 
-這些新增的引數將[准則](/help/user-guide/guidelines/overview.md)和資產插入產生程式，確保內容已自訂以符合品牌的完整身分。 我們建議您在您的GenStudio中新增高效能行銷人員准則，並在內容產生過程中使用，因為這些准則可大幅增強適合品牌內內容的建立作業。
+這些新增的引數將[准則](/help/user-guide/guidelines/overview.md)和資產插入產生程式，確保內容已自訂以符合品牌的完整身分。 我們建議您在您的GenStudio中新增績效行銷准則，並在內容產生程式中使用這些准則，因為這些准則可大幅增強建立適當的品牌上內容。
 
 ### 品牌驗證
 
-適用於效能行銷人員的GenStudio會針對品牌身分識別的各個層面進行品牌驗證（如[指引](/help/user-guide/guidelines/overview.md)中所定義）。 [品牌驗證](/help/user-guide/guidelines/brand-validation.md)資訊可用於任何產生的內容，指示其符合品牌准則，以及文字和影像的一致性。 您可以使用此資訊來修訂或改善您產生的體驗，以更符合您的品牌。
+GenStudio for Performance Marketing會針對品牌身分識別的各個層面進行品牌驗證（如[指引](/help/user-guide/guidelines/overview.md)所定義）。 [品牌驗證](/help/user-guide/guidelines/brand-validation.md)資訊可用於任何產生的內容，指示其符合品牌准則，以及文字和影像的一致性。 您可以使用此資訊來修訂或改善您產生的體驗，以更符合您的品牌。
 
 ### 審查與核准
 
@@ -106,7 +106,7 @@ GenStudio績效行銷人員可讓行銷人員&#x200B;**建立新的行銷內容*
 
 ### 管理變體
 
-適用於效能行銷人員的GenStudio可讓[完整控制個別變體](/help/user-guide/create/manage-variants.md)的區段。
+適用於效能行銷的GenStudio可讓[完整控制個別變體](/help/user-guide/create/manage-variants.md)的區段。
 
 您可以修訂單一變體的區段、重新產生個別區段的內容，並使用建議的編輯來改善訊息、調整資產大小等等，所有這些都在畫布中。
 

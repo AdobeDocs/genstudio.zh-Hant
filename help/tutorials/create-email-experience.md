@@ -1,24 +1,24 @@
 ---
 title: 建立電子郵件體驗
-description: 瞭解如何在Adobe [!DNL GenStudio] 中為效能行銷人員建立電子郵件體驗。
+description: 瞭解如何在Adobe GenStudio中建立效能行銷的電子郵件體驗。
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: a00d4fcaabb97eae69294ddc9689179842d49512
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
 
 # 建立電子郵件體驗
 
-此教學課程示範如何使用GenStudio為效能行銷人員[[!DNL Create]](/help/user-guide/create/overview.md)產生品牌化電子郵件體驗（左側導覽區域中的繪圖筆刷圖示）。
+此教學課程示範如何使用GenStudio產生效能行銷[[!DNL Create]](/help/user-guide/create/overview.md)的品牌電子郵件體驗（左側導覽區域中的繪圖筆刷圖示）。
 
-若要建立有效的電子郵件體驗，建議您[為效能行銷人員在GenStudio中新增指引](/help/user-guide/guidelines/add-guidelines.md)，並在開始前先梳理[製作提示字元的基本知識](/help/user-guide/effective-prompts.md)。
+若要建立有效的電子郵件體驗，建議您[在GenStudio中新增效能行銷的准則](/help/user-guide/guidelines/add-guidelines.md)，並在開始前先梳理製作提示字元的[基本知識](/help/user-guide/effective-prompts.md)。
 
 ## 選擇範本
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 1. 按一下&#x200B;_引數_&#x200B;圖示以展開提示區域。
 1. 在&#x200B;_引數_&#x200B;區段中，選取指導方針 — [!DNL Brands]、[!DNL Personas]和[!DNL Products] — 以通知內容建立。
 
-   如果這些功能表中沒有可用的品牌、角色或產品，請[將准則新增至您的GenStudio效能行銷人員適用的](/help/user-guide/guidelines/add-guidelines.md)。
+   如果這些功能表中沒有可用的品牌、角色或產品，請[將准則新增至您的GenStudio以進行效能行銷](/help/user-guide/guidelines/add-guidelines.md)。
 
 1. 按一下&#x200B;**[!UICONTROL 選取內容]**&#x200B;以新增要在體驗&#x200B;*中使用的內容，並按一下*&#x200B;以影響內容產生。
    * 按一下&#x200B;**[!UICONTROL 從內容選取]**&#x200B;以選取已發佈至[!DNL Content]的資產（影像）。 使用篩選器進一步縮小搜尋結果的範圍。

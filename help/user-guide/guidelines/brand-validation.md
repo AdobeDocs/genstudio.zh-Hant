@@ -1,9 +1,9 @@
 ---
-title: 高效能行銷人員適用的Adobe GenStudio品牌驗證
-description: 瞭解內建品牌驗證系統如何在GenStudio中運作，以利行銷人員發揮效能。
+title: 績效行銷的Adobe GenStudio中的品牌驗證
+description: 瞭解內建品牌驗證系統如何在GenStudio中運作，以利有效行銷。
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: a00d4fcaabb97eae69294ddc9689179842d49512
+source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # 品牌驗證
 
-在適用於效能行銷人員的GenStudio中，品牌驗證是與產生AI功能和指導方針 — [[!DNL Brands]](/help/user-guide/guidelines/brands.md)、[[!DNL Products]](/help/user-guide/guidelines/products.md)和[[!DNL Personas]](/help/user-guide/guidelines/personas.md) — 共同運作的基本元件。 這可確保所有內容符合您的品牌識別。
+在效能行銷的GenStudio中，品牌驗證是與產生AI功能和指導方針 — [[!DNL Brands]](/help/user-guide/guidelines/brands.md)、[[!DNL Products]](/help/user-guide/guidelines/products.md)和[[!DNL Personas]](/help/user-guide/guidelines/personas.md) — 共同運作的基本元件。 這可確保所有內容符合您的品牌識別。
 
-適用於效能行銷人員的GenStudio會針對各個方面進行品牌驗證，包括：
+適用於效能行銷的GenStudio會針對不同方面進行品牌驗證，包括：
 
 * 各客戶專屬的品牌指引
 * 複製不同管道平台的准則

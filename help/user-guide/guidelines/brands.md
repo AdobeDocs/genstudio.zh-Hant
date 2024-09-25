@@ -1,20 +1,20 @@
 ---
-title: 適用於效能行銷人員的GenStudio [!DNL Brands]
-description: 適用於效能行銷人員的GenStudio [!DNL Brands] 是一系列完整的品牌資產，包括行銷文案、影像、體驗等，可協助您建立與品牌一致的內容。
+title: GenStudio效能行銷 [!DNL Brands]
+description: GenStudio for Performance Marketing [!DNL Brands] 是一系列完整的品牌資產，包括行銷文案、影像、體驗等，可協助您建立與品牌一致的內容。
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 1991e59c0badc0cdde92b863d6c8528e7ca31a38
+source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 0%
 
 ---
 
-# 適用於效能行銷人員的GenStudio [!DNL Brands]
+# 效能行銷[!DNL Brands]的GenStudio
 
 品牌可將組織、產品、服務或概念與其他人區分開來。 品牌的某些方面是客觀的，例如標誌，而其他方面則是主觀的，例如語調。
 
-GenStudio績效行銷人員會使用您品牌的豐富品牌資訊，並與[!DNL Product]和[!DNL Persona]資訊合作，以及建置完整的品牌識別。 此品牌身分可用於通知如何使用Adobe的創作AI技術建立品牌上內容。
+GenStudio for Performance Marketing會使用您品牌的豐富品牌資訊，並與[!DNL Product]和[!DNL Persona]資訊合作，以及建置完整的品牌識別。 此品牌身分可用於通知如何使用Adobe的創作AI技術建立品牌上內容。
 
 **若要檢視或修改品牌**：
 
@@ -22,11 +22,11 @@ GenStudio績效行銷人員會使用您品牌的豐富品牌資訊，並與[!DNL
 1. 若要檢視品牌的總覽資訊，請按一下以開啟已定義的品牌。
 1. 若要檢視個人詳細資料或修改品牌，請按一下頂端的[**[!UICONTROL 品牌語音指南]**](#brand-voice-guidelines)、[**[!UICONTROL 頻道指南]**](#channel-guidelines)、**[!UICONTROL 影像指南]**&#x200B;或&#x200B;**[!UICONTROL 標誌]**。
 
-您可以將品牌指引檔案(最多三個PDF或DOC檔案)上傳至GenStudio，讓效能行銷人員自動建立品牌。 請參閱[新增准則](add-guidelines.md)，瞭解如何為效能行銷人員的GenStudio新增品牌、修改及發佈等。
+您可以將品牌指引檔案(最多三個PDF或DOC檔案)上傳至GenStudio，供效能行銷自動建立品牌。 請參閱[新增准則](add-guidelines.md)，瞭解如何新增品牌至GenStudio以進行效能行銷、修改及發佈等。
 
 ## [!DNL Brands]指南
 
-指南為GenStudio效能行銷人員呈現清晰的品牌特定方法、色調、視覺感受等。
+指引為GenStudio效能行銷提供您品牌特定方法、語調、視覺感受等的清晰描述。
 
 下列指引各節詳細說明每個指引類別、範例指引和潛在結果。 指引範例是塑造結果輸出的輸入範例（以下結果範例），使用這些範例來通知您自己的品牌指引。
 
@@ -72,16 +72,16 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio for Performance Marketers](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
+![Image guidelines in GenStudio for Performance Marketing](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
 ### Logos
 
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Logo guidelines in GenStudio for Performance Marketers](/help/assets/logos.png){width="650" zoomable="yes"} -->
+![Logo guidelines in GenStudio for Performance Marketing](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## 品牌驗證
 
-在適用於效能行銷人員的GenStudio中，品牌驗證搭配[!DNL Brands]、[!DNL Products]和[!DNL Personas]的創作AI功能發揮著關鍵作用。 這可確保所有內容保持與品牌身分一致。
+在效能行銷的GenStudio中，品牌驗證搭配[!DNL Brands]、[!DNL Products]和[!DNL Personas]的產生AI功能扮演了重要的角色。 這可確保所有內容保持與品牌身分一致。
 
 請參閱[品牌驗證](/help/user-guide/guidelines/brand-validation.md)。

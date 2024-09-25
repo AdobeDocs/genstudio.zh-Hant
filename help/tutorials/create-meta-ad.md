@@ -1,13 +1,13 @@
 ---
 title: 建立中繼廣告體驗
-description: 瞭解如何為Facebook或Instagram建立品牌內中繼廣告體驗，並為效能行銷人員提供Adobe GenStudio。
+description: 瞭解如何為Facebook或Instagram建立品牌內中繼廣告體驗，並提供效能行銷的Adobe GenStudio。
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: c102556fb1c95b70dc724252e4ecdc9ce10c89e7
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # 建立中繼廣告體驗
 
-此教學課程示範如何使用GenStudio為效能行銷人員[[!DNL Create]](/help/user-guide/create/overview.md)產生品牌化的中繼廣告體驗（左側導覽區域中的繪圖筆刷圖示）。
+此教學課程示範如何使用GenStudio產生品牌化的中繼廣告體驗，以進行效能行銷[[!DNL Create]](/help/user-guide/create/overview.md) （左側導覽區域中的繪圖筆刷圖示）。
 
-開始產生中繼廣告體驗之前，請務必[在效能行銷人員的GenStudio中納入指引](/help/user-guide/guidelines/add-guidelines.md)，並熟悉[建立提示](/help/user-guide/effective-prompts.md)的基本知識。
+開始產生中繼廣告體驗之前，請務必[將指導方針](/help/user-guide/guidelines/add-guidelines.md)納入GenStudio以進行效能行銷，並熟悉[建立提示](/help/user-guide/effective-prompts.md)的基本知識。
 
 ## 選擇範本
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 1. 按一下&#x200B;_引數_&#x200B;圖示以展開提示區域。
 1. 在&#x200B;_引數_&#x200B;區段中，選取指導方針 — [!DNL Brands]、[!DNL Personas]和[!DNL Products] — 以通知內容建立。
 
-   如果這些功能表中沒有可用的品牌、角色或產品，請[將准則新增至您的GenStudio效能行銷人員適用的](/help/user-guide/guidelines/add-guidelines.md)。
+   如果這些功能表中沒有可用的品牌、角色或產品，請[將准則新增至您的GenStudio以進行效能行銷](/help/user-guide/guidelines/add-guidelines.md)。
 
 1. 按一下&#x200B;**[!UICONTROL 選取內容]**&#x200B;以新增要在體驗&#x200B;*中使用的內容，並按一下*&#x200B;以影響內容產生。
    * 按一下&#x200B;**[!UICONTROL 從內容選取]**&#x200B;以選取已發佈至[!DNL Content]的資產（影像）。 使用篩選器進一步縮小搜尋結果的範圍。
@@ -125,6 +125,6 @@ ht-degree: 0%
 
 ## 連線中繼資料
 
-您可以將效能行銷人員適用的GenStudio連線至中繼，以接收進階分析和[內容效能的深入分析](/help/user-guide/insights/overview.md)。
+您可以將GenStudio的效能行銷連線到中繼以接收進階分析和[內容效能的深入分析](/help/user-guide/insights/overview.md)。
 
 如需詳細資訊，請參閱[連線通道帳戶](/help/user-guide/insights/connect-channel.md)。

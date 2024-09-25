@@ -2,7 +2,7 @@
 title: 管理變體
 description: 根據您的數位行銷需求，自訂及增強產生的變體和資產。
 feature: Content, Assets, Experiences
-source-git-commit: bf22e0006f2abe96f8cffd3607d0a8ee7e138583
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 管理變體
 
-績效行銷人員的Adobe GenStudio[!DNL Create]可讓您自訂並增強產生的變體（電子郵件、中繼廣告等），以用於數位行銷方案。
+績效行銷[!DNL Create]的Adobe GenStudio可讓您自訂並增強產生的變體（電子郵件、中繼廣告等），以用於數位行銷方案。
 
 當[建立體驗](/help/tutorials/tutorials.md)時，您可以個別或批次修改產生之變體的內容和資產。 在個別微觀層級管理變體的功能可讓您明確管理產生的每個內容片段。
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 <!-- ## Re-generate sections
 
-GenStudio for Performance Marketers has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
+GenStudio for Performance Marketing has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
 
 For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset using the _[!UICONTROL Suggested edits]_ options—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_—and entering a new prompt.
 

@@ -1,13 +1,13 @@
 ---
-title: 產生效能行銷人員內容的Adobe GenStudio變體
-description: 瞭解如何在Adobe GenStudio中為績效行銷人員產生已建立內容的變體。
+title: 產生效能行銷內容的Adobe GenStudio變體
+description: 瞭解如何在Adobe GenStudio中產生已建立內容的變體，以進行效能行銷。
 feature: Content, Brands Service, Variant Generation, Content Generation
 role: User
 level: Beginner
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## 電子郵件
 
-依預設，適用於效能行銷人員的GenStudio會產生四種電子郵件變數。 它們可以使用新提示和&#x200B;_引數_&#x200B;混合來手動修改或重新產生，以實現風格目標或品牌依附性。
+根據預設，適用於效能行銷的GenStudio會產生四種電子郵件變數。 它們可以使用新提示和&#x200B;_引數_&#x200B;混合來手動修改或重新產生，以實現風格目標或品牌依附性。
 
 **若要修改產生的電子郵件變體：**
 
