@@ -3,13 +3,13 @@ title: 準備電子郵件範本以供效能行銷人員進行Adobe GenStudio
 description: 瞭解如何為效能行銷人員建立自訂電子郵件範本Adobe GenStudio。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
+exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
+source-git-commit: 58833ed0c8e28061ab2584b7949f2a0cbd3d10cc
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
-
 
 # 為效能行銷人員準備Adobe GenStudio電子郵件範本
 
@@ -30,6 +30,14 @@ ht-degree: 0%
 設計範本後，會使用HTML和內嵌CSS對其進行編碼。 程式碼應該對各種裝置而言是乾淨和回應式的。
 
 請參閱[範本範例](/help/user-guide/content/customize-template.md#template-examples)。
+
+### 多節電子郵件
+
+您可以在內容產生期間使用[結構化提示](/help/user-guide/effective-prompts.md#structured-prompts)來指示GenStudio for Performance Marketing在電子郵件的每個區段產生不同的內容。
+
+例如，如果電子郵件範本中的區段以`Pod`—`Pod1`和`Pod2`為前置詞，用於產生內容的結構化提示可以包含這些電子郵件區段的特定指示。 GenStudio for Performance Marketing會將提示中的區段特定指示與相關電子郵件區段進行比對，並產生與指示一致的內容。
+
+請參閱[結構化提示](/help/user-guide/effective-prompts.md#structured-prompts)。
 
 ## 測試電子郵件範本
 
