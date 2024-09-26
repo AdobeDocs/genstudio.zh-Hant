@@ -5,9 +5,9 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
+source-git-commit: 448c5f9d090d34107199baf23b150447635d1ed5
 workflow-type: tm+mt
-source-wordcount: '968'
+source-wordcount: '1538'
 ht-degree: 0%
 
 ---
@@ -22,16 +22,16 @@ ht-degree: 0%
 
 ## 新增[!DNL Brands]
 
-若要將品牌新增至GenStudio以進行效能行銷，您可以[上傳品牌指南](#upload-brand-guidelines)或[藉由選取指引並輸入品牌詳細資料來手動建立品牌](#manually-add-brand)。 [Publish品牌](#publish-brand)至[!DNL Content]，以供日後產生內容使用。
+若要新增品牌，[請上傳品牌指南](#upload-a-brand)或[藉由選取指引並輸入品牌詳細資料來手動建立品牌](#manually-add-brand)。 [Publish品牌](#publish-brand)至[!DNL Content]，以供日後產生內容使用。
 
 在左側導覽區域中，按一下&#x200B;**[!DNL Brands]**。 在&#x200B;_[!DNL Brands]_面板中，選取&#x200B;**新增品牌**。
 
 >[!TIP]
 >每個品牌都獨立運作，沒有階層式關係。 若要在父品牌下建立子品牌，請在建立過程中包含父品牌的資訊。
 
-### 透過上傳新增品牌
+### 上傳品牌
 
-您可以上傳自己的品牌檔案，以在GenStudio中填入新品牌，進行高效能行銷。
+您可以上傳自己的品牌檔案以填入新品牌。
 
 請參閱[[!DNL Brands]](/help/user-guide/guidelines/brands.md)。
 
@@ -44,13 +44,13 @@ ht-degree: 0%
 
 1. 選取&#x200B;**[!UICONTROL 新增品牌]**。
 
-GenStudio for Performance Marketing使用Adobe的創作AI技術，從您上傳的檔案中擷取資訊，並開始建立您的品牌。 您會看到品牌資訊，例如品牌聲音、管道和影像指導方針，這些資訊會填入為GenStudio中的績效行銷會從您的品牌檔案中組合每個指導方針。
+GenStudio for Performance Marketing使用Adobe的創作AI技術，從您上傳的檔案中擷取資訊，並開始建立您的品牌。 當品牌檔案中的每則指引進行組合時，您會看到品牌資訊（例如，品牌聲音、頻道和影像指導方針）填入。
 
 快顯視窗會提醒您在[發佈品牌](#publish-brand)之前檢閱擷取的內容。
 
 ### 手動新增品牌
 
-您可以在GenStudio中手動新增品牌詳細資料，而非上傳現有的品牌檔案，以填入新的[品牌](brands.md)以進行效能行銷。
+您可以手動新增品牌詳細資料，而非上傳現有的品牌檔案，以填入新的[品牌](brands.md)。
 
 **若要手動新增品牌**：
 
@@ -97,23 +97,65 @@ GenStudio for Performance Marketing使用Adobe的創作AI技術，從您上傳�
 
 ## 新增[!DNL Products]
 
+若要新增產品，[請上傳產品指南](#upload-a-product)或[藉由選取指引並輸入產品詳細資料來手動建立產品](#manually-add-product)。
+
+在左側導覽區域中，按一下&#x200B;**[!DNL Products]**。 在&#x200B;_[!DNL Products]_面板中，選取&#x200B;**新增產品**。
+
 您可以在GenStudio for Performance Marketing中新增[!DNL Products]，在建立內容時指定個別產品的焦點區域。<!-- Add Rename, display, reposition functionality -->
 
 請參閱[[!DNL Products]](products.md)。
 
-**若要新增[!DNL Product]**：
+### 上傳產品
 
-1. 按一下&#x200B;**[!UICONTROL 建立產品]**。
-1. 按一下「**[!UICONTROL 未命名]**」並輸入[!DNL Product]的名稱。
-1. 按一下&#x200B;_描述_&#x200B;並輸入此[!DNL Product]的描述。
-1. 按一下&#x200B;_價值主張_&#x200B;並輸入有關產品價值的詳細資料。
-1. 按一下&#x200B;_其他詳細資料_，然後輸入個人化內容產生的重要詳細資料。
+您可以上傳產品檔案以填入新產品。
+
+請參閱[[!DNL Products]](/help/user-guide/guidelines/products.md)。
+
+**若要上傳產品檔案**：
+
+1. 選取&#x200B;**[!UICONTROL 新增產品]**&#x200B;按鈕，然後選擇&#x200B;**上傳PDF**。
+1. 按一下「**[!UICONTROL 繼續]**」。
+1. 在&#x200B;_新增您的產品_&#x200B;快顯視窗中，附加或拖曳您的產品檔案。
+
+   您最多可以附加五個PDF檔案，總共最多500 MG。
+
+1. 選取&#x200B;**[!UICONTROL 新增產品]**。
+
+   GenStudio for Performance Marketing使用Adobe的創作AI技術，從您上傳的檔案中擷取資訊，並開始建置您的產品。
+
+   系統會顯示快顯視窗，顯示從檔案擷取產品的進度。
+
+1. 在&#x200B;_建置產品_&#x200B;快顯視窗中，刪除您不想使用的擷取產品，或視需要重新命名產品。
+1. 如果遺失產品，請按一下[新增名稱] ****，然後輸入遺失產品的名稱。
+1. 按一下&#x200B;**[!UICONTROL 確認]**。
+
+   快顯視窗會提醒您驗證及檢閱擷取的產品。
+
+### 手動新增產品
+
+您可以在GenStudio for Performance Marketing中手動新增產品詳細資料，而非上傳現有的產品檔案，以填入新的[產品](products.md)。
+
+**若要手動新增產品**：
+
+1. 選取&#x200B;**[!UICONTROL 新增品牌]**&#x200B;按鈕，然後選擇&#x200B;**[!UICONTROL 手動新增]**。
+1. 按一下「**[!UICONTROL 繼續]**」。
+
+   您可以填入各種選用的指南和影像來建置您的產品。
+
+1. 按一下「**[!UICONTROL 新產品名稱]**」並輸入[!DNL Product]的名稱。
+1. 按一下&#x200B;_描述_&#x200B;並輸入此[!DNL product]的描述。
+1. 按一下&#x200B;_價值主張_並輸入有關產品價值的詳細資料。
+按一下_訊息偏好設定_&#x200B;並輸入[!DNL product]的訊息詳細資料。
 1. 若要編輯縮圖，請將滑鼠停留在影像縮圖上，然後從「縮圖」動作選單中選取&#x200B;**[!UICONTROL 「編輯縮圖」]**。
    1. 在&#x200B;_上傳_&#x200B;索引標籤中上傳新影像或移除現有的已上傳影像。
    1. 從&#x200B;_相簿_&#x200B;索引標籤中的相簿選擇影像。
-1. 按一下&#x200B;**[!UICONTROL 使用影像]**。
+   1. 按一下&#x200B;**[!UICONTROL 使用影像]**。
+1. 若要編輯封面影像，請將滑鼠停留在封面上，然後從[封面動作]功能表選取[編輯封面] ]**。**[!UICONTROL 
+   1. 在&#x200B;_上傳_&#x200B;索引標籤中上傳新影像或移除現有的已上傳影像。
+   1. 從&#x200B;_相簿_&#x200B;索引標籤的相簿中選擇影像，然後按一下&#x200B;**[!UICONTROL 使用影像]**。
+   1. 若要重新定位封面影像，請按一下[重新定位] ****，將影像拖曳到想要的位置，然後按一下[儲存] ****。
 
-   若要檢視您建立的[!DNL Products]，請按一下&#x200B;_產品_&#x200B;檢視頂端附近的向後箭頭，以導覽回&#x200B;_[!DNL Products]_首頁。
+   若要檢視您建立的[!DNL products]，請按一下&#x200B;_產品_&#x200B;檢視頂端附近的向後箭頭，以導覽回&#x200B;_[!DNL Products]_首頁。
 
 ### 管理[!DNL Products]
 
@@ -121,30 +163,75 @@ GenStudio for Performance Marketing使用Adobe的創作AI技術，從您上傳�
 
 * 從[!DNL Products]動作選單中選取&#x200B;**[!UICONTROL 開啟]**&#x200B;以修訂與檢閱現有產品。
 * 從[!DNL Products]動作功能表選取&#x200B;**[!UICONTROL 刪除]**&#x200B;以&#x200B;**刪除**&#x200B;產品。
+* 
+   * 從[!DNL Products]動作功能表選取&#x200B;**[!UICONTROL 重新命名]**&#x200B;以&#x200B;**重新命名**&#x200B;產品。
 
 ## 新增[!DNL Personas]
+
+若要新增角色，請[上傳角色指南](#upload-a-persona)或[藉由選取指南並輸入角色詳細資訊，手動建立角色](#manually-add-persona)。
+
+在左側導覽區域中，按一下&#x200B;**[!DNL Personas]**。 在&#x200B;_[!DNL Personas]_面板中，選取&#x200B;**新增角色**。
 
 您可以在GenStudio for Performance Marketing中新增[!DNL Persona]，協助將您建立的內容目標定位到您理想的對象。
 
 請參閱[[!DNL Personas]](personas.md)。
 
-**若要新增[!DNL Persona]**：
+### 上傳角色
 
-1. 按一下&#x200B;**[!UICONTROL 建立角色]**。
-1. 按一下「**[!UICONTROL 未命名]**」並輸入[!DNL Persona]的名稱。
+您可以上傳自己的角色檔案以填入新角色。
+
+請參閱[[!DNL Personas]](/help/user-guide/guidelines/personas.md)。
+
+**若要上傳角色檔案**：
+
+1. 選取&#x200B;**[!UICONTROL 新增角色]**&#x200B;按鈕，然後選擇&#x200B;**上傳PDF**。
+1. 按一下「**[!UICONTROL 繼續]**」。
+1. 在「新增角色」快顯視窗中，將角色檔案附加或拖曳到其中(_A)。
+
+   您最多可以附加五個PDF檔案，總共最多500 MG。
+
+1. 選取&#x200B;**[!UICONTROL 新增角色]**。
+
+   GenStudio for Performance Marketing使用Adobe的創作AI技術，從您上傳的檔案中擷取資訊，並開始建立您的角色。
+
+   隨即出現快顯視窗，顯示從檔案中擷取角色的過程。
+
+1. 在出現的&#x200B;_建置角色_&#x200B;快顯視窗中，刪除您不想使用的擷取角色，或視需要重新命名角色。
+1. 如果缺少角色，請按一下&#x200B;**[!UICONTROL 新增名稱]**，然後輸入缺少角色的名稱。
+1. 按一下&#x200B;**[!UICONTROL 確認]**。
+
+   擷取完成後，快顯視窗會提醒您驗證及檢閱擷取的角色。
+
+### 手動新增角色
+
+您可以手動新增角色詳細資料，而非上傳現有的角色檔案，以填入新的[角色](personas.md)。
+
+**若要手動新增角色**：
+
+1. 選取&#x200B;**[!UICONTROL 新增角色]**&#x200B;按鈕，然後選擇&#x200B;**[!UICONTROL 手動新增]**。
+1. 按一下「**[!UICONTROL 繼續]**」。
+
+   您可以填入各種選用的指南和影像，以建置您的角色。
+
+1. 在&#x200B;_描述_&#x200B;區段中新增品牌的相關資訊。
+1. 按一下「**[!UICONTROL 新角色名稱]**」並輸入[!DNL Persona]的名稱。
 1. 按一下&#x200B;_描述_&#x200B;並輸入此[!DNL Persona]的描述。
 1. 按一下&#x200B;_訊息偏好設定_&#x200B;並輸入[!DNL Persona]的訊息詳細資料。
-1. 按一下&#x200B;_其他詳細資料_，然後輸入個人化內容產生的重要詳細資料。
-1. 若要編輯縮圖，請將滑鼠停留在影像縮圖上，並從&#x200B;_縮圖動作_&#x200B;功能表選取&#x200B;**[!UICONTROL 編輯縮圖]**。
+1. 若要編輯縮圖，請將滑鼠停留在影像縮圖上，然後從「縮圖」動作選單中選取&#x200B;**[!UICONTROL 「編輯縮圖」]**。
    1. 在&#x200B;_上傳_&#x200B;索引標籤中上傳新影像或移除現有的已上傳影像。
    1. 從&#x200B;_相簿_&#x200B;索引標籤中的相簿選擇影像。
-1. 按一下&#x200B;**[!UICONTROL 使用影像]**。
+   1. 按一下&#x200B;**[!UICONTROL 使用影像]**。
+1. 若要編輯封面影像，請將滑鼠停留在封面上，然後從[封面動作]功能表選取[編輯封面] ]**。**[!UICONTROL 
+   1. 在&#x200B;_上傳_&#x200B;索引標籤中上傳新影像或移除現有的已上傳影像。
+   1. 從&#x200B;_相簿_&#x200B;索引標籤的相簿中選擇影像，然後按一下&#x200B;**[!UICONTROL 使用影像]**。
+   1. 若要重新定位封面影像，請按一下[重新定位] ****，將影像拖曳到想要的位置，然後按一下[儲存] ****。
 
-若要檢視您建立的[!DNL Personas]，請按一下&#x200B;_角色_&#x200B;檢視頂端附近的向後箭頭，以導覽回&#x200B;_[!DNL Personas]_首頁。
+   若要檢視您建立的[!DNL Personas]，請按一下&#x200B;_角色_&#x200B;檢視頂端附近的向後箭頭，以導覽回&#x200B;_[!DNL Personas]_首頁。
 
 ### 管理[!DNL Personas]
 
 在&#x200B;_[!DNL Personas]_首頁中，您可以&#x200B;**開啟已建立的[!DNL Persona]**以進行編輯或檢閱，或從清單中&#x200B;**刪除角色**：
 
-* 從[!DNL Personas]動作選單中選取&#x200B;**[!UICONTROL 開啟]**&#x200B;以修訂及檢閱現有的[!DNL Persona]。
-* 從[!DNL Personas]動作功能表選取&#x200B;**[!UICONTROL 刪除]**&#x200B;以刪除[!DNL Persona]。
+* 從[!DNL Personas]動作選單中選取&#x200B;**[!UICONTROL 開啟]**&#x200B;以修訂和檢閱現有角色。
+* 從[!DNL Personas]動作功能表中選取&#x200B;**[!UICONTROL 刪除]**&#x200B;以&#x200B;**刪除**&#x200B;角色。
+* 從[!DNL Personas]動作功能表中選取&#x200B;**[!UICONTROL 重新命名]**&#x200B;以&#x200B;**重新命名**&#x200B;角色。

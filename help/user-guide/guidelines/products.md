@@ -3,9 +3,9 @@ title: GenStudio效能行銷 [!DNL Products]
 description: GenStudio for Performance Marketing [!DNL Products] 整合了產品的所有方面（影像、說明和價值主張），以建立相關內容，強調產品優勢並保持產品訊息的一致性。
 feature: Products Service, Guidelines
 exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
-source-git-commit: 874c6f08b39b6e72d2c3d4ade5a2c78be0fcfa31
+source-git-commit: 99925ffdaa2806f1d0c319f28b46aabddc1d7d87
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ GenStudio中的![[!DNL Products]效能行銷准則](/help/assets/products-guidel
 
 ## [!DNL Products]指南
 
-GenStudio for Performance Marketing新增個別產品准則，讓您清楚掌握產品狀況。
+個別產品准則可讓GenStudio for Performance Marketing清楚瞭解您的產品。
 
 這些指引詳細說明每個指引類別和相關範例。 這些範例是塑造產生內容輸出的輸入範例。 使用這些資訊來通知您的[!DNL Products]指南。
 
@@ -39,4 +39,4 @@ GenStudio for Performance Marketing新增個別產品准則，讓您清楚掌握
 | 產品名稱 | 指企業提供給客戶的服務、解決方案或有形商品 | 確保產品名稱清晰且使用者可輕鬆瞭解產品方案&#x200B;<br><br>_範例_：「Photoshop」（SaaS公司）<br>「企業管理碩士」（教育機構）<br>「財富管理計畫」（金融公司）<br>「Home Essentials裝飾」（零售） |
 | 說明 | 簡短、清楚的摘要，重點說明產品及其用途 | 使用簡明的語言清楚描述產品（1-2個句子），為潛在使用者提供清楚的上下文。 不要包含詳細的功能資訊或規格。<br><br>_範例_：「產品XYZ是一種多功能、雲端式的專案管理工具，旨在協助團隊順暢地組織工作、追蹤進度和共同作業。 XYZ提供簡單易用的介面，從頭到尾管理專案，是小型企業和大型企業的理想選擇。」 |
 | 價值主張 | 清楚的摘要（少於10個句子），說明產品如何解決問題、提供特定權益，以及提供價值 | 清楚定義產品的優點，強調以引人入勝的語言與競爭對手區分開來。<br><br>以清單格式提供值主張，在清單的開頭輸入最顯著的值prop。<br><br>_範例_：「XYZ的值主張：<br>」<li>將專案管理工作集中在一個直覺式的平台中，無需使用多種工具</li><li>提升團隊生產力高達30%</li><li>緊密整合您最愛的工具，確保順暢的工作流程</li><li>提供即時更新和共同作業功能，讓團隊保持一致性」</li> |
-| 其他詳細資料 | 擷取個人化內容產生的重要資訊 | 提供對內容個人化至關重要的其他細節（1-3個句子），並確保資訊直接有助於內容的有效性。<br><br>著重於清晰和簡潔。 |
+| 訊息喜好設定 | 清楚概述特定產品應如何溝通的偏好溝通樣式摘要 | 為您的產品定義不重複的傳訊需求，著重於不同的通訊風格。<br><br>在清單中提供特定的訊息偏好設定（每個清單專案1-2句子）。<br><br>將清單限製為總共20個或更少的句子，確保最關鍵的資訊被反白顯示。<br><br>_範例_：「XYZ產品的訊息偏好設定：<li>強調XYZ產品的尖端技術與創新功能。</li><li>以直截了當的方式強調本產品的價格實惠性和實用性，並著重於金錢的價值。</li>」 |
