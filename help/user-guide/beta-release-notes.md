@@ -2,9 +2,9 @@
 title: Adobe GenStudio for Performance Marketing Beta發行說明
 description: 瞭解Adobe GenStudio for Performance Marketing的最新功能和增強功能。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: c95a99d4fa8030a35b7fe3690235102e1827422f
+source-git-commit: ca83beb4d6f5bd0d79a2da69658b6e18c3252f2e
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ ht-degree: 0%
 * GenStudio現在可以從上傳的PDF中擷取角色和產品資訊，並填入相關欄位。<!-- GS-3806 -->
 
 * 使用者現在可以依上傳資產的使用者名稱篩選[!DNL Content]資產和體驗。<!-- GS-1808 -->
-
-* 中繼登入流程現在包含&#x200B;**[!UICONTROL 重新整理]**&#x200B;按鈕，可讓使用者在登入期間解除封鎖快顯視窗。
-
-* 已從[!DNL Persona]詳細資料頁面移除[!DNL Additional details]區段。<!-- GS-5133 5134 -->
 
 * 已在[!DNL Products]詳細資料頁面中將[!DNL Additional details]區段重新命名為[!DNL Messaging preferences]。<!-- GS-5133 5134 -->
 
