@@ -2,9 +2,9 @@
 title: Adobe GenStudio for Performance Marketing Beta發行說明
 description: 瞭解Adobe GenStudio for Performance Marketing的最新功能和增強功能。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca83beb4d6f5bd0d79a2da69658b6e18c3252f2e
+source-git-commit: f56f3733ead0bfcb4f37e10b66577e1ef597b76d
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '575'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,6 @@ ht-degree: 0%
 * 可以上傳範本但無法看到範本。 **因應措施**：上傳已填入&#x200B;**[!UICONTROL 行銷活動]**&#x200B;欄位的資產。 然後，再次上傳範本。<!-- GS-4815 5650-->
 
 * 使用者在調整中繼廣告大小後無法手動裁切中繼廣告。<!-- GS-5871 -->
-
-* 使用者可以從[!DNL Content]工作流程建立新的[!DNL Campaign]。<!-- GS-5650 -->
 
 * 使用者也必須登入Facebook，才能登入管道中繼廣告帳戶兩次。 解決方法：登入管道中繼廣告帳戶之前，請先登出Facebook。<!-- GS-3009 -->
 
@@ -68,7 +66,6 @@ ht-degree: 0%
 * 已修正匯出後中繼廣告產生影像的影像演算。<!-- GS-5749 -->
 
 * 使用者在C[!DNL Create]畫布中放大或縮小電子郵件變體時，`%`符號現在可在DEU、FRA和ESP語言環境中正確轉譯。<!-- GS-5007 -->
-
 
 #### 本地化
 
