@@ -1,9 +1,9 @@
 ---
 title: 建立無障礙範本
-description: 在Adobe GenStudio中建立效能行銷人員的範本，這些範本能夠觸及更多對象並提供最佳體驗。
+description: 在Adobe GenStudio for Performance Marketing中建立範本，這些範本可觸及更多對象並提供最佳體驗。
 feature: Templates, Content
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: 088049a25635f5e9469c16c6ddfe9db86afdc143
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobe致力於為所有受眾提供最佳體驗。 如需進一步閱讀，請參閱Adobe](https://www.adobe.com/trust/accessibility/initiatives.html)的[協助工具方案。
 
-在適用於效能行銷人員的GenStudio中，您可以上傳資產和範本，以針對各種體驗建立內容。 遵循協助工具標準有助於您的內容觸及到最大的目標受眾。
+在GenStudio for Performance Marketing中，您可以上傳資產和範本，以針對各種體驗建立內容。 遵循協助工具標準有助於您的內容觸及到最大的目標受眾。
 
 使用下列建議，以使用最佳協助工具標準準備您的範本。
 

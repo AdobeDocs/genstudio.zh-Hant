@@ -3,7 +3,7 @@ title: 管理資產和體驗
 description: 簡化並增強對品牌核准資產的管理，以便在您的數位行銷歷程中使用和重複使用。
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 管理資產和體驗
 
-績效行銷人員的Adobe GenStudio[!DNL Content]簡化並強化了品牌核准資產的管理，以便在您的數位行銷歷程中使用和重複使用。
+Adobe GenStudio for Performance Marketing [!DNL Content]簡化並增強品牌核准資產的管理，以便在您的數位行銷歷程中使用和重複使用。
 
 ## Assets相簿
 
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ### Assets位置
 
-依預設，您透過[!DNL Create]程式或上傳新增至[!DNL Content]的資產會儲存在`GenStudio assets`存放庫中。 `GenStudio assets`存放庫是GenStudio中供效能行銷人員使用的讀寫存放庫。 這表示您可以儲存、編輯和刪除`GenStudio assets`存放庫中的資產。
+依預設，您透過[!DNL Create]程式或上傳新增至[!DNL Content]的資產會儲存在`GenStudio assets`存放庫中。 `GenStudio assets`存放庫是GenStudio for Performance Marketing中的讀寫存放庫。 這表示您可以儲存、編輯和刪除`GenStudio assets`存放庫中的資產。
 
 右側相簿上方的&#x200B;**[!UICONTROL 位置]**&#x200B;清單可讓您從已連線的Adobe Experience Manager (AEM) [!DNL Assets Content Hub]存放庫中進行選取。 當您選取AEM存放庫時，相簿會顯示該存放庫中的資產詳細目錄，好讓您利用這些存放庫中已核准的資產作為內容建立的輸入專案。 篩選器選項會變更，以反映[!DNL AEM Assets Content Hub]中設定的類別。
 
 AEM存放庫為唯讀，這表示您無法將草稿、新資產或中繼資料儲存至AEM存放庫。 資產、體驗和範本的所有草稿和最終更新都會使用新的[系統中繼資料](asset-details.md#system-metadata)儲存到`GenStudio assets`存放庫。
 
-如需將[!DNL AEM Assets Content Hub]存放庫新增至效能行銷人員適用的GenStudio的指引，請參閱[連線AEM存放庫](connect-aem-repo.md)。
+如需將[!DNL AEM Assets Content Hub]存放庫新增到GenStudio for Performance Marketing的指引，請參閱[連線AEM存放庫](connect-aem-repo.md)。
 
 ## Assets管理
 
@@ -52,7 +52,7 @@ AEM存放庫為唯讀，這表示您無法將草稿、新資產或中繼資料�
 
 1. 若要改善可發現性，請在&#x200B;**更多詳細資料**&#x200B;區段中新增選用的詳細資料，例如&#x200B;_品牌名稱_、_角色_、_地區_&#x200B;和&#x200B;_關鍵字_。
 
-   您提供的詳細資訊越多，就越能體會到適用於效能行銷人員的GenStudio的強大功能。 從清單中選取一或多個詳細資訊，或輸入適用的新詳細資訊，例如關鍵字。 您新增的每個詳細資訊都會顯示在清單下方。 按一下&#x200B;**`x`**&#x200B;以移除詳細資料。
+   您提供的詳細資料越多，就越能體驗GenStudio for Performance Marketing的強大功能。 從清單中選取一或多個詳細資訊，或輸入適用的新詳細資訊，例如關鍵字。 您新增的每個詳細資訊都會顯示在清單下方。 按一下&#x200B;**`x`**&#x200B;以移除詳細資料。
 
    您新增的任何詳細資料都會套用至此動作中新增的所有資產。
 

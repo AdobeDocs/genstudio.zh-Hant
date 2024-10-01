@@ -1,18 +1,18 @@
 ---
 title: 資產詳細資訊
-description: 效能Adobe GenStudio行銷人員使用豐富的中繼資料來儲存核准的內容，以進行搜尋和效能追蹤。
+description: Adobe GenStudio for Performance Marketing會使用豐富的中繼資料儲存已核准的內容，以供搜尋和效能追蹤。
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 95eb7c2eaeeceedf3abe5ab16e1e7c2de7bf8117
+source-git-commit: 0d8f04ab26e8d0dd533cfc4e388dd0b0a68adb3b
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
 
 # 資產詳細資訊
 
-效能Adobe GenStudio行銷人員使用豐富的中繼資料來儲存核准的內容，以進行探索性和效能追蹤。
+Adobe GenStudio for Performance Marketing會以豐富的中繼資料儲存已核准的內容，以便探索性和效能追蹤。
 
 每個資產（包括體驗和範本）都有關聯的&#x200B;_詳細資料_ （中繼資料），以協助識別、追蹤、使用內容效能和從中學習。
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->AEM存放庫中的Assets會顯示不同的中繼資料。 請參閱[設定資產可見性](connect-aem-repo.md#step-4-configure-asset-visibility)以瞭解如何設定AEM Assets Content Hub資產詳細資訊。
+>AEM存放庫中的Assets會顯示不同的中繼資料。 請參閱[設定資產可見性](connect-aem-repo.md#step-4-configure-asset-visibility)以瞭解如何設定[!DNL AEM Assets Content Hub]資產詳細資訊。
 
 ## 系統中繼資料
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ### 產生的標籤
 
-當您在[!DNL Content]中儲存已核准的資產時，GenStudio for Performance行銷人員會使用Adobe的AI和機器學習功能來研究該資產，並根據資產功能套用標籤。 例如，貓的圖片可能會產生智慧型標籤，例如`pet photography`或`cat`，以及識別圖片中主要顏色的顏色標籤。 您無法編輯標籤。
+當您在[!DNL Content]中儲存已核准的資產時，GenStudio for Performance Marketing會使用Adobe的AI和機器學習功能來研究該資產，並根據資產功能套用標籤。 例如，貓的圖片可能會產生智慧型標籤，例如`pet photography`或`cat`，以及識別圖片中主要顏色的顏色標籤。 您無法編輯標籤。
 
 ### 產生的內容中繼資料
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 使用者定義的中繼資料會將行銷內容新增至資產內容，讓行銷人員瞭解如何使用及參與資產。
 
-當您[上傳資產](/help/user-guide/content/manage-assets.md#add-assets)時，您可以為Performance Marketers定義一組存在於GenStudio中的選用資產詳細資料作為中繼資料。 包含更多詳細資訊可改善搜尋和篩選中的資產識別功能。
+當您[上傳資產](/help/user-guide/content/manage-assets.md#add-assets)時，您可以將GenStudio for Performance Marketing中存在的一組選用資產詳細資料定義為中繼資料。 包含更多詳細資訊可改善搜尋和篩選中的資產識別功能。
 
 ### 中繼資料詳細資料
 
@@ -59,10 +59,10 @@ ht-degree: 0%
 | 欄位 | 說明 |
 | ------------- | ----------- |
 | 行銷活動（專案名稱） | 隨資產擷取並儲存的預設中繼資料 |
-| [!DNL Brands] | [[!DNL Brands]](/help/user-guide/guidelines/brands.md)已新增至效能行銷人員適用的GenStudio並發佈以供使用 |
-| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md)已新增至GenStudio以供效能行銷人員使用 |
-| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md)已新增至GenStudio以供效能行銷人員使用 |
-| 頻道 | GenStudio績效行銷人員使用資產的內容型別，例如電子郵件和中繼廣告 |
+| [!DNL Brands] | [[!DNL Brands]](/help/user-guide/guidelines/brands.md)已新增至GenStudio for Performance Marketing並發佈以供使用 |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md)已新增至GenStudio for Performance Marketing以供使用 |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md)已新增至GenStudio for Performance Marketing以供使用 |
+| 頻道 | 資產使用的GenStudio for Performance Marketing內容型別，例如電子郵件和中繼廣告 |
 | 時間範圍 | 其使用之資產的時間範圍，例如季度、季別、年度等。 範例： `Winter 2023` |
 | 地區 | 使用資產的區域。 範例： `North America`， `APAC`， `Italy` |
 | 語言 | 使用資產的語言。 範例： `Spanish` |

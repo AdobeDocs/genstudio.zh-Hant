@@ -1,18 +1,18 @@
 ---
-title: 連線至AEM Assets Content Hub存放庫
-description: 瞭解如何將適用於效能行銷人員的GenStudio連結至Adobe Experience Manager (AEM) Content Hub存放庫，並運用現有的已核准內容。
+title: 連線至 [!DNL AEM Assets Content Hub] 存放庫
+description: 瞭解如何將Adobe GenStudio for Performance Marketing連線至Adobe Experience Manager (AEM) [!DNL Content Hub] 存放庫並利用現有的已核准內容。
 level: Experienced
 feature: Assets, Content
-source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
+source-git-commit: 0d8f04ab26e8d0dd533cfc4e388dd0b0a68adb3b
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
 # 連線到[!DNL AEM Assets Content Hub]存放庫
 
-如果您在Adobe Experience Manager (AEM)中有資產，您可以依照這些步驟操作，以便在GenStudio中為效能行銷人員存取這些資產。
+如果您在Adobe Experience Manager (AEM)中有資產，您可以依照這些步驟操作，以便在GenStudio for Performance Marketing中存取這些資產。
 
 >[!BEGINSHADEBOX]
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 步驟3：核准資產
 
-核准要在[!DNL AEM Assets Content Hub]中使用的資產，以便在GenStudio中供效能行銷人員使用。 請參閱&#x200B;_AEM as a Cloud Service_&#x200B;檔案中的[核准Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets)中的資產。
+核准在[!DNL AEM Assets Content Hub]中使用的資產，以便在GenStudio for Performance Marketing中使用。 請參閱&#x200B;_AEM as a Cloud Service_&#x200B;檔案中的[核准Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets)中的資產。
 
 ## 步驟4：設定資產可見度
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
 ## 步驟5：驗證連線
 
-在適用於效能行銷人員內容的GenStudio中，_[!UICONTROL 位置]_&#x200B;清單可在右側的相簿上方取得。 如果您沒有存取權，或您的組織尚未部署和連線[!DNL AEM Assets Content Hub]存放庫，清單將不可用。
+在GenStudio for Performance Marketing內容中，_[!UICONTROL 位置]_&#x200B;清單可在右側的相簿上方取得。 如果您沒有存取權，或您的組織尚未部署和連線[!DNL AEM Assets Content Hub]存放庫，清單將不可用。

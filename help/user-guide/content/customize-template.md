@@ -1,10 +1,10 @@
 ---
 title: 自訂範本
-description: 瞭解如何針對效能行銷人員的Adobe GenStudio個人化和最佳化您的範本。
+description: 瞭解如何針對Adobe GenStudio for Performance Marketing個人化和最佳化您的範本。
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 8ea0c17b60b18928540070448ad1ce0206208b00
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 自訂範本
 
-使用&#x200B;_Handlebars_&#x200B;範本化語言，調整您的HTML範本以符合效能行銷人員的Adobe GenStudio。 [!DNL Handlebars]語法使用具有雙大括弧的規則文字做為內容預留位置。 請參閱&#x200B;_Handlebars語言指南_&#x200B;中的[`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars)，瞭解如何準備您的範本。
+使用&#x200B;_Handlebars_&#x200B;範本語言，調整您的HTML範本以適應Adobe GenStudio for Performance Marketing。 [!DNL Handlebars]語法使用具有雙大括弧的規則文字做為內容預留位置。 請參閱&#x200B;_Handlebars語言指南_&#x200B;中的[`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars)，瞭解如何準備您的範本。
 
-以下幾節將說明如何新增內容預留位置、在預覽中隱藏不必要的元素以及管理靜態內容的連結。 您的範本準備就緒後，您可以[將其上傳到GenStudio以進行效能行銷人員](use-templates.md#upload-a-template)，並開始根據您的自訂範本產生個人化電子郵件。
+以下幾節將說明如何新增內容預留位置、在預覽中隱藏不必要的元素以及管理靜態內容的連結。 您的範本準備就緒後，您可以[將其上傳到GenStudio for Performance Marketing](use-templates.md#upload-a-template)，並開始根據您的自訂範本產生個人化電子郵件。
 
 ## 內容預留位置
 
-適用於效能的GenStudio行銷人員可辨識範本中的特定[元素](use-templates.md#template-elements)，但前提是您使用可辨識的欄位名稱來識別它們。
+GenStudio for Performance Marketing可辨識範本中的某些[元素](use-templates.md#template-elements)，但前提是您使用可辨識的欄位名稱來識別它們。
 
-在範本的head或body中，您可以使用[!DNL Handlebars]語法作為內容預留位置，其中您要求GenStudio的效能行銷人員將實際內容填入範本。 適用於效能行銷人員的GenStudio會根據[已辨識的&#x200B;_欄位_&#x200B;名稱](#recognized-field-names)來辨識及解譯內容預留位置。
+在範本的head或body中，您可以使用[!DNL Handlebars]語法作為內容預留位置，其中您要求GenStudio for Performance Marketing將實際內容填入範本。 GenStudio for Performance Marketing會根據[可辨識的&#x200B;_欄位_&#x200B;名稱](#recognized-field-names)來辨識及解譯內容預留位置。
 
 例如，您可以使用`{{ headline }}`搭配[!DNL Handlebars]語法來指示電子郵件標題的放置位置：
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ### 可辨識的欄位名稱
 
-下表列出GenStudio針對效能行銷人員識別的欄位名稱，以便將其填入範本。 使用[!DNL Handlebars]語法將這些欄位名稱新增至您的範本，其中您需要GenStudio才能讓效能行銷人員產生內容。
+下表列出GenStudio for Performance Marketing識別的欄位名稱，以填入範本。 在需要GenStudio for Performance Marketing產生內容的範本中，使用[!DNL Handlebars]語法新增這些欄位名稱。
 
 | 欄位 | 角色 | 頻道範本 |
 | -------------- | ---------------------- | ------------------------------ |
@@ -43,7 +43,7 @@ ht-degree: 0%
 | `image` | 影像 | 電子郵件<br>中繼廣告 |
 | `brand_logo` | 選取品牌的標誌<br>如需建議使用方式，請參閱[品牌標誌欄位名稱](#brand-logo-field-name)。 | 電子郵件<br>中繼廣告 |
 
-適用於效能的GenStudio行銷人員會自動填入下列範本中的特定欄位：
+GenStudio for Performance Marketing會自動填入下列範本中的特定欄位：
 
 - **電子郵件範本**&#x200B;不需要您識別`subject`欄位
 - **中繼廣告範本**&#x200B;不需要您識別`headline`、`body`和`CTA`欄位
@@ -56,11 +56,11 @@ ht-degree: 0%
 >
 >針對Instagram廣告，產生的標題不會出現在最終體驗中。
 
-針對效能行銷人員將範本上傳到GenStudio時有20個欄位的限制。 由於`subject`欄位會在電子郵件中自動產生，因此會計為一個欄位。 這表示電子郵件範本中允許19個欄位。
+上傳範本到GenStudio for Performance Marketing時有20個欄位的限制。 由於`subject`欄位會在電子郵件中自動產生，因此會計為一個欄位。 這表示電子郵件範本中允許19個欄位。
 
 >[!TIP]
 >
->您可使用GenStudio中針對效能行銷人員的[範本預覽](#template-preview)來驗證範本。
+>您可以使用GenStudio for Performance Marketing中的[範本預覽](#template-preview)來驗證範本。
 
 #### 品牌標誌欄位名稱
 
@@ -94,7 +94,7 @@ ht-degree: 0%
 
 ### 區段或群組
 
-_區段_&#x200B;會通知GenStudio for Performance行銷人員此區段中的欄位需要高度一致性。 建立此關係可協助AI產生符合區段中創意元素的內容。
+_區段_&#x200B;通知GenStudio for Performance Marketing此區段中的欄位需要高度一致性。 建立此關係可協助AI產生符合區段中創意元素的內容。
 
 在欄位名稱中使用您選擇的前置詞來指示欄位是區段或群組的一部分。 例如，您可能想要將焦點放在反白區域中出現的內容：
 
@@ -112,11 +112,11 @@ _區段_&#x200B;會通知GenStudio for Performance行銷人員此區段中的欄
 - `pod2_headline`
 - `pod2_body`
 
-適用於效能行銷人員的GenStudio瞭解，`pod1_headline`與`pod1_body`的關聯性比`pod2_body`更密切。
+GenStudio for Performance Marketing瞭解`pod1_headline`與`pod1_body`的關聯性比`pod2_body`更密切。
 
 ## 範本預覽
 
-當您[上傳範本](use-templates.md#upload-a-template)時，GenStudio效能行銷人員會掃描HTML檔案以找出可識別的欄位。 使用預覽檢閱您的[範本元素](use-templates.md#template-elements)，並確認您以[可辨識的欄位名稱](#recognized-field-names)正確識別它們。
+當您[上傳範本](use-templates.md#upload-a-template)時，GenStudio for Performance Marketing會掃描HTML檔案以找出可辨識的欄位。 使用預覽檢閱您的[範本元素](use-templates.md#template-elements)，並確認您以[可辨識的欄位名稱](#recognized-field-names)正確識別它們。
 
 電子郵件範本的範例預覽：
 
@@ -134,7 +134,7 @@ _區段_&#x200B;會通知GenStudio for Performance行銷人員此區段中的欄
 {{/if}}
 ```
 
-另一個範例可能是為了防止在效能行銷人員的GenStudio中預覽範本時使用追蹤程式碼。 下列範例說明如何在匯出的範本中將追蹤引數新增至連結，同時保持預覽連結整齊：
+另一個範例可能是為了防止在GenStudio for Performance Marketing中預覽範本時使用追蹤程式碼。 下列範例說明如何在匯出的範本中將追蹤引數新增至連結，同時保持預覽連結整齊：
 
 ```handlebars
 <a class="button" {{#if _genStudio.browser }}
@@ -145,11 +145,11 @@ _區段_&#x200B;會通知GenStudio for Performance行銷人員此區段中的欄
 
 ## 靜態內容
 
-電子郵件和中繼範本通常會連結至GenStudio外部託管的影像和CSS檔案，以供效能行銷人員使用。 當適用於效能的GenStudio行銷人員為這些範本或從中衍生的體驗產生縮圖時，如果他們沒有正確的跨原始資源共用(CORS)標頭，則可能會忽略這些外部資源。
+電子郵件和中繼範本通常會連結至GenStudio for Performance Marketing外部託管的影像和CSS檔案。 當GenStudio for Performance Marketing為這些範本或衍生自這些範本的體驗產生縮圖時，如果這些外部資源沒有正確的跨原始資源共用(CORS)標題，則可能會忽略這些外部資源。
 
 為了確保這些資源在縮圖產生程式期間可供使用，請考慮兩個選項：
 
-1. **使用CORS標頭**：主機伺服器必須傳送回應，且生產環境的`Access-Control-Allow-Origin`標頭設為`https://experience.adobe.com`值。 此方法可讓GenStudio的效能行銷人員存取並包含資源。
+1. **使用CORS標頭**：主機伺服器必須傳送回應，且生產環境的`Access-Control-Allow-Origin`標頭設為`https://experience.adobe.com`值。 此方法可讓GenStudio for Performance Marketing存取並包含資源。
 
 1. **使用資料URL**：使用資料URL將外部資源直接內嵌到範本中。 此方法會繞過CORS限制，並確保資源在產生縮圖期間可供使用。
 
@@ -157,7 +157,7 @@ _區段_&#x200B;會通知GenStudio for Performance行銷人員此區段中的欄
 
 +++範例：電子郵件範本包含一個區段
 
-以下是包含一節之電子郵件的HTML範本基本範例。 標題包含用於樣式的簡單、內嵌CSS。 內文包含`pre-header`、`headline`和`image` [預留位置](#content-placeholders)，供GenStudio的效能行銷人員在電子郵件產生程式期間插入內容。
+以下是包含一節之電子郵件的HTML範本基本範例。 標題包含用於樣式的簡單、內嵌CSS。 內文包含`pre-header`、`headline`和`image` [預留位置](#content-placeholders)，供GenStudio for Performance Marketing在電子郵件產生程式期間用來插入內容。
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>

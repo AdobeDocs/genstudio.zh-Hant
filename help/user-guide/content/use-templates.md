@@ -1,18 +1,18 @@
 ---
 title: 使用範本
-description: 瞭解如何在Adobe GenStudio中為高效能行銷人員有效使用範本來簡化您的創意流程。
+description: 瞭解如何在Adobe GenStudio for Performance Marketing中有效使用範本來簡化您的創意流程。
 feature: Templates, Content
-source-git-commit: 192568a65bbd5c8c2e9cfc050462eb2c3465245d
+exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 0%
 
 ---
 
-
 # 使用範本
 
-GenStudio效能行銷人員可讓內容建立者使用&#x200B;_範本_&#x200B;快速產生一致的品牌上行銷內容。 範本提供起點，包含預先設定的版面和設計元素，可大幅減少產生新內容所需的時間和精力。
+GenStudio for Performance Marketing可讓內容建立者使用&#x200B;_範本_&#x200B;快速產生一致的品牌上行銷內容。 範本提供起點，包含預先設定的版面和設計元素，可大幅減少產生新內容所需的時間和精力。
 
 ## 範本元素
 
@@ -71,17 +71,17 @@ GenStudio效能行銷人員可讓內容建立者使用&#x200B;_範本_&#x200B;�
 
 >[!TIP]
 >
->檢視GenStudio for Performance行銷人員支援的[可辨識欄位名稱](customize-template.md#recognized-field-names)，以取得每種管道型別的範本。
+>檢視GenStudio for Performance Marketing支援的每種管道型別範本的[可辨識欄位名稱](customize-template.md#recognized-field-names)。
 
 ## 設定頻道准則
 
-最佳實務是在使用GenStudio中的範本之前，先為每個品牌設定[通路指引](../guidelines/brands.md#channel-guidelines)，以利行銷人員發揮效能。 管道指引直接影響使用範本時產生的內容型別。 例如，您可以在電子郵件內文中設定字元限制。
+在GenStudio for Performance Marketing中使用範本之前，最佳實務是為每個品牌設定[管道指引](../guidelines/brands.md#channel-guidelines)。 管道指引直接影響使用範本時產生的內容型別。 例如，您可以在電子郵件內文中設定字元限制。
 
 ![主體規格](/help/assets/channel-email-body.png)
 
 ## 自訂範本
 
-您[自訂範本](customize-template.md)，以便用於GenStudio for Performance Marketers，方法是插入產生AI用來插入內容的內容預留位置或欄位。 適用於效能的GenStudio行銷人員可辨識特定欄位，例如「`body`」欄位，並遵守為所選品牌設定的管道准則。
+您[透過插入產生AI用來插入內容的內容預留位置或欄位，自訂範本](customize-template.md)以用於GenStudio for Performance Marketing。 GenStudio for Performance Marketing可辨識特定欄位，例如「`body`」欄位，並遵守為所選品牌設定的管道准則。
 
 >[!TIP]
 >
@@ -89,7 +89,7 @@ GenStudio效能行銷人員可讓內容建立者使用&#x200B;_範本_&#x200B;�
 
 ## 上傳範本
 
-為GenStudio的效能行銷人員準備範本時，請使用[自訂範本](customize-template.md)作為指南。 請參閱範本的[協助工具准則](accessibility-for-templates.md)，以取得為所有對象提供更佳體驗的指引。
+準備GenStudio for Performance Marketing的範本時，請使用[自訂範本](customize-template.md)作為指南。 請參閱範本的[協助工具准則](accessibility-for-templates.md)，以取得為所有對象提供更佳體驗的指引。
 
 **若要新增範本**：
 
@@ -122,7 +122,7 @@ GenStudio效能行銷人員可讓內容建立者使用&#x200B;_範本_&#x200B;�
 
 ## 使用範本建立
 
-尋找並使用績效行銷人員專用的GenStudio中的現有範本，以建立更多體驗。
+在GenStudio for Performance Marketing中尋找並使用現有範本，以建立更多體驗。
 
 **若要使用範本建立體驗**：
 
