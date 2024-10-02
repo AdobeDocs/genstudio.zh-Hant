@@ -3,9 +3,9 @@ title: 管理資產和體驗
 description: 簡化並增強對品牌核准資產的管理，以便在您的數位行銷歷程中使用和重複使用。
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
+source-git-commit: af20efaa511ed403f5160956ff98b42beb64bb34
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -59,18 +59,22 @@ AEM存放庫為唯讀，這表示您無法將草稿、新資產或中繼資料�
    檢視[中繼資料詳細資料](/help/user-guide/content/asset-details.md#system-metadata)。
 
 1. 按一下&#x200B;**[!UICONTROL 新增資產]**。
+
 1. 當資產上傳完成時，按一下&#x200B;**完成**。
+
 1. 若要檢視您上傳的新資產，請按一下畫布底部的&#x200B;_可用新資產_&#x200B;通知中的&#x200B;**[!UICONTROL 重新整理]**。
 
 <!-- 
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-### 搜尋資產
+### 搜尋內容
 
-[!DNL Content]搜尋介面快速且回應迅速，並提供高效率的搜尋優先體驗。
+篩選和搜尋介面快速且回應迅速，並提供高生產力的搜尋優先體驗。 每個[!DNL Content]檢視都提供篩選選項，以縮小搜尋範圍，找出理想的資產、體驗或範本。 針對資產和體驗，您可以選取行銷活動和特定准則，例如為特定產品製作的內容。
 
-套用篩選器，並使用資產詳細資料中的中繼資料標籤來縮小搜尋結果。 例如，您可能會想要尋找特定檔案型別或主題的資產，以協助您為行銷活動建立新的體驗。
+有以[關鍵字](asset-details.md#user-defined-metadata)和[屬性](/help/user-guide/insights/attributes.md)為基礎的篩選器，可縮小搜尋結果的範圍。 例如，您可能會想要尋找特定檔案型別或主題的資產，以協助您為行銷活動建立新的體驗。
+
+搜尋&#x200B;_體驗_&#x200B;時，您可以使用&#x200B;**[!UICONTROL 由]**&#x200B;建立篩選器來限制清單，以僅顯示您或特定人員建立的體驗。
 
 **若要搜尋要重複使用的內容**：
 
