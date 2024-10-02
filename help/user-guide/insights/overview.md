@@ -3,16 +3,16 @@ title: ' [!DNL Insights]的概觀'
 description: 瞭解如何根據即時內容績效量度最佳化體驗。
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
+source-git-commit: 723b1f826fe5ceefcf9c1beff09af9b3d56462c5
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
 
-# 效能行銷人員的Adobe GenStudio[!DNL Insights]
+# Adobe GenStudio for Performance Marketing [!DNL Insights]
 
-績效行銷人員的Adobe GenStudio[!DNL Insights]提供內容績效的進階分析和深入分析，可協助您制定資料導向式決策。
+Adobe GenStudio for Performance Marketing [!DNL Insights]提供內容效能的進階分析和深入分析，可協助您做出資料導向式決策。
 
 從[!DNL Insights]儀表板，您可以：
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如需讓GenStudio for Performance行銷人員接收您目前行銷活動、資產和體驗之資料的步驟，請參閱[Connect管道帳戶](connect-channel.md)。
+>如需讓GenStudio for Performance Marketing接收您目前行銷活動、資產和體驗之資料的步驟，請參閱[Connect管道帳戶](connect-channel.md)。
 
 ## 儀表板
 
@@ -31,8 +31,6 @@ ht-degree: 0%
 ![[!DNL Insights]儀表板](/help/assets/insights-dashboard.png)
 
 每個檢視都會顯示對應的表格，您可以依關鍵字、篩選和日期範圍進行搜尋。 您可以按一下表格右側上方的設定(cog)圖示，以切換可檢視欄型別。 _[!UICONTROL 摘要]_&#x200B;列可能會顯示欄的總計或平均值。
-
-如需資料表中各資料行型別的說明，請參閱 [!DNL Insights]](data-columns.md)的[資料行。
 
 [!UICONTROL 體驗]、[!UICONTROL Assets]和[!UICONTROL 屬性]包含相簿檢視，可讓您使用具有影像或視訊縮圖的卡片來掃描和排序資產。 每個卡片都可選擇顯示三個關鍵量度之一： `Click-through rate`、`Cost per click`和`Spend`。
 
@@ -50,7 +48,7 @@ ht-degree: 0%
 
 按一下資產可提供有關其跨不同體驗之效能的進一步內容：
 
-![資產檢視](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
+![資產詳細資料](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
 在資產檢視中，左側會顯示資產的縮圖和屬性清單。 有三個醒目提示的量度： `Click-through rate`、`Cost per click`和`Spend`。 效能反白顯示實際值（實線）與所選時段內的平均值（虛線）相較之下的結果（預設為`Last 30 days`）。
 
