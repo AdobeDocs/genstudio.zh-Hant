@@ -1,23 +1,20 @@
 ---
 cloud: Experience Cloud
 solution: GenStudio
-product: GenStudio
 type: Documentation
+git-repo: https://github.com/AdobeDocs/genstudio.zh-Hant
 mini-toc-levels: 2
+description: Adobe GenStudio for Performance Marketing指南
 hide: true
-source-git-commit: 4c97106b5d987d08e5ab3738521cadc83d96015f
+source-git-commit: 2bc505acc561e60ee2af928adf53c9193677c3f5
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 88%
 
 ---
 
 
 # 中繼資料僅供內部使用
-
-<!--
-git-repo: https://github.com/AdobeDocs/genstudio.en
--->
 
 metadata.md 檔案內含存放庫等級的中繼資料，會在存放庫中傳遞至使用手冊 TOC.md 檔案。若要變更任何使用手冊的 metadata.md 內容，請在任何 TOC.md 檔案中變更。
 

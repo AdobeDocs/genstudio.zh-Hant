@@ -1,24 +1,19 @@
 ---
 title: Adobe GenStudio使用手冊
-description: 透過Adobe的AI優先應用程式GenStudio for Performance Marketers，讓行銷人員和創意人員能夠透過企業護欄和針對高效能體驗的治理，自助存取品牌上內容。
+description: 探索Adobe GenStudio for Performance Marketing的功能。 瞭解如何快速建立品牌內資產、產生變數和最佳化體驗。
 exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
-source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
+source-git-commit: 845cf9321c92598f42a92e89cb6331a8b122a894
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 1%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 
-# 高效能行銷人員Adobe GenStudio使用手冊
+# Adobe GenStudio for Performance Marketing使用手冊
 
-績效行銷人員的Adobe GenStudio是AI導向的平台，可讓您產生和管理符合品牌標準且符合企業政策的行銷內容。
+Adobe GenStudio for Performance Marketing是AI導向的平台，可讓您產生和管理行銷內容，並符合您的品牌標準與企業政策。
 
-透過運用Adobe AI技術，GenStudio for Performance Marketers提供了一整套工具，可簡化內容建立及管理的複雜性，讓創意人員可專注於創新。
-
-## 新增功能
-
-- [[!DNL Insights Channels]](insights/channels.md) — 關於行銷活動客戶參與、績效、預算和支出的新總覽。
-- [[!DNL Insights Experiences]](insights/experiences.md) — 體驗和廣告效能相關見解的新概觀。
+透過Adobe AI技術，GenStudio for Performance Marketing提供全方位的工具套件，可簡化內容建立及管理的複雜性，方便創意人員專注於創新。
 
 ## 探索功能
 
@@ -103,7 +98,7 @@ ht-degree: 1%
       </a>
    </div>
    <p>
-      <em>瞭解如何為GenStudio的效能行銷人員新增准則（品牌、產品和角色）。</em>
+      <em>瞭解如何新增准則（品牌、產品和角色）至GenStudio for Performance Marketing。</em>
    </p>
 </td>
 <td valign="top">
