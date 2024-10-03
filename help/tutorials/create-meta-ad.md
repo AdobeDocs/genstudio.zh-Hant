@@ -7,7 +7,7 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
+source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
@@ -88,7 +88,7 @@ ht-degree: 0%
 
 ## 驗證品牌一致性
 
-若要最佳化產生的廣告，並確保嚴格遵守品牌識別，請利用&#x200B;[_品牌准則檢查_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) （提供變體的品牌一致性摘要）和&#x200B;[_品牌驗證面板_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;的強大功能，顯示完整的品牌驗證詳細資訊並闡明改善領域。
+若要最佳化產生的廣告，並確保嚴格遵守品牌識別，請利用&#x200B;[_品牌准則檢查_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) （提供變體的品牌一致性摘要）和&#x200B;[_品牌驗證_&#x200B;面板](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)的功能，顯示完整的品牌驗證詳細資訊並闡明改善區域。
 
 **若要驗證品牌一致性**：
 
