@@ -7,9 +7,9 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
+source-git-commit: c1cc90b4c80b6b754b34ac609e8e94b799386fad
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '955'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,8 @@ ht-degree: 0%
 * **若要[編輯電子郵件草稿名稱](/help/user-guide/create/manage-variants.md#change-draft-name)**，請按一下畫布頂端的&#x200B;_未命名草稿_&#x200B;標題，然後輸入新標題。
 * **若要[手動編輯電子郵件](/help/user-guide/create/manage-variants.md#manually-edit-text)**，請連按兩下任何可編輯的文字欄位（例如主旨列、標題或內文）並視需要編輯
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **若要[刪除電子郵件](/help/user-guide/create/manage-variants.md#delete-variant)**，請按一下變體的選項圖示（三個點），然後按一下&#x200B;**[!UICONTROL 刪除]**。
+* **若要[新增或交換變體中的影像](/help/user-guide/create/manage-variants.md#swap-image)**，請按一下影像資產（如果影像目前不存在，則按一下影像資產區域），然後按一下&#x200B;**[!UICONTROL 從內容選取/交換]**&#x200B;或&#x200B;**[!UICONTROL 上傳新影像]**，以在個別變體中新增或交換影像。
+* **若要[刪除電子郵件](/help/user-guide/create/manage-variants.md#delete-variant)**，請按一下以選取電子郵件標題（例如「電子郵件1/4」），然後按一下&#x200B;**[!UICONTROL 刪除變體]**。
 
 ## 提交產生回饋
 
