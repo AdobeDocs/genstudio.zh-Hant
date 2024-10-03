@@ -2,9 +2,9 @@
 title: 管理變體
 description: 根據您的數位行銷需求，自訂及增強產生的變體和資產。
 feature: Content, Assets, Experiences
-source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '880'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 管理變體
 
-績效行銷[!DNL Create]的Adobe GenStudio可讓您自訂並增強產生的變體（電子郵件、中繼廣告等），以用於數位行銷方案。
+Adobe GenStudio for Performance Marketing [!DNL Create]可讓您自訂及增強產生的變體 — [電子郵件](/help/user-guide/create/email-experiences.md)、[中繼廣告](/help/user-guide/create/meta-experiences.md)等等 — 以用於數位行銷方案。
 
 當[建立體驗](/help/tutorials/tutorials.md)時，您可以個別或批次修改產生之變體的內容和資產。 在個別微觀層級管理變體的功能可讓您明確管理產生的每個內容片段。
 
@@ -53,20 +53,20 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 1. If you want to regenerate results, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   The variant is updated with the revised text.
+   The variant is updated with the revised text. -->
 
-## Crop assets
+## 裁切資產
 
-You can manually crop and reposition image assets in individual generated variants.
+您可以在個別產生的變體中，手動裁切和重新定位影像資產。
 
-**To crop and reposition images in variants**:
+**若要裁切和重新定位變體中的影像**：
 
-1. After generating a set of variants, hover over an image within a variant.
-1. Click **[!UICONTROL Apply Crop]**.
-1. Zoom in and out and drag the image into the desired position.
-1. Click **[!UICONTROL Apply]**.
+1. 產生一組變體後，將滑鼠移至變體內的影像上。
+1. 按一下影像左角的裁切圖示。
+1. 調整影像邊界方框，並將影像拖曳到需要的位置。
+1. 按一下&#x200B;**[!UICONTROL 套用]**&#x200B;將裁切套用至單一影像，或按一下&#x200B;**[!UICONTROL 套用至所有影像]**&#x200B;套用至變體中的所有影像。
 
-   The cropped image is automatically saved and visible for the variant. -->
+   裁切的影像會儲存並對變體可見。
 
 ## 變更外觀比例
 
@@ -101,6 +101,12 @@ You can manually crop and reposition image assets in individual generated varian
 
 例如，如果您一開始以1:1外觀比例產生四個變體，然後將外觀比例變更為4:5，畫布上現在可以使用&#x200B;_8_&#x200B;個總計變體。
 
+## 裝置的預覽
+
+修訂和準備電子郵件體驗時，您可以在案頭和行動檢視的預覽之間切換，以確保草稿變體的一致性和視覺吸引力。
+
+**若要預覽桌上型電腦和行動裝置的變體**，請在右側功能表列（電腦和電話圖示）切換裝置預覽選項（在&#x200B;**桌上型電腦**&#x200B;和&#x200B;**行動裝置**&#x200B;之間），以預覽變體顯示的方式。
+
 ## 刪除變體
 
 您可以刪除任何您不打算儲存或重複使用的已產生變體。
@@ -109,7 +115,7 @@ You can manually crop and reposition image assets in individual generated varian
 
 **若要刪除產生的變體**：
 
-1. 產生一組變體後，按一下變體上方的名稱。
+1. 產生一組變體後，按一下變體上方的選項圖示（三個點）。
 
    變體會反白顯示，並出現快捷選單。
 
@@ -122,3 +128,27 @@ You can manually crop and reposition image assets in individual generated varian
 使用&#x200B;_[!UICONTROL 品牌准則檢查]_&#x200B;與&#x200B;_[!UICONTROL 品牌驗證面板]_&#x200B;來維持一致的品牌識別與變體一致。
 
 請參閱[品牌驗證](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)。
+
+## 產生意見回饋
+
+對於產生的品牌一致資產品質，可提交意見回饋，以改進內容產生流程。 指出結果是否具有高品質或低品質，有助於提升GenStudio for Performance Marketing的整體內容品質和使用者安全。
+
+產生回饋意見適用於個別變體，不適用於收集的變體集。
+
+**若要提交產生意見反應**：
+
+1. 產生一組變體後，按一下變體上方的選項圖示（三個點）。
+
+   變體會反白顯示，並出現快捷選單。
+
+1. 選取&#x200B;**[!UICONTROL 輸出良好]**&#x200B;或&#x200B;**[!UICONTROL 輸出不良]**。
+
+   會出現一個意見快顯視窗，以收集進一步的資訊。 產生的內容和提示資訊會包含在您的意見反應中。
+
+1. 在意見快顯視窗中新增下列資訊：
+   1. 選取&#x200B;_[!UICONTROL 同時包含參考內容和圖層資料]_&#x200B;選項，將該額外的參考資訊包含在收集到的意見反應中。
+   1. 從&#x200B;_[!UICONTROL 來看，哪些專案運作良好？]_&#x200B;或&#x200B;_[!UICONTROL 發生什麼問題？在]_&#x200B;區段中，選取說明哪些選項可讓內容產生品質較高或較低。
+   1. 在&#x200B;_[!UICONTROL 附註]_&#x200B;欄位中新增任何其他實用或相關資訊。
+1. 按一下「**[!UICONTROL 提交]**」。
+
+   橫幅會顯示以確認您提交了意見反應。

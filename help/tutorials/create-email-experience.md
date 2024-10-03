@@ -7,16 +7,16 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
 
 # 建立電子郵件體驗
 
-此教學課程示範如何使用GenStudio產生效能行銷[[!DNL Create]](/help/user-guide/create/overview.md)的品牌電子郵件體驗（左側導覽區域中的繪圖筆刷圖示）。
+此教學課程示範如何使用GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)產生品牌化[電子郵件體驗](/help/user-guide/create/email-experiences.md) （在左側導覽區域中繪製筆刷圖示）。
 
 若要建立有效的電子郵件體驗，建議您[在GenStudio中新增效能行銷的准則](/help/user-guide/guidelines/add-guidelines.md)，並在開始前先梳理製作提示字元的[基本知識](/help/user-guide/effective-prompts.md)。
 
@@ -44,8 +44,11 @@ ht-degree: 0%
    如果這些功能表中沒有可用的品牌、角色或產品，請[將准則新增至您的GenStudio以進行效能行銷](/help/user-guide/guidelines/add-guidelines.md)。
 
 1. 按一下&#x200B;**[!UICONTROL 選取內容]**&#x200B;以新增要在體驗&#x200B;*中使用的內容，並按一下*&#x200B;以影響內容產生。
-   * 按一下&#x200B;**[!UICONTROL 從內容選取]**&#x200B;以選取已發佈至[!DNL Content]的資產（影像）。 使用篩選器進一步縮小搜尋結果的範圍。
-   * 按一下&#x200B;**[!UICONTROL 上傳]**&#x200B;瀏覽您的檔案，並選擇要使用的資產。 除了瀏覽裝置之外，您也可以從Microsoft OneDrive或Dropbox匯入。
+   * 若要從您的[!DNL Content]存放庫選取資產（影像），請按一下&#x200B;**[!UICONTROL 從內容選取]**。 篩選並選取一或多個影像。
+
+     若要使用已連線[!DNL AEM Assets Content Hub]存放庫中的資產，請從&#x200B;_位置_&#x200B;下拉式選單中選擇存放庫。 篩選並選取一或多個影像。
+
+   * 若要上傳一或多個新資產，請按一下[上傳] ****，瀏覽您的檔案，然後選擇要使用的資產。 瀏覽裝置時，您可以從Microsoft OneDrive或Dropbox匯入。 按一下以選取所需的影像。
    * 將資產拖放至&#x200B;_Content_&#x200B;區段。
 1. 按一下&#x200B;**[!UICONTROL 使用]**。
 
@@ -68,6 +71,8 @@ ht-degree: 0%
 
 依預設，會產生四個變數（全部由您新增的提示、指引和內容所推動），並顯示在畫布中。
 
+產生的內容會以漸進方式載入 — 當電子郵件體驗的每個區段產生時，都會顯示在畫布中。 請參閱[電子郵件體驗](/help/user-guide/create/meta-experiences.md#progressive-loading)，瞭解如何在畫布中載入這些變更。
+
 ## 修訂產生的電子郵件
 
 在選取要傳送以進行核准或發佈至[!DNL Content]的內容之前，您可以編輯電子郵件區段或刪除產生之電子郵件集中的變體。
@@ -75,15 +80,17 @@ ht-degree: 0%
 **若要修訂產生的變體**：
 
 * **若要[編輯電子郵件草稿名稱](/help/user-guide/create/manage-variants.md#change-draft-name)**，請按一下畫布頂端的&#x200B;_未命名草稿_&#x200B;標題，然後輸入新標題。
-* **若要[手動編輯電子郵件](/help/user-guide/create/manage-variants.md#manually-edit-text)**，請連按兩下任何可編輯的文字欄位（例如主旨列、標題或內文）並視需要編輯。
+* **若要[手動編輯電子郵件](/help/user-guide/create/manage-variants.md#manually-edit-text)**，請連按兩下任何可編輯的文字欄位（例如主旨列、標題或內文）並視需要編輯
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **若要[刪除電子郵件](/help/user-guide/create/manage-variants.md#delete-variant)**，請按一下以選取電子郵件標題（例如「電子郵件1/4」），然後按一下&#x200B;**[!UICONTROL 刪除變體]**。
+* **若要[刪除電子郵件](/help/user-guide/create/manage-variants.md#delete-variant)**，請按一下變體的選項圖示（三個點），然後按一下&#x200B;**[!UICONTROL 刪除]**。
+
+## 提交產生回饋
+
+若要[提交關於產生輸出品質的意見反應](/help/user-guide/create/manage-variants.md#generation-feedback)，請按一下選項圖示（三個點）並選取&#x200B;**[!UICONTROL 輸出良好]**&#x200B;或&#x200B;**[!UICONTROL 輸出不良]**。
 
 ## 裝置的預覽
 
-修訂和準備電子郵件體驗時，您可以在案頭和行動檢視的預覽之間切換，以確保草稿變體的一致性和視覺吸引力。
-
-**若要預覽桌上型電腦和行動裝置的變體**，請在右側功能表列（電腦和電話圖示）切換裝置預覽選項（在&#x200B;**桌上型電腦**&#x200B;和&#x200B;**行動裝置**&#x200B;之間），以預覽變體顯示的方式。
+修訂和準備電子郵件體驗時，您可以[在案頭和行動檢視的預覽之間切換](/help/user-guide/create/manage-variants.md#preview-for-device)，以確保草稿變體的一致性和視覺吸引力。
 
 ## 驗證品牌一致性
 
