@@ -3,7 +3,7 @@ title: 撰寫有效的提示
 description: 瞭解如何為Adobe GenStudio for Performance Marketing撰寫有效的提示。
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
 source-wordcount: '758'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 在GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)中，您可以在提示區域使用&#x200B;**[!UICONTROL 提示條件]** （[_引數_](/help/user-guide/create/overview.md#parameters)&#x200B;和提示），透過選取來新增詳細資料，以改善AI解譯。
 
-對於[電子郵件](/help/tutorials/create-email-experience.md)，提示條件可能包括在&#x200B;_引數_&#x200B;中新增[指南](/help/user-guide/guidelines/overview.md)、上傳要在電子郵件變體中使用的資產，以及描述性提示。 對於[中繼廣告](/help/tutorials/create-meta-ad.md)，提示條件可能包括&#x200B;_引數_&#x200B;中的品牌指引、選取或上傳現有資產、影像或資產（例如外觀比例）的相關設定以及提示。 實際效能始於[設定准則](/help/user-guide/guidelines/add-guidelines.md)。
+對於[電子郵件](/help/user-guide/create/email-experiences.md)，提示條件可能包括在&#x200B;_引數_&#x200B;中新增[指南](/help/user-guide/guidelines/overview.md)、上傳要在電子郵件變體中使用的資產，以及描述性提示。 對於[中繼廣告](/help/tutorials/create-meta-ad.md)，提示條件可能包括&#x200B;_引數_&#x200B;中的品牌指引、選取或上傳現有資產、影像或資產（例如外觀比例）的相關設定以及提示。 實際效能始於[設定准則](/help/user-guide/guidelines/add-guidelines.md)。
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ GenStudio for Performance Marketing指南可協助創作AI個人化您的資產�
 
 ### 結構化提示
 
-對於多節電子郵件，您可以構造提示以提供節特定的指示，以便為電子郵件中的每個節產生不同的內容。 結構化提示應直接參照電子郵件範本](/help/user-guide/content/email-template.md#multi-section-emails)中的[節名稱，以便將產生的內容插入對應的內容預留位置。
+對於多節電子郵件，您可以建構提示以提供特定節的指示，以產生[電子郵件](/help/user-guide/create/email-experiences.md)中每個節的不同內容。 結構化提示應直接參照電子郵件範本](/help/user-guide/content/email-template.md#multi-section-emails)中的[節名稱，以便將產生的內容插入對應的內容預留位置。
 
 例如，您可以指示GenStudio for Performance Marketing產生在電子郵件第一區段中推廣新產品的內容，並產生在第二電子郵件區段中詳細說明產品成本節省效益的內容。
 
