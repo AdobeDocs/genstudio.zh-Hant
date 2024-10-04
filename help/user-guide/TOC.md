@@ -4,7 +4,7 @@ breadcrumb-title: 使用手冊
 user-guide-description: 探索Adobe GenStudio for Performance Marketing的功能。 瞭解如何快速建立品牌內資產、產生變數和最佳化體驗。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 2705c0cb59008051aa3049b1527485e7b4ab2ba7
+source-git-commit: 5b04b6bddbf89d38a83c2a3f070a086f523645f7
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 7%
@@ -62,5 +62,4 @@ ht-degree: 7%
    + [體驗](insights/experiences.md)
    + [資產](insights/assets.md)
    + [屬性](insights/attributes.md)
-+ 已隱藏{#hidden}
-   + [GenStudio Academy](genstudioacademy.md)
++ [GenStudio Academy — 隱藏](genstudioacademy.md)
