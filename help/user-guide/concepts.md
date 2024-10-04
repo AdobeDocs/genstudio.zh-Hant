@@ -3,7 +3,7 @@ title: Adobe GenStudio for Performance Marketing概念
 description: 瞭解Adobe GenStudio for Performance Marketing概念和術語。
 feature: Workflow, Generative AI
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
+source-git-commit: 9016841b6a788fe5ca50f3e9c0d774a248a6c793
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -25,7 +25,9 @@ GenStudio for Performance Marketing是獨立企業產品，其中包含Adobe的�
 
 GenStudio for Performance Marketing運用創作AI的強大功能，加速內容建立流程，並確保產生高品質的內容。 創意資產的反複生命週期會產生日益準確且符合品牌標準的內容，以便與目標受眾產生共鳴。
 
-首先，透過強大的品牌准則功能，有效地培訓GenStudio for Performance Marketing有關您組織的品牌、客戶角色和產品說明的知識。 請參閱[指引概述](../user-guide/guidelines/overview.md)，瞭解如何準備並上傳這些指引。
+首先，透過強大的品牌准則功能，有效地培訓GenStudio for Performance Marketing有關您組織的品牌、客戶角色和產品說明的知識。
+
+請參閱[指引概述](../user-guide/guidelines/overview.md)，瞭解如何準備並上傳這些指引。
 
 ## 內容生命週期
 
@@ -34,7 +36,7 @@ GenStudio for Performance Marketing運用創作AI的強大功能，加速內容�
 <table style="table-layout:fixed">
 <tr style="border: 0;">
     <td style="width: 120px;">
-       <img alt="行事曆" src="../assets/csc-workflow-planning.svg" width="100">
+       <img alt="行事曆" src="../assets/csc-workflow-planning.png" width="100">
     </td>
     <td>
         <p>集思廣益、定義指引，並圍繞內容建立策略以吸引受眾。</p>
@@ -42,7 +44,7 @@ GenStudio for Performance Marketing運用創作AI的強大功能，加速內容�
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="筆刷和畫布" src="../assets/csc-creation-production.svg" width="100">
+        <img alt="筆刷和畫布" src="../assets/csc-creation-production.png" width="100">
     </td>
     <td>
         <p>根據計畫產生內容。 即時共同作業、接收意見回饋、進行編輯並核准內容。</p>
@@ -50,7 +52,7 @@ GenStudio for Performance Marketing運用創作AI的強大功能，加速內容�
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="影像等" src="../assets/csc-content-mgmt.svg" width="100">
+        <img alt="影像等" src="../assets/csc-content-mgmt.png" width="100">
     </td>
     <td>
         <p>在集中式存放庫中儲存、共用和尋找創意資產。 根據效能重新使用和振興內容。</p>
@@ -58,7 +60,7 @@ GenStudio for Performance Marketing運用創作AI的強大功能，加速內容�
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="紙飛機" src="../assets/csc-delivery-activation.svg" width="100">
+        <img alt="紙飛機" src="../assets/csc-delivery-activation.png" width="100">
     </td>
     <td>
         <p>啟用內容並跨多個行銷管道發佈。</P>
@@ -66,7 +68,7 @@ GenStudio for Performance Marketing運用創作AI的強大功能，加速內容�
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="圖表" src="../assets/csc-reporting-insights.svg" width="100">
+        <img alt="圖表" src="../assets/csc-reporting-insights.png" width="100">
     </td>
     <td>
         <p>收集資料並取得資產效能最佳化的深入分析。</p>
