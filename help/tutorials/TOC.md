@@ -1,5 +1,5 @@
 ---
-user-guide-title: 效能行銷教學課程的Adobe GenStudio
+user-guide-title: Adobe GenStudio for Performance Marketing 教學課程
 breadcrumb-title: 教學課程
 user-guide-description: 瞭解如何按照效能行銷教學課程的GenStudio完成端對端流程，例如建立電子郵件體驗。
 feature-set: GenStudio
@@ -7,7 +7,7 @@ feature: Generative AI
 source-git-commit: 1b0121a7006799cc5b2c2168fcb55a9a5ac10601
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 1%
+ht-degree: 12%
 
 ---
 
