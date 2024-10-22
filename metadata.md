@@ -1,12 +1,12 @@
 ---
 cloud: Experience Cloud
-solution: GenStudio
+solution: GenStudio for Performance Marketing
 type: Documentation
 git-repo: https://github.com/AdobeDocs/genstudio.zh-Hant
 mini-toc-levels: 2
 description: Adobe GenStudio for Performance Marketing指南
 hide: true
-source-git-commit: 2bc505acc561e60ee2af928adf53c9193677c3f5
+source-git-commit: a8f76a7af04b7a1c6412c7c5113df2083ce2d525
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 88%
