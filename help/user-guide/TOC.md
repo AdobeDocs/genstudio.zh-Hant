@@ -2,12 +2,10 @@
 user-guide-title: Adobe GenStudio for Performance Marketing使用手冊
 breadcrumb-title: 使用手冊
 user-guide-description: 探索Adobe GenStudio for Performance Marketing的功能。 瞭解如何快速建立品牌內資產、產生變數和最佳化體驗。
-feature-set: GenStudio
-feature: Generative AI
-source-git-commit: 8fafd823d3d67cadfe095857723ba1e57e2a14fb
+source-git-commit: e0153a2da412b488a1e0d42342e91d0d645a43aa
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 7%
+source-wordcount: '41'
+ht-degree: 4%
 
 ---
 
@@ -15,51 +13,53 @@ ht-degree: 7%
 # Adobe GenStudio for Performance Marketing指南 {#user-guide}
 
 + [GenStudio for Performance Marketing指南](home.md)
-+ 發行說明{#release-notes}
-   + [Beta發行說明](beta-release-notes.md)
-+ [開始使用](get-started.md)
-+ 簡介 {#intro}
-   + [概念](concepts.md)
-   + [有效提示](effective-prompts.md)
-   + [教學課程](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
-+ 准則{#guidelines}
-   + [指引總覽](guidelines/overview.md)
-   + [品牌](guidelines/brands.md)
-   + [角色](guidelines/personas.md)
-   + [產品](guidelines/products.md)
-   + [新增准則](guidelines/add-guidelines.md)
-   + [品牌驗證](guidelines/brand-validation.md)
-+ 建立{#create}
-   + [[!DNL Create] 概覽](create/overview.md)
-   + [電子郵件體驗](create/email-experiences.md)
-   + [中繼體驗](create/meta-experiences.md)
-   + [管理變體](create/manage-variants.md)
-+ 檢閱與核准{#approve}
-   + [檢閱和核准概述](approvals/overview.md)
-   + [要求內容檢閱和核准](approvals/request-review.md)
-   + [檢閱和編輯內容](approvals/review-and-edit.md)
-   + [核准內容](approvals/approve-content.md)
-   + [Publish核准的內容](approvals/publish-content.md)
-+ 內容{#content}
-   + [內容概觀](content/overview.md)
-   + [管理資產和體驗](content/manage-assets.md)
-   + [連線AEM存放庫](content/connect-aem-repo.md)
-   + [資產詳細資訊](content/asset-details.md)
-   + 範本{#templates}
-      + [使用範本](content/use-templates.md)
-      + [自訂範本](content/customize-template.md)
-      + [建立無障礙範本](content/accessibility-for-templates.md)
-      + [準備電子郵件範本](content/email-template.md)
-      + [準備中繼廣告範本](content/meta-template.md)
-+ 行銷活動{#campaigns}
-   + [行銷活動概覽](campaigns/overview.md)
-+ 啟用{#activation}
-   + [Activation概述](activation/overview.md)
-+ 深入分析{#insights}
-   + [見解概述](insights/overview.md)
-   + [連線管道帳戶](insights/connect-channel.md)
-   + [頻道](insights/channels.md)
-   + [體驗](insights/experiences.md)
-   + [資產](insights/assets.md)
-   + [屬性](insights/attributes.md)
-+ [GenStudio Academy — 隱藏](genstudioacademy.md)
+
+<!-- + Release notes {#release-notes}
+  + [Beta release notes](beta-release-notes.md)
++ [Get started](get-started.md)
++ Introduction {#intro}
+  + [Concepts](concepts.md)
+  + [Effective prompts](effective-prompts.md)
+  + [Tutorials](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
++ Guidelines {#guidelines}
+  + [Guidelines overview](guidelines/overview.md)
+  + [Brands](guidelines/brands.md)
+  + [Personas](guidelines/personas.md)
+  + [Products](guidelines/products.md)
+  + [Add guidelines](guidelines/add-guidelines.md)
+  + [Brand validation](guidelines/brand-validation.md)
++ Create {#create}
+  + [[!DNL Create] overview](create/overview.md)
+  + [Email experiences](create/email-experiences.md)
+  + [Meta experiences](create/meta-experiences.md)
+  + [Manage variants](create/manage-variants.md)
++ Reviews & Approvals {#approve}
+  + [Review and Approvals overview](approvals/overview.md)
+  + [Request review and approval of content](approvals/request-review.md)
+  + [Review and edit content](approvals/review-and-edit.md)
+  + [Approve content](approvals/approve-content.md)
+  + [Publish approved content](approvals/publish-content.md)
++ Content {#content}
+  + [Content overview](content/overview.md)
+  + [Manage assets and experiences](content/manage-assets.md)
+  + [Connect an AEM repository](content/connect-aem-repo.md)
+  + [Asset details](content/asset-details.md)
+  + Templates {#templates}
+    + [Work with templates](content/use-templates.md)
+    + [Customize a template](content/customize-template.md)
+    + [Create accessible templates](content/accessibility-for-templates.md)
+    + [Prepare an email template](content/email-template.md)
+    + [Prepare a Meta ad template](content/meta-template.md)
++ Campaigns {#campaigns}
+  + [Campaigns overview](campaigns/overview.md)
++ Activation {#activation}
+  + [Activation overview](activation/overview.md)
++ Insights {#insights}
+  + [Insights overview](insights/overview.md)
+  + [Connect channel account](insights/connect-channel.md)
+  + [Channels](insights/channels.md)
+  + [Experiences](insights/experiences.md)
+  + [Assets](insights/assets.md)
+  + [Attributes](insights/attributes.md)
++ [GenStudio Academy - Hidden](genstudioacademy.md)
+ -->
