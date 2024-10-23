@@ -1,14 +1,13 @@
 ---
 title: Adobe GenStudio使用手冊
-description: 探索Adobe GenStudio for Performance Marketing的功能。 瞭解如何快速建立品牌內資產、產生變數和最佳化體驗。
-source-git-commit: bc509cd9ca144ee41bb0070efef138c1fda9707e
+description: 探索 Adobe GenStudio for Performance Marketing 的功能。了解如何快速建立符合品牌形象的資產、產生變化版本並最佳化體驗。
+source-git-commit: fd36f757db18ba688029106a11fdf09df1cf7a9b
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 62%
 
 ---
 
-# Adobe GenStudio for Performance Marketing使用手冊
+# Adobe GenStudio for Performance Marketing 使用手冊
 
-如需產品檔案，請[這裡](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home)。
-
+此內容已移至[GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing)檔案頁面。
