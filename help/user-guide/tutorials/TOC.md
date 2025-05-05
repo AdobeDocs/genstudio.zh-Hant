@@ -17,4 +17,4 @@ ht-degree: 12%
 + [GenStudio for Performance MarketingTutorials](tutorials.md)
 + [建立電子郵件體驗](create-email-experience.md)
 + [建立中繼廣告體驗](create-meta-ad.md)
-+ [GenStudio for Performance Marketing使用手冊](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)
++ [GenStudio for Performance Marketing使用手冊](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html?lang=zh-Hant)

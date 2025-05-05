@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 步驟1：啟用[!DNL AEM Assets Content Hub]
 
-請依照&#x200B;**部署Content Hub**&#x200B;自助服務程式，為您在Cloud Manager中的現有AEM Assets啟用[!DNL Content Hub]。 請參閱&#x200B;_AEM as a Cloud Service_&#x200B;檔案中的[部署 [!DNL Content Hub]](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub)。
+請依照&#x200B;**部署Content Hub**&#x200B;自助服務程式，為您在Cloud Manager中的現有AEM Assets啟用[!DNL Content Hub]。 請參閱&#x200B;_AEM as a Cloud Service_&#x200B;檔案中的[部署 [!DNL Content Hub]](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub)。
 
 啟用[!DNL AEM Assets Content Hub]後，您在Admin Console的[!DNL AEM Assets as a Cloud Service]內有一個尾碼為`contenthub`的新執行個體。
 
@@ -32,16 +32,16 @@ ht-degree: 0%
 
 在[!DNL Admin Console]中，將GenStudio使用者或使用者群組新增至[!DNL AEM Assets Content Hub]產品設定檔。 [!DNL AEM Assets Content Hub]個使用者可以檢視資產，但無法新增資產或修改現有資產。
 
-- [內建 [!DNL Content Hub] 系統管理員](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
-- [內建 [!DNL Content Hub] 使用者](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
+- [內建 [!DNL Content Hub] 系統管理員](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
+- [內建 [!DNL Content Hub] 使用者](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
 
 ## 步驟3：核准資產
 
-核准在[!DNL AEM Assets Content Hub]中使用的資產，以便在GenStudio for Performance Marketing中使用。 請參閱&#x200B;_AEM as a Cloud Service_&#x200B;檔案中的[核准Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets)中的資產。
+核准在[!DNL AEM Assets Content Hub]中使用的資產，以便在GenStudio for Performance Marketing中使用。 請參閱&#x200B;_AEM as a Cloud Service_&#x200B;檔案中的[核准Experience Manager](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets)中的資產。
 
 ## 步驟4：設定資產可見度
 
-在&#x200B;_[!DNL AEM Assets Content Hub]_&#x200B;組態選項中，檢閱篩選器、資產詳細資訊、搜尋和品牌推廣的每組組態選項。 請參閱_ Content Hub _檔案中的[設定AEM as a Cloud Service使用者介面](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options)。
+在&#x200B;_[!DNL AEM Assets Content Hub]_&#x200B;組態選項中，檢閱篩選器、資產詳細資訊、搜尋和品牌推廣的每組組態選項。 請參閱_ Content Hub _檔案中的[設定AEM as a Cloud Service使用者介面](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options)。
 
 ## 步驟5：驗證連線
 
