@@ -57,7 +57,7 @@ GenStudio for Performance Marketing指南可協助創作AI個人化您的資產�
 
 ### 結構化提示
 
-對於多節電子郵件，您可以建構提示以提供特定節的指示，以產生[電子郵件](/help/user-guide/create/email-experiences.md)中每個節的不同內容。 結構化提示應直接參照電子郵件範本](/help/user-guide/content/email-template.md#multi-section-emails)中的[節名稱，以便將產生的內容插入對應的內容預留位置。
+對於多節電子郵件，您可以建構提示以提供特定節的指示，以產生[電子郵件](/help/user-guide/create/email-experiences.md)中每個節的不同內容。 結構化提示應直接參照電子郵件範本[&#128279;](/help/user-guide/content/email-template.md#multi-section-emails)中的節名稱，以便將產生的內容插入對應的內容預留位置。
 
 例如，您可以指示GenStudio for Performance Marketing產生在電子郵件第一區段中推廣新產品的內容，並產生在第二電子郵件區段中詳細說明產品成本節省效益的內容。
 
@@ -72,7 +72,7 @@ GenStudio for Performance Marketing指南可協助創作AI個人化您的資產�
   例如，如果您的範本使用`moduleA`或`Group-3`作為區段名稱，則您可以在提示中參照這些區段名稱。
 
 - 遵循建議的規則/結構。 如果提示結構不符合提供的格式，提示會套用到&#x200B;*所有*&#x200B;電子郵件區段，並且仍然會方便內容產生。
-- 使用區段名稱作為電子郵件範本](/help/user-guide/content/email-template.md#code-an-email-template)中定義的[。 提示參考必須符合電子郵件範本中編碼的區段名稱。
+- 使用區段名稱作為電子郵件範本[&#128279;](/help/user-guide/content/email-template.md#code-an-email-template)中定義的。 提示參考必須符合電子郵件範本中編碼的區段名稱。
 - 不區分大小寫。 例如，您可以在電子郵件範本和結構化提示中使用`Pod`或`pod`。
 - 先參考一般使用者提示，然後參考區段特定指示。
 - 使用冒號、連字型大小、逗號或其他分隔(`,:;#$!~|@=-%&*^_`)作為區段名稱參考和指示詞之間的分隔。 例如，您可以使用下列作為特定區段提示指令： `Pod1; Describe how to easily edit text and swap images.`

@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 步驟4：設定資產可見度
 
-在&#x200B;_[!DNL AEM Assets Content Hub]_組態選項中，檢閱篩選器、資產詳細資訊、搜尋和品牌推廣的每組組態選項。 請參閱_ Content Hub _檔案中的[設定AEM as a Cloud Service使用者介面](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options)。
+在&#x200B;_[!DNL AEM Assets Content Hub]_&#x200B;組態選項中，檢閱篩選器、資產詳細資訊、搜尋和品牌推廣的每組組態選項。 請參閱_ Content Hub _檔案中的[設定AEM as a Cloud Service使用者介面](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options)。
 
 ## 步驟5：驗證連線
 

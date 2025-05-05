@@ -38,7 +38,7 @@ GenStudio for Performance Marketing會保留13個月的管道資料。 這包括
 
 **若要在GenStudio for Performance Marketing中連線中繼廣告帳戶**：
 
-1. 在&#x200B;_[!DNL Insights]_中，按一下&#x200B;**[!UICONTROL 連線管道帳戶]**。
+1. 在&#x200B;_[!DNL Insights]_&#x200B;中，按一下&#x200B;**[!UICONTROL 連線管道帳戶]**。
 
    >[!INFO]
    >

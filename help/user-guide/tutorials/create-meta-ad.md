@@ -26,7 +26,7 @@ ht-degree: 0%
 
 **若要選擇中繼廣告範本**：
 
-1. 在&#x200B;_[!DNL Create]_中，按一下_「您今天要建立什麼？」中的&#x200B;**[!UICONTROL 中繼廣告]**_節。
+1. 在&#x200B;_[!DNL Create]_&#x200B;中，按一下_「您今天要建立什麼？」中的&#x200B;**[!UICONTROL 中繼廣告]**&#x200B;_節。
 1. 使用&#x200B;_篩選器_&#x200B;旁的搜尋選項來尋找特定的中繼廣告範本。
 1. 按一下以選取範本，然後按一下&#x200B;**[!UICONTROL 使用]**。
 
@@ -128,7 +128,7 @@ ht-degree: 0%
 
 1. **若要發佈您新的中繼廣告體驗**，請按一下頂端工具列中的&#x200B;**[!UICONTROL Publish]**。
 1. **若要匯出您新的中繼廣告體驗**，請按一下頂端工具列中的&#x200B;**[!UICONTROL 匯出]**。
-   1. 選取格式(僅限CSV和影像或HTML)，然後按一下「匯出」****。
+   1. 選取格式(僅限CSV和影像或HTML)，然後按一下「匯出」**&#x200B;**。
 
 如需詳細資訊，請參閱[[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content)。
 

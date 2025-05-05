@@ -93,7 +93,7 @@ GenStudio for Performance Marketing可讓內容建立者使用&#x200B;_範本_&#
 
 **若要新增範本**：
 
-1. 在&#x200B;_[!DNL Content]_中，選取&#x200B;**[!UICONTROL 範本]**區段。
+1. 在&#x200B;_[!DNL Content]_&#x200B;中，選取&#x200B;**[!UICONTROL 範本]**&#x200B;區段。
 
 1. 按一下&#x200B;**[!UICONTROL 新增範本]**。
 
@@ -107,7 +107,7 @@ GenStudio for Performance Marketing可讓內容建立者使用&#x200B;_範本_&#
 
    >[!TIP]
    >
-   >如果範本不正確，請按一下[上一步] ****&#x200B;並返回上一步。 上傳修正的範本檔案。
+   >如果範本不正確，請按一下[上一步] **&#x200B;**&#x200B;並返回上一步。 上傳修正的範本檔案。
 
 1. 在&#x200B;_[!UICONTROL 提供範本詳細資料及上傳]_&#x200B;窗格中，命名您的範本並選取&#x200B;**[!UICONTROL 管道]**&#x200B;型別。
 
@@ -126,7 +126,7 @@ GenStudio for Performance Marketing可讓內容建立者使用&#x200B;_範本_&#
 
 **若要使用範本建立體驗**：
 
-1. 在&#x200B;_[!DNL Content]_中，選取&#x200B;**[!UICONTROL 範本]**區段。
+1. 在&#x200B;_[!DNL Content]_&#x200B;中，選取&#x200B;**[!UICONTROL 範本]**&#x200B;區段。
 
    ![內容範本清單](../../assets/content-templates.png){width="650" zoomable="yes"}
 

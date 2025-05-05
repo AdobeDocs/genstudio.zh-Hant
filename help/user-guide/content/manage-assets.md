@@ -44,7 +44,7 @@ AEM存放庫為唯讀，這表示您無法將草稿、新資產或中繼資料�
 
 **若要新增一或多個資產**：
 
-1. 在&#x200B;_[!DNL Content]_中，按一下&#x200B;**[!UICONTROL 新增資產]**。
+1. 在&#x200B;_[!DNL Content]_&#x200B;中，按一下&#x200B;**[!UICONTROL 新增資產]**。
 
 1. 在&#x200B;_新增您核准的資產_&#x200B;檢視中，將一或多個檔案拖放至放置區。 您可以選擇使用&#x200B;**[!UICONTROL 瀏覽]**&#x200B;從本機檔案選取，或是從Dropbox或Microsoft OneDrive匯入檔案。
 
@@ -78,7 +78,7 @@ In the future, need guidance on template upload errors. For now, the UI just say
 
 **若要搜尋要重複使用的內容**：
 
-1. 在&#x200B;_[!DNL Content]_中，選取&#x200B;**[!UICONTROL Assets]**區段。
+1. 在&#x200B;_[!DNL Content]_&#x200B;中，選取&#x200B;**[!UICONTROL Assets]**&#x200B;區段。
 
 1. 從&#x200B;**[!UICONTROL 位置]**&#x200B;清單中選取資產存放庫，或確認您所檢視的資產存放庫是否正確。 `GenStudio assets`是預設存放庫。
 

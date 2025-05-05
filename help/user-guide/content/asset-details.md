@@ -18,7 +18,7 @@ Adobe GenStudio for Performance Marketing會以豐富的中繼資料儲存已核
 
 **若要檢視資產詳細資訊**：
 
-1. 在&#x200B;_[!DNL Content]_中，選取資產、體驗或範本。 按一下資產可開啟資產聚焦檢視。
+1. 在&#x200B;_[!DNL Content]_&#x200B;中，選取資產、體驗或範本。 按一下資產可開啟資產聚焦檢視。
 
 1. 在資產檢視中，檢閱右側的&#x200B;_[!UICONTROL 詳細資料]_&#x200B;區段。
 
@@ -36,7 +36,7 @@ Adobe GenStudio for Performance Marketing會以豐富的中繼資料儲存已核
 
 您可以使用Adobe Express直接在GenStudio for Performance Marketing中編輯影像資產(JPG或PNG)。 _[!UICONTROL Powered by Adobe Express]_&#x200B;畫布提供便利的功能，讓您在不離開GenStudio應用程式的情況下增強影像。 您可以輕鬆移除背景、套用產生式填色、調整效果和裁切影像。
 
-1. 在&#x200B;_[!DNL Content]_中，選取影像資產。 按一下資產可開啟資產聚焦檢視。
+1. 在&#x200B;_[!DNL Content]_&#x200B;中，選取影像資產。 按一下資產可開啟資產聚焦檢視。
 
 1. 在資產檢視中，按一下右上角的&#x200B;**[!UICONTROL 在Adobe Express中編輯]**&#x200B;圖示。
 
@@ -44,7 +44,7 @@ Adobe GenStudio for Performance Marketing會以豐富的中繼資料儲存已核
 
 1. 當您對更新的影像感到滿意時，請按一下右上角的&#x200B;**[!UICONTROL 儲存復本]**。
 
-1. 選取檔案格式(JPG或PNG)，然後按一下「儲存副本」****。
+1. 選取檔案格式(JPG或PNG)，然後按一下「儲存副本」**&#x200B;**。
 
 1. 在&#x200B;_[!UICONTROL 儲存資產]_&#x200B;快顯視窗中，更新&#x200B;**[!UICONTROL 資產名稱]**。
 
